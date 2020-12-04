@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>2553 - Washington's Tent and Camp Outfit</dcterms:title>
+   <dcterms:creator>Centennial Photographic Company</dcterms:creator>
+   <dcterms:contributor>Wilson, Edward L.</dcterms:contributor>
+   <dcterms:contributor>Adams, W. Irving</dcterms:contributor>
+   <dcterms:publisher>Centennial Photographic Company</dcterms:publisher>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:description>Stereoscopic view of exhibition of Washington's Revolutionary War tent, uniform, and camp gear on display at the 1876 International Centennial Exhibition in Philadelphia, Pennsylvania. Mounted on tan board. Publisher's imprint on the front of the card reads: Centennial Photographic Co., Philad'a, International Exhibition, 1876. Sold by Philadelphia proprietors, Edward L. Wilson and W. Irving Adams.</dcterms:description>
+   <dcterms:subject>Pennsylvania</dcterms:subject>
+   <dcterms:subject>Exhibitions</dcterms:subject>
+   <dcterms:subject>Centennial Exhibition (1876 : Philadelphia, Pa.)</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_000046</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/69</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=69</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>
