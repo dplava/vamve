@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The Home of Washington Illustrated. Mansion, East Front</dcterms:title>
+   <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
+   <dcterms:publisher>Mount Vernon Ladies' Association of the Union</dcterms:publisher>
+   <dcterms:created>1867/1875</dcterms:created>
+   <dcterms:description>Stereograph from series (40 views), The home of Washington Illustrated, photographed by Gardner, 921 Penna. Avenue, Washington, D. C. for the Ladies' Mount Vernon Association. View of the east front of the Mount Vernon Mansion. Typically, there is a line or dash marked next to the specific numbered view on the printed list on the reverse. In this case, there is no indicator. Photograph would be either No. 17, 18 or 19.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_002546</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection. Purchase, 2019.</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/331</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=331</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>

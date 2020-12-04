@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Butler's House. Mount Vernon</dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:contributor>Mount Vernon Ladies' Association of the Union</dcterms:contributor>
+   <dcterms:publisher>Dillon, Luke C., 1836-1904</dcterms:publisher>
+   <dcterms:created>1884/1894</dcterms:created>
+   <dcterms:description>Stereoscopic view of the circle storehouse formerly called the Butler's House looking down the south lane. Mounted on orange board. The full title printed on the reverse reads, 'Butler's House, Mount Vernon, Showing, near the Butler's House, and fenced around, the celebrated Magnolia Tree, planted by Washington in the year of his death, 1799. The leaves of this tree have been taken as mementoes to every part of the civilized globe.'</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_002587</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/391</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=391</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>
