@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Mount Vernon. [Tomb]</dcterms:title>
+   <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
+   <dcterms:publisher>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:publisher>
+   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. The roof of the stable can be seen in the distance. Mounted on yellow board. Photographer's imprint on the front of the card reads: J. F. Jarvis, Publisher &amp; Dealer Stereoscopic Views. No. 135 Penna. Avenue, Washington [remainder of text is covered by photograph]. A label affixed to the reverse reads: MOUNT VERNON. Once the home now the resting place of the immortal Washington. The Tomb contains the remains of Washington and his wife, Martha. The Mansion contains many historical relics among which may be mentioned the Key of the Bastille, presented by Lafayette, portions of the military and personal furniture of General Washington, &amp;c. No._ J. F. Jarvis, Photo.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:subject>Tomb</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003364</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/798</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=798</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>

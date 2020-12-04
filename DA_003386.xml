@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>32778 The Site of Ft. LeBoeuf Where Washington Delivered Governor Dinwiddie's Message to the French, Waterford, Penna.</dcterms:title>
+   <dcterms:publisher>Keystone View Company</dcterms:publisher>
+   <dcterms:description>Stereoscopic view of a statue of George Washington delivering Governor Dinwiddie's message to the French. Monument was erected in 1922 by the citizens of Waterford, Pennsylvania. Only known sculpture of Washington in British uniform. Mounted on gray board. Publisher's imprint on the front of the cardboard mount read: Keystone View Company Manufactures, Publishers, Copyrighted Made in the U. S. A. Meadville, Pa., New York, N. Y., Chicago, Ill. London, England. Title - 32778 The Site of LeBoeuf Where Washington Delivered Governor Dinwiddie's Message to the French, Waterford, Penna. [Part of a series] 4.</dcterms:description>
+   <dcterms:subject>Waterford (Pa. : Township)</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003386</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/882</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=882</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>

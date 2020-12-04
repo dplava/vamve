@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Washington City Views. No. 2748. Tomb of the Mother of Washington.</dcterms:title>
+   <dcterms:publisher>E. &amp; H.T. Anthony (Firm)</dcterms:publisher>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:description>Stereoscopic view of the tomb of Mary Ball Washington, mother of George Washington, in Fredericksburg, Virginia. A male figures pays his respects. Mounted on yellow board. A label adhered to the reverse reads: Washington City Views. No. 2748. Tomb of the Mother of Washington. Published by E. &amp; H. T. Anthony &amp; CO., Emporium of American and Foreign Stereoscopic Views, Chromos and Albums, 591 Broadway, opposite Metropolitan Hotel, New York.</dcterms:description>
+   <dcterms:subject>Fredericksburg (Va.)</dcterms:subject>
+   <dcterms:subject>Washington, Mary Ball, 1708-1789</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003382</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/822</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=822</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>
