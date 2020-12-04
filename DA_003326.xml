@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>General Washington's Old Stable and Carriage House at Mount Vernon</dcterms:title>
+   <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
+   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
+   <dcterms:publisher>N. G. Johnson, Photographer, 426 7th St., Washington D. C. Only authorized Publisher of Mount Vernon Views.</dcterms:publisher>
+   <dcterms:created>1878/1883</dcterms:created>
+   <dcterms:description>Stereoscopic view of stable at Mount Vernon. Mounted on yellow board. The photographer's imprint on the stereograph mount reads, N. G. Johnson, Photographer, 309 9th Street, Washington, D. C. Only Authorized Publisher of Mount Vernon Views. The reverse of the stereograph has an adhered printed label - General Washington's Old Stable and Carriage House at Mount Vernon, Built in 1745 by Lawrence Washington, of brick imported from England, and notable for its peculiar style of architecture and commodious dimensions. N. G. Johnson, Photographer, 426 7th St., Washington D. C. Only authorized Publisher of Mount Vernon Views.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:subject>Stable</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003326</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/708</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=708</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>

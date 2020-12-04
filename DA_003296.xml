@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Washington Monument, Richmond, Va.</dcterms:title>
+   <dcterms:contributor>Crawford, Thomas, 1813 or 1814-1857 (sculptor)</dcterms:contributor>
+   <dcterms:publisher>Selden &amp; Co.</dcterms:publisher>
+   <dcterms:description>Stereoscopic view of equestrian statue of George Washington by Thomas Crawford in Capitol Square, Richmond, Virginia. Crawford was commissioned by the state of Virginia in 1849. Figures at the base are Thomas Jefferson, John Marshall, Meriwether Lewis, Patrick Henry, George Mason and William Nelson. Mounted on yellow board. Part of a series titled, Stereoscopic Views in Richmond and Vicinity, No. 916. Selden &amp; Co. Publishers of Photograph &amp; Stereoscopic Views, Dealers in Photograph Albums, Cartes de Visite, Stereoscopes, Stationery, Fancy Articles, &amp;c., No. 918 Main Street, 3d door from cor. 10th, Richmond, Va. Duplicate copies of this Picture mailed free on receipt of $4.00 per doz.</dcterms:description>
+   <dcterms:subject>Capitol Square (Richmond, Va.)</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003296</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/601</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=601</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>
