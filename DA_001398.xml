@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Tomb of Washington</dcterms:title>
+   <dcterms:creator>Photographer unknown</dcterms:creator>
+   <dcterms:contributor>Rice, Moses P. (Parker), 1839-1925</dcterms:contributor>
+   <dcterms:publisher>Rice, Moses P. (Parker), 1839-1925</dcterms:publisher>
+   <dcterms:created>1861/1890</dcterms:created>
+   <dcterms:description>Stereoscopic view of Washinton's tomb at Mount Vernon. Stereograph shows wooden plank walkway, two obelisks and several people. A man looks into the vault and an African American woman stands next to him. A young African American boy leans against the metal railing surrounding one of the obelisks. Photograph likely taken in 1858 - see glass negative [R-221</dcterms:description>
+   <dcterms:description>EV-1007d] which includes the same man and young boy. Rice immigrates to the U.S. (from Nova Scotia) and arrives in D. C. in 1861 so stereograph was published at a later date. Mounted on yellow board. A label affixed to the back of the cardboard mount includes a handwritten title 'Tomb of Washington' with the remainder of the label preprinted with - Rice's Stereoscopic Views In and Around the Captiol. Published by M. P. Rice, Stereoscopic Emporium, No. 520 Pennsylvania Avenue, Washington D. C.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Tomb</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_001398</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/208</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=208</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>

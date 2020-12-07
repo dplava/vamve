@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Revolutionary Memorials</dcterms:title>
+   <dcterms:creator>Jones, Geo. H.</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:publisher>Revolutionary Memorials, published by Geo. H. Jones, Photographer, Post Office Address, Box 347. Ispwich, Mass.</dcterms:publisher>
+   <dcterms:created>1874</dcterms:created>
+   <dcterms:description>Stereoscopic view of a displayed George Washington manuscript. Washington is writing to Colonel Nathaniel Wade on 26 September 1780 regarding supplies to West Point. Mounted on yellow board. Printed on the front of mount: Entered according to act of Congress in the year 1874, by Geo. H. Jones, in the office of the Librarian of Congress, at Washington. The reverse reads: Revolutionary Memorials, published by Geo. H. Jones, Photographer, Post Office Address, Box 347. Ispwich, Mass. Orders by mail receive prompt attention.</dcterms:description>
+   <dcterms:subject>Revolutionary War</dcterms:subject>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:medium>photograph</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003317</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/664</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=664</edm:preview>
+   <dcterms:provenance>.</dcterms:provenance>
+</mdRecord>
