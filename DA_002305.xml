@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Martha Washington, Philadelphia, to Frances Bassett Washington, 1794 November 22 </dcterms:title>
+   <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:created>1794-11-22</dcterms:created>
+   <dcterms:description>Martha Washington writes from Philadelphia to her niece Fanny (Frances Bassett Washington) regarding chocolate and shoes for Maria--poor condition of schools--Carter Harrison and family. Autograph letter signed, 2 pages, includes partial seal. </dcterms:description>
+   <dcterms:subject>Lear, Frances Bassett Washington</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002305</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/105</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=105</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

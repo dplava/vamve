@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Diary, 1791</dcterms:title>
+   <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:created>1791</dcterms:created>
+   <dcterms:description>Martha Washington used the 1791 Bailey's Pocket Almanac as a diary. Only two entries were made. The first in January on page 3, where she noted dance lesson being given to children by Mr. Robardot.  The second annotation is made on March 22, page 6, referencing Nelly Custis being taught drawing and French by tutor, Mr. Pines. Autograph document, 2 holograph emendations.</dcterms:description>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0038</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/77</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=77</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

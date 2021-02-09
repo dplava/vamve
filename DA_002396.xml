@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Recipe for great cake, undated</dcterms:title>
+   <dcterms:creator>Peter, Martha Parke Custis, 1777-1854</dcterms:creator>
+   <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
+   <dcterms:description>&amp;quot;Written by Martha Parke Custis Peter (Patsy) for Martha Washington, at Mount Vernon. Martha Washington’s Great Cake recipe yields a massive cake requiring forty eggs, four pounds of butter and five pounds of flour, plus fruits and spices.  Its large dimensions made it perfect for serving the many family and visitors who flocked to Mount Vernon during the holiday season. Autograph document, fragment, 1 page, laminated, watermark (P.E.).  Name on original manuscript appears as &amp;quot;&amp;quot;Martha Custis&amp;quot;&amp;quot;. Note the penciled accession number at the top left is incorrect - it should read W-570.&amp;quot; </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002396</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/106</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=106</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
