@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Memorandum and sketch, greenhouse and quarters, 1785</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:created>1785</dcterms:created>
+   <dcterms:description>Memorandum notes that Quarters to be 16' wide; half of that with 4' projection sufficient width for greenhouse; chimneys and where to place them; in front part of greenhouse need 2 tiers of windows; windows close together; chimneys in quarters; front of quarters might be wood with brick underpinning--center or greenhouse part all brick to the eves; rafters same angle; describes how to place windows in greenhouse. Autograph document, silked, 2 pages.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA. : Estate)</dcterms:subject>
+   <dcterms:subject>Greenhouse slave quarters</dcterms:subject>
+   <dcterms:medium>Architectural plan</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DI-1174</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll21/id/31</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll21&amp;CISOPTR=31</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

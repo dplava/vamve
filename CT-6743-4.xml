@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Survey, Fairfax County, 1770</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:created>1770</dcterms:created>
+   <dcterms:description>Partial map of Fairfax County (Va.) drawn by George Washington.  The northern most portion of the map includes Washington's River Farm and Mount Vernon. The plat continues along the Potomac River as far south as Colchester. Marked property borders of land tracts are indicated with the owner's name and sometimes include acreage. Roadways and several structures are drawn on the plat representing Belvoir mansion and a 'Church,' as well as, homes on lands owned by McCarty and the glebe house on Truro Parish glebe lands. Docketed on reverse in Washington's hand: "Plats of Sundry Tracts of Land Belonging &amp; Adjoining those of George Washington Fairfax County." Dimensions: 18 in. x 22 in. (45.75 cm. x 55.88 cm)</dcterms:description>
+   <dcterms:subject>Fairfax County (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Manuscript--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Land survey</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>CT-6743-4</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll21/id/14</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll21&amp;CISOPTR=14</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
