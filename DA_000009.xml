@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Overseer's Account Book, 1785-1798</dcterms:title>
+   <dcterms:created>1785</dcterms:created>
+   <dcterms:created>1786</dcterms:created>
+   <dcterms:created>1787</dcterms:created>
+   <dcterms:created>1788</dcterms:created>
+   <dcterms:created>1789</dcterms:created>
+   <dcterms:created>1790</dcterms:created>
+   <dcterms:created>1791</dcterms:created>
+   <dcterms:created>1792</dcterms:created>
+   <dcterms:created>1793</dcterms:created>
+   <dcterms:created>1794</dcterms:created>
+   <dcterms:created>1795</dcterms:created>
+   <dcterms:created>1796</dcterms:created>
+   <dcterms:created>1797</dcterms:created>
+   <dcterms:created>1798</dcterms:created>
+   <dcterms:description>List of Negroes on the several plantations and clothing alloted to them each year--inventory of cattle, Nov. 15, 1785--accounts with the several plantations--accounts with shoemakers, overseers, bricklayers, G. A. Washington, Tobias Lear, etc.--Memorandum Book for the year 1798. The account book is made up of 216 pages and 108 leaves, with several pp. of index and blank pages, silked, bound in vellum, watermarks (woman holding staff and motto Pro Patria) incomplete.</dcterms:description>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000009</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll11/id/325</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll11&amp;CISOPTR=325</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

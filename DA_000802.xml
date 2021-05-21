@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Anthony Whiting to George Washington, 1793 January 16</dcterms:title>
+   <dcterms:creator>Whitting, Anthony, -1793</dcterms:creator>
+   <dcterms:created>1793-01-16</dcterms:created>
+   <dcterms:description>Washington's farm manager reports the bad conduct of Thos. Green, carpenter -- will not use delegated authority concerning Green, because realizes he is necessary -- good men are hard to come by -- suggests an addition of carpenters, or estate will be a long time in improving -- mentions all the buildings that need to be built or repaired -- wishes farms to look neat -- will put up fences and gates -- suggests moving post and rail fence at Dogue Run to make meadow correspond to fields -- new corn house going up at River farm -- will move Rich's house to Muddy Hole, for David's house likely to be blown down by high wind -- engaged planks and scantling for [Dogue Run] barn from Mr. Kenzie -- Green keeps sawyers about the corn house -- poor Maj. Washington cannot recover, but he doesn't consider himself fatally ill -- G.A. Washington desires him to continue building on his house -- has treated Whitting like a brother -- will keep carpenters on G.A. Washington's house until they run out of work and he will order no more scantling -- has planted hedges of honey locust, French furz, and cedar berries, but sheep eat them -- need nettle fences on each side of hedge to enable it to grow -- hedges must be given much care to grow -- advises English thorn imported for live fences and estimates cost -- Lombardy and weeping willow cuttings planted about the Mansion house fences -- River plantation will be hard to fence -- Mr. Stuart advises water fences there -- a batteau is needed for this -- should it be built in Alexandria or by one of carpenters? -- Mr. Butler and he can carry on the hedging and fencing, including the night work -- grubbing proceeds to line of locust trees below Vineyard -- will make it a year of fencing -- little wool to spin -- spinning sewing thread and candlewick of tow -- Caroline unwell -- bled her -- trouble with Charlotte -- whipped and refuses to work -- claims she hasn't been whipped for 14 years -- will try to make seine twine -- deer destroying trees at mansion house, especially mulberry -- ice house not filled -- Dr. Stuart and young man managing Custis estates take plough to White House to use as pattern -- Mr. Ring present manager -- shorts from mill can be ground over as ship stuff or fed to cattle -- high price of flour in Alexandria. Autograph letter signed, laminated, docketed by George Washington, watermarks (S. Lay, &amp; crown over heraldic device). | Name on original manuscript appears as "A. Whitting". | Papers of George Washington - Reel#2</dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000802</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll11/id/177</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll11&amp;CISOPTR=177</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
