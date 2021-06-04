@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Henry P. Hill to John Augustine Washington III, 1845 August 19</dcterms:title>
+   <dcterms:creator>Hill, Henry P., active 1843-1845</dcterms:creator>
+   <dcterms:contributor>Washington, John Augustine, 1821-1861</dcterms:contributor>
+   <dcterms:created>1845-08-19</dcterms:created>
+   <dcterms:description>Letter from Alexandria slave dealer Henry P. Hill of the firm Bruin &amp; Hill writing to John Augustine Washington III about an enslaved man named Gabriel who has escaped from Mount Vernon and is being held at Bruin's Slave Jail. Hill writes, "your man Gabriel by strict measurement is five feet five &amp; a half inches... He is likely and a very good man of his stature &amp; if you are offered more than we priced him at I think if you will excuse a stranger for the expression of his opinion in all candour, that you will certainly do well to take the offer." Hill says he is willing to arrange a sale or exchage with Washington, adding that there are only sixteen men at the jail at the time, but he expects "Sir Bruin may send in or bring others when he comes." Bruin's Slave Jail was famously featured in Harriet Beecher Stowe's 'Uncle Tom's Cabin'. Autograph letter signed, 1 page.</dcterms:description>
+   <dcterms:subject>Slavery</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000434</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/662</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=662</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

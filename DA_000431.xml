@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>List of property taken by Federal Forces from the Mount Vernon Farm of John Augustine Washington III, 1861 June 8</dcterms:title>
+   <dcterms:created>1861-06-08</dcterms:created>
+   <dcterms:description>A list of property, including enslaved persons, reported to be taken by the 16th New York Regiment from John Augustine Washington III's farm near Mount Vernon. Although John Augustine sold the Mount Vernon mansion and grounds to the Mount Vernon Ladies Association in 1858, he retained property in the surrounding area. The list of slaves includes Jim Mitchell and Edmund Parker, who were later employed by the Mount Vernon Ladies Association, and Gabriel Johnson, who had escaped in 1845 and been held at Bruin's Slave Jail. A note and blind stamp on the fourth page indicate the list was received by R.H. Donavan of the Fauquier County Court on 19 April 1889.</dcterms:description>
+   <dcterms:subject>Slavery</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000431</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/658</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=658</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
