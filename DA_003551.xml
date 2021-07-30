@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Indenture between Britannia W. Peter Kennon and her grandsons regarding Mount Vernon heirlooms at Tudor Place  , 1907 October 9</dcterms:title>
+   <dcterms:creator>Kennon, Britannia Wellington Peter, 1815-1911</dcterms:creator>
+   <dcterms:contributor>Peter, Walter G. (Walter Gibson), 1868-1945</dcterms:contributor>
+   <dcterms:contributor>Peter, Armistead, 1870-1960</dcterms:contributor>
+   <dcterms:contributor>Peter, George Freeland, 1875–1953</dcterms:contributor>
+   <dcterms:created>1907-10-09</dcterms:created>
+   <dcterms:description>Indenture made between Britannia Wellington Kennon, party of the first part, and Walter Gibson Peter, Armistead Peter Jr., and George Freeland Peter, parties of the second part, all of the District of Columbia, regarding relics and heirlooms at Tudor Place acquired by Britannia W. Peter Kennon from her mother Martha Custis Peter grand-daughter of Martha the wife of George Washington, known in the family as "The Mount Vernon Heirlooms." Other relics are from the estates of Thomas Peter and Beverley Kennon. Britannia wishes that these relics be preserved by her descendants and that none of them be sold or disposed of. These include pictures, miniatures, engravings, glass, china, silver, jewelry, furniture, needlework, and other relics, including a sago palm formerly belonging to Martha Parke Custis Peter. The relics and heirlooms are to be divided into five parts after Britannia's death and delivered to her grandchildren. Autograph document, 7 pages. </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003551</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/88</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=88</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, unsigned [Walter Gibson Peter] to unknown recipient, 1862 October 12 </dcterms:title>
+   <dcterms:creator>Peter, Walter Gibson, 1842-1863</dcterms:creator>
+   <dcterms:created>1862-10-12</dcterms:created>
+   <dcterms:description>Walter Gibson Peter writes from Lynchburg Virginia to an unknown recipient, likely his sister. A continuation from a previous letter. Recounts time served in Civil War, writes about Orton Williams, his retreat west and south with the Confederate army through Kentucky, Tennessee and down to Tupelo, Mississippi, falls ill on several occasions, takes a sick furlough and is treated in a private residence, later contracts typhoid fever. Mentions General Polk and General Bragg and the Battle of Shiloh. Autograph letter unsigned, 4 pages. </dcterms:description>
+   <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003553</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/98</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=98</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

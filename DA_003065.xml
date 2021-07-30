@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Thomas Law to John Law, 1804 September 4</dcterms:title>
+   <dcterms:creator>Law, Thomas, 1756-1834</dcterms:creator>
+   <dcterms:contributor>Law, John, 1784?-1822</dcterms:contributor>
+   <dcterms:created>1804-09-04</dcterms:created>
+   <dcterms:description>Thomas Law writes to his son John Law discussing his separation from wife Eliza Parke Custis Law, includes the Latin phrase -' quicquid corrigere est nefas levius fit patientia'; encourages John to take an oath of allegiance to America; dismayed by the conflict between Great Britain and France; spent time at Bath [Berkeley Springs] to ease his ill health; stayed with Gov. Lee [Thomas Sims Lee] near Harpers Ferry; speaks highly of Lee's son; encourages John to avoid the 'thoughtless simpletons' of his generation. Autograph letter signed, 3 pages, integral address panel. Partial loss from wax seal. </dcterms:description>
+   <dcterms:subject>Law, Elizabeth Parke Custis, 1776-1831</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003065</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/56</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=56</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

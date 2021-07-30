@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Account, Martha Washington with MacLeod &amp; Lumsdon for sundries, 1800 February 18 </dcterms:title>
+   <dcterms:creator>Macleod &amp; Lumsdon</dcterms:creator>
+   <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
+   <dcterms:created>1800-02-18</dcterms:created>
+   <dcterms:description>List of items purchased by Martha Washington from Macleod &amp; Lumsdon, dated at the top 18 February 1800, Alexandria. The accounts, dated 8 July and 9 August, include entries for 47 panes of glass, oil, paint for 30 mahoghany chairs, paint for a wine cooler, varnishing, picture frame gilding, and glazing. Signed by Macleod &amp; Lumdsdon at the bottom, noting that the above money was received in full 9 October 1800. Autograph document signed, 1 page. </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003049</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/48</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=48</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

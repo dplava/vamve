@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Receipt, Wages paid to George Smith for hire as smith at Mount Vernon, 1803 January 12</dcterms:title>
+   <dcterms:creator>Peter, Thomas, 1769-1834</dcterms:creator>
+   <dcterms:contributor>Lewis, Lawrence, 1767-1839</dcterms:contributor>
+   <dcterms:created>1803-01-12</dcterms:created>
+   <dcterms:description>Payment of $50 received by George Smith of Woodlawn from Thomas Peter on 12 January 1803 for hire as a blacksmith at Mount Vernon in the year 1802. Signed by George Smith (his mark) and Lawrence Lewis. George Smith was one of George Washington's slaves who was freed after Washington's death. His wife, Lydia, was one of Martha Washington's dower slaves and was inherited by Nelly Parke Custis Lewis of Woodlawn.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-1170</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/35</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=35</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

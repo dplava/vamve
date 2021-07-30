@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Walter Gibson Peter to unknown recipient, possibly 1862 </dcterms:title>
+   <dcterms:creator>Peter, Walter Gibson, 1842-1863</dcterms:creator>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:description>Writes while serving in the Civil War including descriptions of several horses, difficulty with his vision, mentions the battle of Munfordsville, speaks of  'the little sweet creature [unnamed] I am going to marry some of these days.'  Trying to get the badge of honor but states, 'I have too much respect and feeling for my own person to allow a Yank to put a hole through me for any badge.' Mentions Orton [Williams] sends his best love. Signed 'Your ever devoted brother, Walter G. Peter.' Autograph letter signed, 3 pages. </dcterms:description>
+   <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003552</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/94</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=94</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

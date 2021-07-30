@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Eleanor Stuart to Tobias Lear, 1790 October 3 </dcterms:title>
+   <dcterms:creator>Stuart, Eleanor Calvert Custis, approximately 1758-1811</dcterms:creator>
+   <dcterms:contributor>Lear, Tobias, 1762-1816</dcterms:contributor>
+   <dcterms:created>1790-10-03</dcterms:created>
+   <dcterms:description>Eleanor Calvert Custis Stuart writes from Mount Vernon to Tobias Lear in New York. Received news from the President--lottery and her family, noting that "My Dear Nelly &amp; Wash. are still spoilt by Grand Mama but chearfully obey every word I say to them"--desires to travel to New York and Boston. Autograph letter signed, 3 pages, with integral free franked address panel.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003549</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/72</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=72</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
