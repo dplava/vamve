@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Castle William : A view of New Castle with the Fort and light house on the entrance of the Pisquataqua River</dcterms:title>
+   <dcterms:creator>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824</dcterms:creator>
+   <dcterms:created>1780</dcterms:created>
+   <dcterms:place>Piscataqua River, New Hampshire</dcterms:place>
+   <dcterms:place>New Castle, Massachusetts</dcterms:place>
+   <dcterms:subject>Castle Island (Mass.)--Pictorial works--Early works to 1800</dcterms:subject>
+   <dcterms:subject>New Castle (N.H.)--Pictorial works--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Piscataqua River (N.H. and Me.)--Pictorial works--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_009287</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/107</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=107</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
