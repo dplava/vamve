@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Carte du théatre de la guerre dans l'Amérique Septentrionale, pendant les années 1775, 76, 77, et 78 : où se trouvent les principaux camps avec les différentes places et epoques des batailles qui se sont données pendant ces campagnes</dcterms:title>
+   <dcterms:creator>Capitaine du Chesnoy, Michel, 1746-1804</dcterms:creator>
+   <dcterms:publisher>Perrier, fl. 1760-1824</dcterms:publisher>
+   <dcterms:publisher>Fortin, J. (Jean), 1740-1817</dcterms:publisher>
+   <dcterms:created>1778</dcterms:created>
+   <dcterms:place>Northeastern United States</dcterms:place>
+   <dcterms:subject>Northeastern States--History--18th century--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_009578</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/94</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=94</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

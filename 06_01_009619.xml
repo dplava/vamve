@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>A map of the most inhabited part of New England : containing the provinces of Massachusets Bay and New Hampshire, with the colonies of Conecticut and Rhode Island, divided into counties and townships : the whole composed from actual surveys and its situation adjusted by astronomical observations</dcterms:title>
+   <dcterms:creator>Jefferys, Thomas, -1771</dcterms:creator>
+   <dcterms:contributor>Green, John, -1757</dcterms:contributor>
+   <dcterms:created>1774</dcterms:created>
+   <dcterms:description>This large, detailed map of New England was compiled by Braddock Mead (alias John Green), and first published by Thomas Jefferys in 1755. Green was an Irish translator, geographer, and editor, as well as one of the most talented British map-makers at mid-century. The map was re-published at the outset of the American Revolution, as it remained the most accurate and detailed survey of New England. Of interest are engraved double lines found beneath certain place-names, including Boston. These lines indicate cities whose longitude had been calculated with the aid of the newly invented marine chronometer.</dcterms:description>
+   <dcterms:place>New England</dcterms:place>
+   <dcterms:subject>New England--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_009619</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/289</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=289</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
