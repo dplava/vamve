@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Allgemeine charte von Nord America als den sitz des krieges zwischen den Konigl. Engl. truppen u:den provinzialen</dcterms:title>
+   <dcterms:creator>Pingeling, T. A. (Thomas Albrecht), 1727-1803</dcterms:creator>
+   <dcterms:contributor>Ritter, F. C.</dcterms:contributor>
+   <dcterms:created>1776</dcterms:created>
+   <dcterms:description>The map displayed here is an unrecorded version of a German broadside known only at the Library of Congress. This state is unique in that it was sold by a different person, and there are differences in the text portion of the broadside. It is a variant state of LC Maps of North America, 1750-1789, 142.</dcterms:description>
+   <dcterms:place>North America</dcterms:place>
+   <dcterms:subject>North America--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_008240</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>German</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/245</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=245</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

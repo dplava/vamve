@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The seat of action, between the British and American forces : or an authentic plan of the western part of Long Island, with the engagement of the 27th August 1776 between the King's forces and the Americans : containing also Staten Island, and the environs of Amboy and New York, with the course of Hudsons River, from Courtland the great magazine of the American Army, to Sandy Hook</dcterms:title>
+   <dcterms:creator>Holland, Samuel, 1728-1801</dcterms:creator>
+   <dcterms:contributor>Robert Sayer and John Bennett (Firm)</dcterms:contributor>
+   <dcterms:created>1776</dcterms:created>
+   <dcterms:description>The map displayed here was printed as a separate issue, as it contained recent information regarding the the British campaign to take New York City. Printed as a broadside, the information could be transmitted in a timely manner - in this case, two months after the events depicted on the map. After an embarrassing defeat at Bunker Hill in Charlestown, MA, Britain was eager to transmit the news of this victory in New York in November 1776 to an eager audience back in England.</dcterms:description>
+   <dcterms:place>Middle Atlantic</dcterms:place>
+   <dcterms:place>Staten Island, New York</dcterms:place>
+   <dcterms:subject>Long Island, Battle of, New York, N.Y., 1776--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Middle Atlantic States--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Long Island (N.Y.)--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Staten Island (New York, N.Y.)--History--18th century--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_008237</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/229</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=229</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

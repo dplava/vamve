@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The operations of His Majesty's squadron in the Bay of Honduras, under the command of the Hon. John Luttrell from the 15th of September to the 24th of October 1779</dcterms:title>
+   <dcterms:contributor>Robert Sayer and John Bennett (Firm)</dcterms:contributor>
+   <dcterms:created>1780</dcterms:created>
+   <dcterms:place>Omoa, Cortés, Honduras</dcterms:place>
+   <dcterms:place>Honduras, Gulf of</dcterms:place>
+   <dcterms:subject>Fortaleza de San Fernando (Omoa, Cortés, Honduras)--History--Revolution, 1775-1783--Maps--Early works to 1800--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Honduras, Gulf of--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_008238</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/275</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=275</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

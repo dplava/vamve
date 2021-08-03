@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Plan de la ville et du port de Boston : capitale de la Nouvelle Angleterre</dcterms:title>
+   <dcterms:creator>Lattré, Jean</dcterms:creator>
+   <dcterms:created>1764?</dcterms:created>
+   <dcterms:description>Displayed here is the first state of Lattre's plan of Boston. The plan here was also separately issued. Describing Boston in the years before the American Revolutionary war, the plan includes information on shoals, soundings in the harbor, and the surrounding countryside. Lattre was the Royal Engraver to Louis XVI from 1776 to 1782, and is most famous for his "Carte des Etats-Unis ...," also in the Richard H. Brown collection.</dcterms:description>
+   <dcterms:place>Boston, Massachusetts</dcterms:place>
+   <dcterms:subject>Boston (Mass.)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_008268</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>French</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/39</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=39</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
