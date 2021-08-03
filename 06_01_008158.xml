@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>A map of the inhabited part of Canada from the French surveys : with the frontiers of New York and New England from the large survey by Claude Joseph Sauthier</dcterms:title>
+   <dcterms:creator>Faden, William, 1749-1836</dcterms:creator>
+   <dcterms:contributor>Sauthier, Claude Joseph</dcterms:contributor>
+   <dcterms:created>1777</dcterms:created>
+   <dcterms:place>Quebec, Canada</dcterms:place>
+   <dcterms:place>New York, United States</dcterms:place>
+   <dcterms:place>Vermont, United States</dcterms:place>
+   <dcterms:subject>Canada--Boundaries--United States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>United States--Boundaries--Canada--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Québec (Province)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>New York (State)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Vermont--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_008158</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/49</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=49</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
