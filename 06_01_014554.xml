@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Carte generale des colonies angloises dans l'Amerique Septentrionale pour l'intelligence de la guerre presente : d'apres des manuscrit anglais par J.B. Nolin geographe : corrigé, augmenté des indications des principaux évenemens de la guerre avec le tracee des limites pour constituer le traité de paix proposé entre la Couronne de la Grande Bretagne et les Etats Unis</dcterms:title>
+   <dcterms:creator>Phelipeau, René, active 1748-1784</dcterms:creator>
+   <dcterms:publisher>Denis, Louis, 1725-1794</dcterms:publisher>
+   <dcterms:publisher>Nolin, Jean Baptiste, 1686-1762</dcterms:publisher>
+   <dcterms:publisher>Basset (Firm)</dcterms:publisher>
+   <dcterms:created>1783</dcterms:created>
+   <dcterms:description>Shows the boundaries established by the preliminary Treaty of Peace, signed 30 November 1782, and published prior to the signing of the formal Treaty on 3 September 1783. Includes a detailed plan of the Siege of Yorktown.</dcterms:description>
+   <dcterms:place>Yorktown, Virginia</dcterms:place>
+   <dcterms:subject>Indians of North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>United States--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Yorktown (Va.)--History--Siege, 1781--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:medium>Maps</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>06_01_014554</dcterms:identifier>
+   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
+   <dcterms:language>French</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/33</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll42&amp;CISOPTR=33</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
