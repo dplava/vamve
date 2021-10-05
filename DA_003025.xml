@@ -8,14 +8,15 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Receipt, from Susanna Lockyer to Martha Washington, 1791 September 6 </dcterms:title>
    <dcterms:creator>Lockyer, Susanna</dcterms:creator>
+   <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
    <dcterms:created>1791-09-06</dcterms:created>
    <dcterms:description>A receipt for 22 yards of mantua purchased by Martha Washington as First Lady in Philadelphia from Susanna Lockyer.  </dcterms:description>
-   <dcterms:subject>Washington, Martha, 1731-1802</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Receipts (financial records)</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_003025</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Martha Washington Collection. Purchased with funds provided by the David M. Rubenstein Endowment, 2019. </dcterms:isPartOf>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/107</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=107</edm:preview>

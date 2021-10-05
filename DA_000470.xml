@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Accounts with Pope and Cadle, 1789 April 30 - May 22</dcterms:title>
+   <dcterms:creator>Pope and Cadle</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1789-04-30</dcterms:created>
+   <dcterms:created>1789-05-01</dcterms:created>
+   <dcterms:created>1789-05-02</dcterms:created>
+   <dcterms:created>1789-05-03</dcterms:created>
+   <dcterms:created>1789-05-04</dcterms:created>
+   <dcterms:created>1789-05-05</dcterms:created>
+   <dcterms:created>1789-05-06</dcterms:created>
+   <dcterms:created>1789-05-07</dcterms:created>
+   <dcterms:created>1789-05-08</dcterms:created>
+   <dcterms:created>1789-05-09</dcterms:created>
+   <dcterms:created>1789-05-10</dcterms:created>
+   <dcterms:created>1789-05-11</dcterms:created>
+   <dcterms:created>1789-05-12</dcterms:created>
+   <dcterms:created>1789-05-13</dcterms:created>
+   <dcterms:created>1789-05-14</dcterms:created>
+   <dcterms:created>1789-05-15</dcterms:created>
+   <dcterms:created>1789-05-16</dcterms:created>
+   <dcterms:created>1789-05-17</dcterms:created>
+   <dcterms:created>1789-05-18</dcterms:created>
+   <dcterms:created>1789-05-19</dcterms:created>
+   <dcterms:created>1789-05-20</dcterms:created>
+   <dcterms:created>1789-05-21</dcterms:created>
+   <dcterms:created>1789-05-22</dcterms:created>
+   <dcterms:description>A list of accounts addressed to His Excellency Gen. Washington Esq. from the firm of Pope and Cadle, who sold lace, silk, and other hosiery at 12 William Street, New York. The document shows that on April 30, the day of his inauguration, Washington purchased 3 hat tassels. In May, he purchased 3 pairs of white silk hose and 28 yards livery lace. A note at the bottom states that one pair of hose was for Tobias Lear, who paid for them separately. It is likely that the hat tassels purchased on Inauguration Day were for Giles and Paris, enslaved men who rode and drove the horses that pulled Washington's carriage.Autograph document signed, 1p. </dcterms:description>
+   <dcterms:subject>Inauguration</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000470</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/634</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=634</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

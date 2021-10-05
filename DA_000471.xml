@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Account with Joseph Corre, 1790 April 15 - July 7</dcterms:title>
+   <dcterms:creator>Corre, Joseph</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1790-04-15</dcterms:created>
+   <dcterms:created>1790-04</dcterms:created>
+   <dcterms:created>1790-05</dcterms:created>
+   <dcterms:created>1790-06</dcterms:created>
+   <dcterms:created>1790-07</dcterms:created>
+   <dcterms:created>1790-07-07</dcterms:created>
+   <dcterms:description>One page of accounts between the President's household in New York and local confectioner Joseph Corre. Includes purchases of macaroni, bitter almonds, caraway seed, and ice cream. On April 15, the President's household purchased &amp;quot;dinner drest,&amp;quot; when John and Abigail Adams, John Jay, and Thomas Jefferson dined with him. &amp;quot;Dinner drest&amp;quot; was ordered again on April 29 when Washington dined with a group of senators. Autograph document signed, 1 page. Signed by Joseph Corre and docketed on verso. </dcterms:description>
+   <dcterms:subject>Presidents</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000471</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/637</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=637</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

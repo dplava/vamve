@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Invoice, Articles purchased by the President of the United States from Monsr. Le Prince Agent for the Count de Moustiers, 1790 March 4</dcterms:title>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:contributor>Moustier, Eléanor-François-Elie, comte de, 1751-1817</dcterms:contributor>
+   <dcterms:created>1790-03-04</dcterms:created>
+   <dcterms:description>A list of furniture, including sofas, mirrors, chairs, draperies, miscellaneous small furnishings, lamps, china (Sevres). Used in the New York house; total £665.14.6.  Document, silked, 4 pages.</dcterms:description>
+   <dcterms:subject>Furnishings</dcterms:subject>
+   <dcterms:subject>New York (N.Y.)</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799 -- Homes and haunts</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002393</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/303</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=303</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

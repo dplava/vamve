@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Bill of Lading, Fenwick, Mason and Co. to George Washington, 1789 December 16</dcterms:title>
+   <dcterms:contributor>Washington, George 1732-1799</dcterms:contributor>
+   <dcterms:contributor>Fenwick, Mason and Co.</dcterms:contributor>
+   <dcterms:created>1789-12-06</dcterms:created>
+   <dcterms:description>For "dix huit Caisses de Vin en bouteille" -- the wine was shipped aboard the vessel "Le Jean Jacques de St. Malo," captain Le Grand. Document, partly printed, with a cover docketed "From Fenwick Mason &amp; Co. Wine Merchants Bordeaux, 1789".</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Bills of sale</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>A-516.13</dcterms:identifier>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/296</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=296</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
