@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Washington's taxable accounts during the Revolutionary War, 1777-1787</dcterms:title>
+   <dcterms:creator>Cawood, Benjamin</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799 (recipient)</dcterms:contributor>
+   <dcterms:contributor>Marbury, William (agent)</dcterms:contributor>
+   <dcterms:contributor>Speake, Lawson (witness)</dcterms:contributor>
+   <dcterms:contributor>Brauner, William, Jr. (witness)</dcterms:contributor>
+   <dcterms:created>1777</dcterms:created>
+   <dcterms:created>1778</dcterms:created>
+   <dcterms:created>1779</dcterms:created>
+   <dcterms:created>1780</dcterms:created>
+   <dcterms:created>1781</dcterms:created>
+   <dcterms:created>1782</dcterms:created>
+   <dcterms:created>1783</dcterms:created>
+   <dcterms:created>1784</dcterms:created>
+   <dcterms:created>1785</dcterms:created>
+   <dcterms:created>1786</dcterms:created>
+   <dcterms:created>1787</dcterms:created>
+   <dcterms:description>In his diary on September 12, 1785, George Washington notes that "A Mr. Cawood, Sheriff of Charles County in Maryland, came here in the forenoon with an acct. of Taxes of the Land I hold in that County &amp; in Nangemy Neck." This account, titled "His Excellency Gen. George Washington in Account with Benjamin Cawood…," includes taxes owed from 1777 to 1787. Records for 1777 through 1782 are partially printed, and full payment was recorded in 1778. Taxes due for 1786 and 1787 were added by hand and on the verso William Marbury signs for receipt of their payment. Partially printed, autograph document, 1 page, note and docketed on reveres. See related documents - MS-5764 and MS-5765.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0259</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/671</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=671</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

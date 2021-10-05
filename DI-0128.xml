@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Receipt, from Adam Stephen to George Washington, 1755 January 22</dcterms:title>
+   <dcterms:creator>Stephen, Adam</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799 (recipient)</dcterms:contributor>
+   <dcterms:created>1755-01-22</dcterms:created>
+   <dcterms:description>On January 22, 1755, at the young age of 22, George Washington wrote this document to acknowledge receipt of blacksmithing tools he purchased from Adam Stephen. Titled "Sundry Smith's Tools sold to George Washington" it lists tools such as bellows, tongs, an anvil and other materials related to the craft. These were to be used at Mount Vernon, probably for repairs to the estate. The receipt demonstrates Washington's early involvement with the Mount Vernon estate, which he had begun to rent just a month earlier. The receipt is the earliest evidence in our collection of blacksmithing on the estate. Autograph document signed.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Receipts (financial records)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0128</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/681</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=681</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Summary of Pleas in case of George Washington and Bryan Fairfax vs William Savage and Thomson Mason, 1774 May 17</dcterms:title>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:contributor>Fairfax, Bryan</dcterms:contributor>
+   <dcterms:contributor>Fairfax, Baron, 1736-1782</dcterms:contributor>
+   <dcterms:contributor>Savage, William</dcterms:contributor>
+   <dcterms:contributor>Mason, Thomas</dcterms:contributor>
+   <dcterms:created>1774-05-17</dcterms:created>
+   <dcterms:description>Summary of pleas with case starting on May 18, 1772; other action taken on Feb. 22, 1774, and Mar. 23, 1774 -- final judgement given May 17, 1774-Savage ordered to pay £606.17.6. Document, laminated, watermarks (crown over GR, &amp; crown over heraldic device), docketed "Washington vs. Savage - Record". [As trustees for Mrs. William Savage (formerly Mrs. Charles Green) Washington and Fairfax were attempting to collect the money which her husband had promised in regular payments. Mason stood as security for the bond].</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0115</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/197</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=197</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

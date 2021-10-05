@@ -6,12 +6,13 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, Martha Washington, New York, to Frances Bassett Washington, 1790 March 22</dcterms:title>
+   <dcterms:title>Letter, Martha Washington to Frances Bassett Washington, 1790 March 22</dcterms:title>
    <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:contributor>Lear, Frances Bassett Washington</dcterms:contributor>
    <dcterms:created>1790-03-22</dcterms:created>
    <dcterms:description>Martha Washington's surviving correspondence includes more letters to her niece Fanny than to anyone else. In 1785, Fanny married George Washington's nephew, George Augustine Washington, and the couple resided at Mount Vernon during Washington's first term as president. A year after moving to New York, then the nation's capitol, Martha penned this brief note requesting Fanny send her a few items she left behind, including a "good impression" of her father's silver seal, a "white necklace," and "some small mother of pearl beads." To ensure their safe arrival, she instructs Fanny "you must have them directed to the President." Autograph letter signed, 1 page.</dcterms:description>
-   <dcterms:subject>Lear, Frances Bassett Washington</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DI-0254</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
