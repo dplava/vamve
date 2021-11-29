@@ -2,23 +2,23 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Mount Vernon Estate, Butler's House</dcterms:title>
-   <dcterms:created>1865/1875</dcterms:created>
-   <dcterms:description>Stereoscopic view of the 'Butler's House' or circle storehouse at the Mount Vernon estate, c. 1870. Two men are in the foreground, one is seated and the other is leaning against a hitching post. A penciled note on the verso read: "Butler's house at Mt. Vernoo, Wash. over which hangs a Magnolia tree planted by Gen. Washington. Bought by M. M. Dillon, July 1875."</dcterms:description>
-   <dcterms:subject>Outbuildings</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:title>Mount Vernon Estate, Butler's House </dcterms:title>
+   <dcterms:created>1865-1875</dcterms:created>
+   <dcterms:description>Stereoscopic view of the 'Butler's House' or circle storehouse at the Mount Vernon estate, c. 1870. Two men are in the foreground, one is seated and the other is leaning against a hitching post. A penciled note on the verso read: "Butler's house at Mt. Vernoo, Wash. over which hangs a Magnolia tree planted by Gen. Washington. Bought by M. M. Dillon, July 1875."  </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Outbuilding</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_002529</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
-   <dcterms:isPartOf>Gift of The Kiplinger Family, 2018</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/328</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=328</edm:preview>

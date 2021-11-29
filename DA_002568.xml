@@ -2,25 +2,25 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Tomb of Washington, Mt. Vernon, Va.</dcterms:title>
+   <dcterms:title>Tomb of Washington, Mt. Vernon, Va. </dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
    <dcterms:contributor>Johnson, N. G. (Newton G.)</dcterms:contributor>
    <dcterms:publisher>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:publisher>
-   <dcterms:created>1878/1883</dcterms:created>
-   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. A stamp on the reverse reads,'Fred A. Soules, 11 Phillips Ave., Hyattsville, Maryland.'</dcterms:description>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:created>1878-1883</dcterms:created>
+   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. Mounted on cream colored board. The publisher's imprint on the front of the cardboard mount reads: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C. Title - Tomb of Washington, Mt. Vernon, Va. A stamp on the reverse reads,'Fred A. Soules, 11 Phillips Ave., Hyattsville, Maryland.' </dcterms:description>
+   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_002568</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Historical Photograph Collection. Gift of Cheryl Marling, 2019.</dcterms:isPartOf>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/352</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=352</edm:preview>
