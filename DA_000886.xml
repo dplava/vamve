@@ -6,17 +6,15 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Weekly Report, from George A. Washington, 1790 March 14-20</dcterms:title>
+   <dcterms:title>Farm report, work done on the Mount Vernon farms during week 14-20 March 1790.</dcterms:title>
    <dcterms:creator>Washington, George Augustine, approximately 1759-1793</dcterms:creator>
    <dcterms:created>1790-03-20</dcterms:created>
-   <dcterms:description>Meteorological Account of the weather at Mount Vernon -- work done on each farm, giving division of labor -- work days lost by sickness -- stock increase and decrease for each farm -- work of ditchers, coopers, joiners and carpenters -- amount of grains ground at mill. Includes "lathing and shingling the shed of the Barn Yard." Autograph document, 4 pages, in hand of G.A. Washington, docketed, watermark (ILG).</dcterms:description>
+   <dcterms:description>Meteorological Account of the weather at Mount Vernon -- work done on each farm, giving division of labor -- work days lost by sickness -- stock increase and decrease for each farm -- work of ditchers, coopers, joiners and carpenters -- amount of grains ground at mill. Includes "lathing and shingling the shed of the Barn Yard." Autograph document, in hand of G.A. Washington, docketed, watermark (ILG). | Papers of George Washington - Reel#2</dcterms:description>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
-   <dcterms:medium>Reports</dcterms:medium>
    <dcterms:medium>Business records</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000886</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll11/id/34</edm:isShownAt>

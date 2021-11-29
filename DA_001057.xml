@@ -6,17 +6,15 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Document, Farm Report, 1793 February 10-16</dcterms:title>
+   <dcterms:title>Farm report, work done on the Mount Vernon farms during the week 10-16 February 1793.</dcterms:title>
    <dcterms:creator>Whitting, Anthony, -1793</dcterms:creator>
    <dcterms:created>1793-02-16</dcterms:created>
-   <dcterms:description>Meteorological account of weather at Mount Vernon -- work done on each farm, giving division of labor -- work days lost by sickness -- stock increase and decrease -- work of ditchers, and coopers -- amount of grain ground at mill -- Also, "clearing the second Vista." -- At end in hand of George Washington is an itemized account of sheep and lambs at each farm. Autograph document, in hand of Anthony Whitting, laminated, 4 pages, docketed by George Washington, watermark (SLay, &amp; crown over heraldic design).</dcterms:description>
+   <dcterms:description>Meteorological account of weather at Mount Vernon -- work done on each farm, giving division of labor -- work days lost by sickness -- stock increase and decrease -- work of ditchers, and coopers -- amount of grain ground at mill -- Also, "clearing the second Vista." -- At end in hand of George Washington is an itemized account of sheep and lambs at each farm. Autograph document, in hand of Anthony Whitting, laminated, docketed by George Washington, watermark (SLay, &amp; crown over heraldic design). | Date on original catalog card appears 1793 Feb. [16]. | Papers of George Washington - Reel#2</dcterms:description>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
-   <dcterms:medium>Reports</dcterms:medium>
    <dcterms:medium>Business records</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_001057</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll11/id/14</edm:isShownAt>
