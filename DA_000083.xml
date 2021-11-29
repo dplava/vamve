@@ -6,13 +6,13 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, Tobias Lear to “Mr. Stewart,” March 10, 1800</dcterms:title>
+   <dcterms:title>Letter, Tobias Lear to “Mr. Stewart,” 1800 March 10</dcterms:title>
    <dcterms:creator>Lear, Tobias, 1762-1816</dcterms:creator>
    <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
-   <dcterms:contributor>Stuart, Gilbert, 1755-1828</dcterms:contributor>
    <dcterms:created>1800-03-10</dcterms:created>
    <dcterms:description>Following George Washington's death Tobias Lear writes to Gilbert Stuart (misspelled as "Stewart") on Martha Washington's behalf regarding her continued interest in receiving the likenesses of her and General Washington (Athenaeum portraits) painted by the artist. Autograph letter signed, 2 pages. </dcterms:description>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000083</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>

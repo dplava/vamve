@@ -6,15 +6,18 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Division of Dower Slaves</dcterms:title>
+   <dcterms:title>Division of Dower Slaves, 1802</dcterms:title>
    <dcterms:contributor>Law, Elizabeth Parke Custis, 1776-1831</dcterms:contributor>
    <dcterms:contributor>Peter, Martha Parke Custis, 1777-1854</dcterms:contributor>
    <dcterms:contributor>Lewis, Nelly Parke Custis, 1779-1854</dcterms:contributor>
    <dcterms:contributor>Custis, George Washington Parke, 1781-1857</dcterms:contributor>
    <dcterms:created>1802</dcterms:created>
    <dcterms:description>List of division of slaves as relating to the estate of Martha Washington from a scrapbook created by the Peter family. Martha Washington’s grandchildren, the Custis heirs, made these lists including values. as they divided the Custis slaves into four equal lots after Martha Washington’s death in 1802. Frequent corrections and strikethroughs suggest that the document may be a draft. Martha had gained life rights to these enslaved people owned by the estate of her first husband, Daniel Parke Custis. They were legally bound to pass to the Custis heirs at her death.  Manuscript document, 5 pages. Some pages are split and have been stitched together in Photoshop. </dcterms:description>
+   <dcterms:subject>Washington, Martha, 1731-1802</dcterms:subject>
+   <dcterms:subject>Custis family</dcterms:subject>
    <dcterms:subject>Slaves</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Lists (document genres)</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000704</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>

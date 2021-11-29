@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Accounts of Martha Washington with William Jones, 1800 February 4 </dcterms:title>
+   <dcterms:creator>Jones, William</dcterms:creator>
+   <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
+   <dcterms:contributor>Anderson, James, 1745-1807</dcterms:contributor>
+   <dcterms:created>1800-02-04</dcterms:created>
+   <dcterms:description>A list of clothing purchased by Martha Washington from William Jones of Alexandria. Includes suits purchased for enslaved workers Daniel, Marcus, Christopher, and Frank. According to notes on the verso, payments were received from James Anderson on 12 April 1800 and 15 May 1800. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Estate</dcterms:subject>
+   <dcterms:subject>Va.)</dcterms:subject>
+   <dcterms:subject>Washington, Martha, 1731-1802</dcterms:subject>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:subject>Clothing and dress -- Purchasing</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:medium>Bills of sale</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003574</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/102</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=102</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
