@@ -2,25 +2,25 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Washington Homestead, Mt. Vernon.</dcterms:title>
    <dcterms:creator>Bell &amp; Bro. (Washington, D.C.)</dcterms:creator>
    <dcterms:publisher>Bell &amp; Bro. (Washington, D.C.)</dcterms:publisher>
    <dcterms:created>1867</dcterms:created>
-   <dcterms:description>Stereoscopic view of the west front of the Mansion by Bell &amp; Bro., 1867, showing repairs taking place with a ladder leaning up against the façade to the far right and the central pediment appears to be unpainted.</dcterms:description>
+   <dcterms:description>Stereoscopic view of the west front of the Mansion by Bell &amp; Bro., 1867, showing repairs taking place with a ladder leaning up against the façade to the far right and the central pediment appears to be unpainted. Mounted on yellow board. A label adhered to the reverse reads: Washington Homestead, Mt. Vernon. Photographed and Published by Bell &amp; Bro., 480 Penna. Ave., Washington, D. C. Entered according to an Act of Congress, A. D., 1867, by F. H. Bell, in the District Court of the District of Columbia.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>Mansion Exterior</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_002467</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
-   <dcterms:isPartOf>Purchase, 2018</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/298</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=298</edm:preview>

@@ -2,23 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Pennsylvania Room, Mt. Vernon Mansion</dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
    <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:publisher>N. G. Johnson, Photographer, 426 7th St., Washington, D.C.</dcterms:publisher>
-   <dcterms:created>1878/1883</dcterms:created>
-   <dcterms:description>Interior view of the northeast corner in the Lafayette room at Mount Vernon, circa 1878. The view includes the fireplace, a portion of the bedstead, and other furnishings. The caption on the reverse reads: Pennsylvania Room, Mt. Vernon Mansion, A guest chamber in Washington's time containing furniture used by Washington at his Headquarters at Morristown, N. J., including his writing desk. Contrary to the attribution on the reverse of the card, the slant-front writing desk was given to Mount Vernon with a history of having been owned by George Washington. There is, however, no evidence to substantiate this claim.</dcterms:description>
+   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
+   <dcterms:created>1878-1883</dcterms:created>
+   <dcterms:description>Interior view of the northeast corner in the Lafayette room at Mount Vernon, circa 1878. The view includes the fireplace, a portion of the bedstead, and other furnishings. Mounted on orange board. The publisher's imprint on the front of the stereograph mount reads: N. G. Johnson, Photographer, 309 9th St., Washington, D. C. Only Authorized Publisher of Mount Vernon Views. The label adhered on the reverse reads: Pennsylvania Room, Mt. Vernon Mansion, A guest chamber in Washington's time containing furniture used by Washington at his Headquarters at Morristown, N. J., including his writing desk. Contrary to the attribution on the reverse of the card, the slant-front writing desk was given to Mount Vernon with a history of having been owned by George Washington.  There is, however, no evidence to substantiate this claim.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>Mansion interior</dcterms:subject>
    <dcterms:subject>Lafayette room</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001007</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

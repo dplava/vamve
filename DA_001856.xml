@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>702. Mt. Vernon, Va. Gen. Washington Tomb</dcterms:title>
+   <dcterms:title>702. Mt. Vernon, Va. Gen. Washington Tomb  .</dcterms:title>
    <dcterms:creator>Ingersoll, Truman Ward, 1862-1922</dcterms:creator>
-   <dcterms:created>1898</dcterms:created>
-   <dcterms:description>Stereographic view of Washington's tomb at Mount Vernon. Edmund Parker, tomb guard, stands next to the iron gates at the entrance to the vault.</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photomechanical print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:contributor>Parker, Edmund, 1827-1898</dcterms:contributor>
+   <dcterms:created>1898 (copyright)</dcterms:created>
+   <dcterms:description>Stereographic view of Washington's tomb at Mount Vernon, color photomechanical print. Edmund Parker, tomb guard, stands next to the iron gates at the entrance to the vault. Text printed directly onto the reverse of the cardboard mount reads: No. 702. Mt. Vernon, Va., Gen. Washington's Tomb. The tomb to which Washington's remains were removed from the old family vault in 1831, stands a few hundred yards from the house, near a wooded ravine. Visitors pass it as they ascend from the wharf to the house. It is of plain brick, which, behind an iron grating, contains two sarcophagi with the remains of George Washington (1732-99) and his wife Martha (1730-1808)[correct life dates, 1731-1802]. The whole civilized world paid tribute to Washington's memory, when he had sped the scene whose sorest need of his service had vanished, but his best eulogy was the grief of the united millions, who had gradually become impressed by the beauty of a life devoted to their welfare. Washington left behind him a unity of states, too firmly compacted to perish with himself, and it is gratifying to know what popular confidence rewarded him in his declining years for all that he, "The greatest of good men, and the best of great men" had accomplished. A8723. A note ink reads: Presented by C. C. Floyd of Arlington 3/10/50.</dcterms:description>
+   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photomechanical prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001856</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
