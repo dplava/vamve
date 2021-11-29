@@ -2,19 +2,18 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>32252 Where the Father of His Country Sleeps--Tomb of Washington, Mount Vernon, Va.</dcterms:title>
+   <dcterms:title>32252 Where the Father of His Country Sleeps--Tomb of Washington, Mount Vernon, Va. </dcterms:title>
    <dcterms:publisher>Keystone View Company</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. Mounted on gray board. The publisher's imprint on the front of the cardboard mount read: Keystone View Company, Manufacturers and Publishers, Copyrighted made in the U. S. A. Meadville, Pa., New York, N. Y., Chicago, Ill., London, England. Title: 32252 Where the Father of His Country Sleeps--Tomb of Washington, Mount Vernon, Va. [Part of a series] 40. Printed directly on the reverse of the mount is short history about the tomb of George and Martha Washington. Copyright Keystone View Company.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. Mounted on gray board. The publisher's imprint on the front of the cardboard mount read: Keystone View Company, Manufacturers and Publishers, Copyrighted made in the U. S. A. Meadville, Pa., New York, N. Y., Chicago, Ill., London, England. Title: 32252 Where the Father of His Country Sleeps--Tomb of Washington, Mount Vernon, Va. [Part of a series] 40. Printed directly on the reverse of the mount is short history about the tomb of George and Martha Washington. Copyright Keystone View Company. </dcterms:description>
+   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003403</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

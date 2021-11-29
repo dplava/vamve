@@ -2,20 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Mt. Vernon. Va. Gen. Washington's Tomb.</dcterms:title>
+   <dcterms:title>Mt. Vernon. Va. Gen. Washington's Tomb.  </dcterms:title>
    <dcterms:creator>Ingersoll, Truman Ward, 1862-1922</dcterms:creator>
    <dcterms:created>1898</dcterms:created>
-   <dcterms:description>Stereoscopic view, color photomechanical print, of tomb guard Edmund Parker standing in front of Washington's tomb. Printed on cream colored mount. The card has machine cut notches on the top and bottom at the center of the card. Title printed on front of card - Mt. Vernon, Va. Gen. Washington's Tomb. Copyrighted, 1898, by T. W. Ingersoll. The reverse of the card features an alternate, unrelated photomechanical print titled - (10) "I'm so glad you're back, dear--found Mother better?" Pub. by R. R. Whiting, Cincinnati, O.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
+   <dcterms:description>Stereoscopic view, color photomechanical print, of tomb guard Edmund Parker standing in front of Washington's tomb. Printed on cream colored mount. The card has machine cut notches on the top and bottom at the center of the card. Title printed on front of card - Mt. Vernon, Va. Gen. Washington's Tomb. Copyrighted, 1898, by T. W. Ingersoll. The reverse of the card features an alternate, unrelated photomechanical print titled - (10) "I'm so glad you're back, dear--found Mother better?" Pub. by R. R. Whiting, Cincinnati, O. </dcterms:description>
+   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
    <dcterms:subject>Parker, Edmund</dcterms:subject>
    <dcterms:medium>Photomechnical print</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003396</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

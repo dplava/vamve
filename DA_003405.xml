@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>26327 Slave Quarters at Mt. Vernon, Va. [Butler's House]</dcterms:title>
+   <dcterms:title>26327 Slave Quarters at Mt. Vernon, Va. [Butler's House] </dcterms:title>
    <dcterms:publisher>Keystone View Company</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of the sundial in the Mansion circle. In the distance is a view of the outbuildings along the south lane. Enslaved workers performed jobs and duties in these buildings but likely never lived within them. Mounted on gray board. The publisher's imprint on the front of the cardboard mount reads: Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Portland, Oregon, London, Eng., Sydney, Aus. Title: 26327 Slave Quarters at Mt. Vernon, Va. Printed directly on the reverse of the mount is a short history about plantation life. Part of a series H90. Copyright by the Keystone View Company.</dcterms:description>
+   <dcterms:description>Stereoscopic view of the sundial in the Mansion circle. In the distance is a view of the outbuildings along the south lane. Enslaved workers performed jobs and duties in these buildings but likely never lived within them. Mounted on gray board. The publisher's imprint on the front of the cardboard mount reads: Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Portland, Oregon, London, Eng., Sydney, Aus. Title: 26327 Slave Quarters at Mt. Vernon, Va. Printed directly on the reverse of the mount is a short history about plantation life. Part of a series H90. Copyright by the Keystone View Company. </dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>Mansion Circle</dcterms:subject>
    <dcterms:subject>Circle Storehouse, Clerk's Quarters and Paint Cellar</dcterms:subject>
    <dcterms:subject>South Lane</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003405</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

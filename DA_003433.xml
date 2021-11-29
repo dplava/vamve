@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>East Parlor, Mt. Vernon Mansion </dcterms:title>
+   <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
+   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
+   <dcterms:created>1878-1883</dcterms:created>
+   <dcterms:description>Stereoscopic view of the west wall of the little parlor at Mount Vernon. A wooden relic case displays items from the the collection. A portion of the fireplace and terrestrial globe can be seen at far right. Mounted on orange board. The publisher's imprint on the front of the cardboard mount reads: N. G. Johnson, Photographer, 426 7th St., Washington, D. C. Only Authorized Publisher of Mount Vernon Views. A printed label adhered to the reverse reads: East Parlor, Mt. Vernon Mansion, In which stands the case for the exhibition of interesting relics of Washington, containing a bust of Washington, supposed to be the original by the French sculptor Houdon; his clothes, dress-sword, globe, and his Tripod with which he commenced life as a Surveyor. N. G. Johnson, Photographer, 426 7th St., Washington, D. C. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003433</dcterms:identifier>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/975</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=975</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

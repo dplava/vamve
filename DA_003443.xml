@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The Home of Washington Illustrated. No. 16; General View of House, from S. E. </dcterms:title>
+   <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
+   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
+   <dcterms:created>1866-1874</dcterms:created>
+   <dcterms:description>Stereoscopic view of south facade of the Mansion. Part of a set of 45 views possibly 'No. 16. General View of House from S. E.' from list of views on the reverse. View shows Mansion from the south lawn - the porch and balustrade are missing, south colonnade, and a portion of the kitchen and dairy. Mounted on cream board. Photographed by Gardner, 921 Penna. Avenue, Washington, D. C. for the Ladies' Mount Vernon Association. Typically, there is a line or dash marked next to the specific numbered view on the printed list on the reverse. In this case, there is no indicator. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003443</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/984</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=984</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
