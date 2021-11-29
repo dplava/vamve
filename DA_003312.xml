@@ -2,22 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>11686 -- Longfellow's Home, Cambridge, Mass., U. S. A., U. S. A.</dcterms:title>
-   <dcterms:creator>Keystone View Company</dcterms:creator>
+   <dcterms:title>11686 -- Longfellow's Home, Cambridge, Mass., U. S. A., U. S. A. </dcterms:title>
    <dcterms:publisher>Keystone View Company</dcterms:publisher>
-   <dcterms:description>Curved stereoscopic view of Longfellow's Home in Cambridge, Massachusetts. Mounted on gray board. Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Portland, Oregon, London, Eng., Sydney, Aus. The reverse includes a printed history of site including geographic coordinates. Number 9 in a series.</dcterms:description>
+   <dcterms:description>Curved stereoscopic view of Longfellow's Home in Cambridge, Massachusetts. Mounted on gray board. Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Portland, Oregon, London, Eng., Sydney, Aus. The reverse includes a printed history of site including geographic coordinates. Number 9 in a series. </dcterms:description>
    <dcterms:subject>Cambridge (Mass.)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003312</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/643</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=643</edm:preview>

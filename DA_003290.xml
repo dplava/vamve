@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>742 Washington Park. Chicago, Ill.</dcterms:title>
+   <dcterms:title>742 Washington Park. Chicago, Ill. </dcterms:title>
    <dcterms:creator>American Scenery</dcterms:creator>
-   <dcterms:description>Stereoscopic view of Washington Park in Chicago, Illinois. Flowers in the park are planted to form the name "Washington." Part of the American Scenery series. Mounted on tan board. The publisher's imprint on the front of the card reads: Webster &amp; Albee, Publishers, Rochester, N. Y. American Scenery.</dcterms:description>
-   <dcterms:subject>Chicago, Illinois</dcterms:subject>
+   <dcterms:description>Stereoscopic view of Washington Park in Chicago, Illinois. Flowers in the park are planted to form the name "Washington." Part of the American Scenery series. Mounted on tan board. The publisher's imprint on the front of the card reads: Webster &amp; Albee, Publishers, Rochester, N. Y. American Scenery.  </dcterms:description>
+   <dcterms:subject>Chicago (Ill.)</dcterms:subject>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003290</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

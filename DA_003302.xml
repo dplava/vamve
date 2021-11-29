@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>8083. Mount Vernon, Mansion Home of George Washington, Columbian Exposition.</dcterms:title>
+   <dcterms:title>8083. Mount Vernon, Mansion Home of George Washington, Columbian Exposition. </dcterms:title>
    <dcterms:creator>Kilburn, B. W. (Benjamin West), 1827-1909</dcterms:creator>
    <dcterms:publisher>Kilburn Brothers</dcterms:publisher>
    <dcterms:created>1893</dcterms:created>
-   <dcterms:description>Stereoscopic view of a replica of the Mount Vernon Mansion constructed for the 1893 Columbian Exposition in Chicago, Illinois. Mounted on pink board. Copyrighted 1893, by B. W. Kilburn. Photographed and Published by B. W. Kilburn, Littleton, N. H.</dcterms:description>
+   <dcterms:description>Stereoscopic view of a replica of the Mount Vernon Mansion constructed for the 1893 Columbian Exposition in Chicago, Illinois. Mounted on pink board. Copyrighted 1893, by B. W. Kilburn. Photographed and Published by B. W. Kilburn, Littleton, N. H.  </dcterms:description>
    <dcterms:subject>World’s Columbian Exposition (1893 : Chicago, Ill.)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003302</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

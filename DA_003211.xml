@@ -2,22 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Washington's Home, Mt. Vernon</dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
    <dcterms:publisher>Underwood &amp; Underwood</dcterms:publisher>
-   <dcterms:created>1896</dcterms:created>
-   <dcterms:description>Curved stereoscopic view of the east front of the Mount Vernon Mansion with visitors on the piazza. Mounted on beige board. Underwood &amp; Underwood Publishers. New York. London. Toronto-Canada. Ottawa-Kansas. Works and Studios - Washington, D.C. Arlington, N.J. Littleton, N.H.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:created>copyright 1896</dcterms:created>
+   <dcterms:description>Curved stereoscopic view of the east front of the Mount Vernon Mansion with visitors on the piazza. Mounted on beige board. Underwood &amp; Underwood Publishers. New York. London. Toronto-Canada. Ottawa-Kansas. Works and Studios - Washington, D.C. Arlington, N.J. Littleton, N.H.  </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003211</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

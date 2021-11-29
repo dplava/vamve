@@ -2,25 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Tomb of Washington, Mt. Vernon.</dcterms:title>
+   <dcterms:title>Tomb of Washington, Mt. Vernon. </dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
    <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:publisher>N. G. Johnson Photographer, No. 317 Pa. Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views.</dcterms:publisher>
+   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
    <dcterms:created>1880</dcterms:created>
-   <dcterms:description>Stereoscopic view of the path to Washington's tomb. Two visitors stand next to the tomb's entrance. A third person can be seen at the far right. Mounted on orange board. The front of the stereograph has the photographer's imprint, N. G. Johnson Photographer, No. 317 Pa. Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views. A preprinted label affixed on the reverse reads, Tomb of Washington, Mt. Vernon, The ante room to the Vault is about 12 feet square, and here are seen the Sarcophagi</dcterms:description>
-   <dcterms:description>the one on the right containing the remains of George Washington, and that on the left, those of Martha, his wife. It was built in accordance with the directions contained in Washington's will, to which his remains were removed in 1831. Copyright by the Mt. Vernon Association, 1880.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of the path to Washington's tomb. Two visitors stand next to the tomb's entrance. A third person can be seen at the far right. Mounted on orange board. The front of the stereograph has the photographer's imprint, N. G. Johnson Photographer, No. 317 Pa. Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views. A preprinted label affixed on the reverse reads, Tomb of Washington, Mt. Vernon, The ante room to the Vault is about 12 feet square, and here are seen the Sarcophagi; the one on the right containing the remains of George Washington, and that on the left, those of Martha, his wife. It was built in accordance with the directions contained in Washington's will, to which his remains were removed in 1831. Copyright by the Mt. Vernon Association, 1880.  </dcterms:description>
+   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003240</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
