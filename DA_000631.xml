@@ -12,10 +12,11 @@
    <dcterms:description>Bushrod records a legal opinion for Washington concerning a suit initiated by Thomas Pearson, against his late brother's estate (Simon Pearson). The suit involved a parcel of land which G.W. purchased from Simon Pearson some thirty-five years earlier.</dcterms:description>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000631</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
-   <dcterms:isPartOf>George Washington Collection ; http://catalog.mountvernon.org/cdm/compoundobject/collection/p16829coll12/id/81/rec/30</dcterms:isPartOf>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll12/id/147</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll12&amp;CISOPTR=147</edm:preview>
