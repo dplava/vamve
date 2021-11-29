@@ -6,17 +6,17 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, Bushrod Washington Herbert to John Augustine Washington III, with penciled diary notes, 1847 July 20-September 11 </dcterms:title>
+   <dcterms:title>Letter: Bushrod Washington Herbert, Rich Woods, to John Augustine Washington III, Mount Vernon, with penciled diary notes, 1847 July 20-September 11 </dcterms:title>
    <dcterms:creator>Herbert, Bushrod Washington, -1888</dcterms:creator>
    <dcterms:contributor>Washington, John Augustine, 1821-1861</dcterms:contributor>
    <dcterms:created>1847-07-20</dcterms:created>
    <dcterms:created>1847-09-11</dcterms:created>
    <dcterms:description>Bushrod Herbert writes to his cousin about business and family news. The address panel contains three weeks of diary notes by John Augustine in pencil. He notes on August 27 that he went to Audley, where Lorenzo Lewis was "very ill &amp; died after I left there." On September 2, his wife Nelly was attended to by a dentist named Dr. McCormick. On September 11, John Augustine notes that West Ford paid him "105.00 for 60 cords of wood and 8.23 for fruit and vegetables and 3.50 from Smoot for Louisa's lamb." Autograph letter signed, 3 pages, with integral address panel.  </dcterms:description>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_002346</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Historic Manuscript collection</dcterms:isPartOf>
+   <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/736</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=736</edm:preview>

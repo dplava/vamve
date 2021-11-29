@@ -6,16 +6,16 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, George R. H. Hughes to John Augustine Washington III, 1861 July 3</dcterms:title>
+   <dcterms:title>Letter: George R. H. Hughes, Chicago, to John Augustine Washington III, 1861 July 3</dcterms:title>
    <dcterms:creator>Hughes, George R. H., 1832-1914</dcterms:creator>
    <dcterms:contributor>Washington, John Augustine, 1821-1861</dcterms:contributor>
    <dcterms:created>1861-07-03</dcterms:created>
-   <dcterms:description>Letter from lawyer George R. H. Hughes (Chicago) to John Augustine Washington III informing him that his investments in Chicago real estate and bonds have not been successful. His previous letters to John Augustine have been unanswered, and Hughes writes that bond prices are "ruinous" in the present crisis and the best he can hope to realize for John Augustine is $37,500. Hughes discusses the market in detail, warning John Augustine, "I have nod idea that you will be able to get your money back the way things are going here, for five or ten years, and then prices would have to double to enable you to get back your outlay with interest." Autograph letter signed, 4 pages. </dcterms:description>
+   <dcterms:description>Letter from lawyer George R. H. Hughes to John Augustine Washington III informing him that his investments in Chicago real estate and bonds have not been successful. His previous letters to John Augustine have been unanswered, and Hughes writes that bond prices are "ruinous" in the present crisis and the best he can hope to realize for John Augustine is $37,500. Hughes discusses the market in detail, warning John Augustine, "I have nod idea that you will be able to get your money back the way things are going here, for five or ten years, and then prices would have to double to enable you to get back your outlay with interest." Autograph letter signed, 4 pages. </dcterms:description>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000423</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/633</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=633</edm:preview>

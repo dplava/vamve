@@ -6,17 +6,16 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Check, John Augustine Washington II to N. Herbert, 1821 May 16 </dcterms:title>
+   <dcterms:title>Check: John Augustine Washington II to N. Herbert, Alexandria, 1821 May 16 </dcterms:title>
    <dcterms:creator>Washington, John Augustine, 1821-1861</dcterms:creator>
    <dcterms:contributor>Herbert, N.</dcterms:contributor>
    <dcterms:created>1821-05-16</dcterms:created>
-   <dcterms:description>A manuscript check for cash of the Bank of Potomac, signed by John Augustine Washington II. To be paid to N. Herbert of Alexandria the amount of twenty two dollars and fifty cents for dividends due on his stock. </dcterms:description>
+   <dcterms:description>A mansucript check for cash of the Bank of Potomac, signed by John Augustine Washington II. To be paid to N. Herbert of Alexandria the amount of twenty two dollars and fifty cents for dividends due on his stock. </dcterms:description>
    <dcterms:medium>Manuscript</dcterms:medium>
-   <dcterms:medium>check</dcterms:medium>
+   <dcterms:medium>Checks (bank checks)</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_002314</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/686</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=686</edm:preview>

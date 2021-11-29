@@ -6,17 +6,17 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, Bushrod Washington Herbert to John Augustine Washington III, undated</dcterms:title>
+   <dcterms:title>Letter: Bushrod Washington Herbert to John Augustine Washington III, Mount Vernon, undated</dcterms:title>
    <dcterms:creator>Herbert, Bushrod Washington, -1888</dcterms:creator>
    <dcterms:contributor>Washington, John Augustine, 1821-1861</dcterms:contributor>
    <dcterms:contributor>Ford, West, approximately 1784-1863</dcterms:contributor>
    <dcterms:created>undated</dcterms:created>
-   <dcterms:description>A letter signed BWH, possibly from Bushrod Washington Herbert, to his cousin John Augustine Washington III. In the letter, BWH asks what Remington is going to do with Muddy Hole Farm. If Remington sells, BWH thinks John Augustine should rent it to West Ford "as before." Autograph letter signed, 2 pages, with integral address panel.</dcterms:description>
+   <dcterms:description>A letter signed BWH, possibly from Bushrod Washington Herbert, to his cousin John Augustine Washington III. In the letter, BWH asks what Remington is going to do with Muddy Hole Farm. If Remington sells, BWH thinks John Augustine should rent it to West Ford "as before."</dcterms:description>
    <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000430</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/653</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=653</edm:preview>
