@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>No. 94. Statue of Washington by Greenough</dcterms:title>
+   <dcterms:title>No. 94. Statue of Washington by Greenough </dcterms:title>
    <dcterms:creator>Surdam &amp; White</dcterms:creator>
    <dcterms:contributor>Greenough, Horatio, 1805-1852 (sculptor)</dcterms:contributor>
-   <dcterms:description>Stereoscopic view of the statue of George Washington by Horatio Greenough in East Capitol Square, Washington, D. C. Admiring the statue is a gentleman and a woman with a baby carriage. Mounted on cream colored board. The photographers imprint on the front of the mount read - Surdam &amp; White, 305 Broadway, New York. American Views. The reverse of card lists Views of Washington D. C. (No. 70 - No. 109) with a line drawn under No. 94. Statue of Washington by Greenough.</dcterms:description>
+   <dcterms:description>Stereoscopic view of the statue of George Washington by Horatio Greenough in East Capitol Square, Washington, D. C. Admiring the statue is a gentleman and a woman with a baby carriage. Mounted on cream colored board. The photographers imprint on the front of the mount read - Surdam &amp; White, 305 Broadway, New York. American Views. The reverse of card lists Views of Washington D. C. (No. 70 - No. 109) with a line drawn under No. 94. Statue of Washington by Greenough. </dcterms:description>
    <dcterms:subject>Washington (D.C.)</dcterms:subject>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003344</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

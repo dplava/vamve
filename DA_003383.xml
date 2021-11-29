@@ -2,19 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Beauties of the Hudson River. No. 4185 Washington's Head Quarters, at Newburgh, N. Y. Entrance.</dcterms:title>
+   <dcterms:title>Beauties of the Hudson River. No. 4185 Washington's Head Quarters, at Newburgh, N. Y. Entrance. </dcterms:title>
    <dcterms:publisher>E. &amp; H.T. Anthony (Firm)</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of the entrance to Washington's headquarters at Newburgh. Mounted on yellow board. Publisher imprint on the front of the cardboard mount reads: E. &amp; H. T. Anthony &amp; CO., 591 Broadway, New York. A label adhered to the reverse reads: Beauties of the Hudson River. No. 4185 Washington's Head Quarters, at Newburgh, N. Y. Entrance. Published by E. &amp; H. T. Anthony &amp; CO., Emporium of American and Foreign Stereoscopic Views, Chromos and Albums, 591 Broadway, opposite Metropolitan Hotel, New York.</dcterms:description>
+   <dcterms:description>Stereoscopic view of the entrance to Washington's headquarters at Newburgh. Mounted on yellow board. Publisher imprint on the front of the cardboard mount reads: E. &amp; H. T. Anthony &amp; CO., 591 Broadway, New York. A label adhered to the reverse reads: Beauties of the Hudson River. No. 4185 Washington's Head Quarters, at Newburgh, N. Y. Entrance. Published by E. &amp; H. T. Anthony &amp; CO., Emporium of American and Foreign Stereoscopic Views, Chromos and Albums, 591 Broadway, opposite Metropolitan Hotel, New York.  </dcterms:description>
    <dcterms:subject>Newburgh (N.Y.)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003383</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

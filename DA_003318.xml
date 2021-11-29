@@ -2,16 +2,17 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Untitled [Washington's Residence, Mt. Vernon]</dcterms:title>
-   <dcterms:created>1858/1860</dcterms:created>
-   <dcterms:description>Stereoscopic glass plate of the east front of Mount Vernon from the southeast lawn, c 1859. The piazza is supported by wooden beams. A handwritten label is adhered to the front right frame - Washington's Residence, Mt. Vernon. Image combines merged reflective and transmissive scans.</dcterms:description>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:medium>glass negative</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:title>Untitled [Washington's Residence, Mt. Vernon] </dcterms:title>
+   <dcterms:created>1858-1860</dcterms:created>
+   <dcterms:description>Stereoscopic glass plate of the east front of Mount Vernon from the southeast lawn, c 1859. The piazza is supported by wooden beams. A handwritten label is adhered to the front right frame - Washington's Residence, Mt. Vernon. Image combines merged reflective and transmissive scans. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:medium>glass negatives</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003318</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

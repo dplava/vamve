@@ -2,18 +2,17 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>KL65015 -- Historic Washington Bible. This View is Non-Stereoscopic.</dcterms:title>
-   <dcterms:creator>Keystone View Company</dcterms:creator>
+   <dcterms:title>KL65015 -- Historic Washington Bible. This View is Non-Stereoscopic. </dcterms:title>
    <dcterms:publisher>Keystone View Company</dcterms:publisher>
-   <dcterms:description>Curved stereoscopic view of the 'Washington Bible.' Mounted on gray board. Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Chicago Ill. London, England. The reverse includes a printed history of its use at Valley Forge and the faith of 'great' men. Number H89 in a series. Note: Bible appears to be Martha Washington's Bible which George Washington purchased for her in New York on August 18, 1789. This Bible is in the special collection at Mount Vernon [W-1659].</dcterms:description>
-   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:description>Curved stereoscopic view of the 'Washington Bible.' Mounted on gray board. Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Chicago Ill. London, England. The reverse includes a printed history of its use at Valley Forge and the faith of 'great' men. Number H89 in a series. Note: Bible appears to be Martha Washington's Bible which George Washington purchased for her in New York on August 18, 1789. This Bible is in the special collection at Mount Vernon [W-1659]. </dcterms:description>
+   <dcterms:medium>Stereographs</dcterms:medium>
    <dcterms:medium>photograph</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003314</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
