@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to David Stuart, 1796 February 17</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Stuart, David, 1753-1811</dcterms:contributor>
+   <dcterms:created>1796-02-07</dcterms:created>
+   <dcterms:description>Washington encloses an advertisement which he plans to put in various gazettes and newspapers -- he confides in secrecy his plan to rent his farms and the dower slaves -- he may even interest associations in England or Scotland in farms through advertisements in gazettes -- the intermarriage of dower negroes with others and those on neighboring farms will cause affecting and trying consequences, so Washington cautions Stuart to make no mention of the plan for the present -- he doesn't care to rent farms to "our country farmers" because they wear out the land and little else -- he wants Stuart to ask in confidence British merchants in Alexandria and Dumfries about the scheme -- Washington mentions Eliza ("Betsy") Custis's marriage and gives his evaluation of the groom, Mr. Thomas Law -- thinking of George Washington Parke Custis's interests, Washington asks Stuart whether there might have been an erroneous division of negroes for Mr. Thomas Peter for his wife's (Martha Custis's) share.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Slavery</dcterms:subject>
+   <dcterms:subject>Agriculture</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:medium>Advertisements</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000876</dcterms:identifier>
+   <dcterms:rights>https://rightsstatements.org/page/1.0/?language=en</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/360</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=360</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

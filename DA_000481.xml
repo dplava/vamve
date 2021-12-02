@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to Colonel Christopher Greene, 1780 November 27</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Greene, Christopher, 1737-1781</dcterms:contributor>
+   <dcterms:created>1780-11-27</dcterms:created>
+   <dcterms:description>Letter in Alexander Hamilton's hand, signed by Washington. Washington issues orders for Colonel Christopher Greene's First Rhode Island Regiment, which included formerly enslaved African American soldiers, to march from Newport to West Point under Rochambeau. Washington writes, "only come on with such officers as are to remain in service on the new arrangement and such men as engaged for the war, or at least for a term, that will last through the next campaign. The other men you may dismiss, unless the Count de Rochambeau should find any employment for them where they are now." Autograph letter signed, 1 page.  </dcterms:description>
+   <dcterms:subject>United States--History--Revolution, 1775-1783</dcterms:subject>
+   <dcterms:subject>Rochambeau, Jean-Baptiste-Donatien de Vimeur, comte de, 1725-1807</dcterms:subject>
+   <dcterms:subject>Slavery</dcterms:subject>
+   <dcterms:subject>African American soldiers</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000481</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/950</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=950</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

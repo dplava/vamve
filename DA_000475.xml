@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Drawing of an invention for raising and lowering boats over the Great Falls of the Potomac to avoid the construction of locks [graphic].</dcterms:title>
+   <dcterms:creator>Mr. Claiborn</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1784-1794</dcterms:created>
+   <dcterms:description>The drawing was known to George Washington who sent it to Tobias Lear on 22 December 1794, describing it as "the sketch which has been presented to me by Mr. Claiborn, of the new method of lowering and raising boats without locks." Washington had received a letter from Claiborne in 1784 in which he discussed navigable rivers to the west; whether Claiborne sent the drawing at that time is uncertain. It could also have been given to Washington in early December 1794 when he and Claiborne met together in Philadelphia, or sent in a follow-up letter Claiborne wrote on 16 December 1794.    Title from auction catalog.     Unsigned one page drawing shows a counter-weighted lever holding a large basket that contains a boat while moving the boat between an upper canal and a lower canal or river.   </dcterms:description>
+   <dcterms:medium>Drawings (visual works)</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_000475</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/944</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=944</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

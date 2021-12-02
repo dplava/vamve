@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Jonathan Trumbull, Jr. to George Washington, 1788 October 28</dcterms:title>
+   <dcterms:creator>Trumbull, Jonathan, 1740-1809</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1788-10-28</dcterms:created>
+   <dcterms:description>Letter focuses on political situation in Connecticut--Gen'l Assembly of Connecticut passing resolves for organizing Congress under new constitution--will appoint electors in January, "this appointment the Assembly have retained in their own power - thinking it more likely to be exercised with judgment &amp; discretion than it would be to be entrusted in the hands of the people at large"--Senators elected--Representatives to be chosen by people--mentions circular letter from New York state convention--few discordant notes in Connecticut assembly--no disagreement over president, but over vice-president--desires Bowdoin for office, since Adams is talked of for Supreme Court--asks after [David] Humphreys. Autograph letter, signature is missing, 3 pages. </dcterms:description>
+   <dcterms:subject>United States--Politics and government</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002399</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1001</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1001</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to William Pearce, 1793 October 27</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Pearce, William</dcterms:contributor>
+   <dcterms:created>1793-10-27</dcterms:created>
+   <dcterms:description>George Washington has decided to engage superintendent of carpenters for another year--could not find anyone to replace-comments on man who looks after the house people, ditchers, etc.-after winter, Pearce can decide to remain at Mount Vernon or live elsewhere-construction of house for Mr. Crow-Negro children forbidden to enter the yards and gardens (excluding the children of cook and her husband the Mulatto Frank). Autograph letter signed, 4 pages, docketed.</dcterms:description>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Farm management</dcterms:subject>
+   <dcterms:subject>Lee, Lucy (Cook)</dcterms:subject>
+   <dcterms:subject>Lee, Frank, -1821</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000882</dcterms:identifier>
+   <dcterms:rights>https://rightsstatements.org/page/1.0/?language=en</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/759</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=759</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
