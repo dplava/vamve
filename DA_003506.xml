@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, John Parke Custis to George Washington, 1779 August 11 </dcterms:title>
+   <dcterms:creator>Custis, John Parke, 1754-1781</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1779-08-11</dcterms:created>
+   <dcterms:description>Requests George Washington's advice whether to sell Eastern shore lands because of heavy taxes and can get no one to live there &amp; work them--rumors of truce to be offered by British King--appreciates Washington's advice on draining low grounds [at Abingdon] to prevent tidal floods--poor corn crops and depreciation of paper money--everyone paying old debts in paper money--purchase of Alexander's land--army's success at Stony Point. Autograph letter signed, 4 pages. </dcterms:description>
+   <dcterms:subject>United States--History--Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003506</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1152</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1152</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

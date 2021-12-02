@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to William Pearce, 1794 May 18 </dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Pearce, William</dcterms:contributor>
+   <dcterms:created>1794-05-18</dcterms:created>
+   <dcterms:description>Crops suffering from drought--Mr. Dandridge--oats on last vessel have disappeared--has enclosed four small papers of seeds which have been sent from a curious gentleman in Europe--keeping of clover for seed--buck wheat--timothy--heavy cost of these in the markets of Philadelphia--value of various grasses--clover ought to be well cured before stacking--Crow--both cattle and sheep will benefit from turnip--asks about the drilled wheat and common wheat--ought to be ripe by the 8th or 10th of June--there are two kinds of wheat in drills at Union--inquires if Plaster of Paris was spread--hides of the dead cattle to be tanned by the old man Jack--skins of the dead sheep--Mulatto Will making shoes--Mrs. Fanny Washington--four missing heads of tobacco--Mr. Whitting--surveying in the fall--Mr. Minor--hopes to be at Mt. Vernon by the 10th of June--selling of a horse--health of slaves discussed--Sam, Doll, several spinners, Ditcher Charles--awaiting the arrival of the Peggy and the white thorn plants and Mr. Lear's fruit trees--high price of flour--embargo. Autograph letter signed, 9 pages. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:subject>Farm management</dcterms:subject>
+   <dcterms:subject>Domestic animals</dcterms:subject>
+   <dcterms:subject>Doll, 1747?-</dcterms:subject>
+   <dcterms:subject>Lee, William, approximately 1752-</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003543</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1170</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1170</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

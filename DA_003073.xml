@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Samuel Powel to His Excellency General Washington, 1787 July 25 </dcterms:title>
+   <dcterms:creator>Powel, Samuel, 1738-1793</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1787-07-25</dcterms:created>
+   <dcterms:description>Samuel Powel writes to George Washington that has seen coach painter and quotes prices for painting, gilding, etc. the chariot--this is for varnishing coach body &amp; surface polished, with no varnish to be added later--a cheaper mode is painting first &amp; varnishing later--work will take 4-5 weeks--has made no contract with him, nor mentioned names--cannot give price of lining since coach-maker is away--a postscript gives price of lining as £3 exclusive of cloth and lace--quotes price and yardage of lace and cloth. Autograph letter signed, 2 pages, integral address panel, laminated, watermark (powderhorn). </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003073</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1123</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1123</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

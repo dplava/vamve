@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to William Stowry (Stoy), 1797 October 14</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Stoy, William, 1726-1801</dcterms:contributor>
+   <dcterms:created>1797-10-14</dcterms:created>
+   <dcterms:description>George Washington's letter to William Stoy references medical treatment requested for Christopher, Washington’s body servant, who had been bitten by a dog with rabies.  Stoy was a minister of the German Reformed Church in Lebanon, Pennsylvania.  He discovered a “cure” for hydrophobia and Stoy’s Drops, a popular cure-all medicine. Celebrated for curing person bit by 'Mad animals,' Stoy successfully treats Christopher. Autograph letter signed, 1 page.  </dcterms:description>
+   <dcterms:subject>Sheels, Christopher, 1776-</dcterms:subject>
+   <dcterms:subject>Medicine--History--18th century</dcterms:subject>
+   <dcterms:subject>Slaves--Diseases</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003013</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1022</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1022</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
