@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>George Washington's land agreement with George Mason, 1769 April 21</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Mason, George, 1725-1792</dcterms:contributor>
+   <dcterms:created>1769-04-21</dcterms:created>
+   <dcterms:description>The association of two great Virginia statesmen is preserved in this rare document- George Washington's land agreement with George Mason, dated April 21, 1769.  George Mason lived at Gunston Hall, which is located just below Mount Vernon on the Potomac River in Fairfax County.  Surveys inherited in Washington's day were often inaccurate and this land agreement settled a long-standing dispute concerning the boundary line that divided Mount Vernon from Mason's property.  This folio incorporates both a legal contract and the elements of a survey that Washington himself undertook in 1769 to settle the inaccurate western boundary of the lands between Dogue Creek and Little Hunting Creek.  The one page document is written in a clerical hand and is endorsed with a bold signature by George Washington.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0084</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/912</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=912</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

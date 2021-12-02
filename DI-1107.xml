@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, ''Rotation...with the Plowing annually required to carry it into effect,'' undated</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:description>A highly interesting and quite complex pair of plans for crop rotation and the plowings it required in the hand of George Washington. One plan is neatly headed "Rotation by AW with the Plowings necessary to carry it into effect." The initials may refer to John Augustine Washington (1736-1787), for whom this plan may have been devised. The second plan is similarly headed "Rotation by CW...," and was perhaps intended for Corbin Washington's use. Both plans are based on 75 acre plots of farmland. The number of days to plow or harrow the plot is carefully tabulated at the right of the list. In the lower part of each plan, Washington lists, month-by-month the sequence of plowings and harrowings, to calculate the labor needed. Autograph document, 2 pages.</dcterms:description>
+   <dcterms:subject>Agriculture</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-1107</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1091</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1091</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

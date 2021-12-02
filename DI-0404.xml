@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, John Augustine Washington to George Washington, 1785 July 17</dcterms:title>
+   <dcterms:creator>Washington, John Augustine, 1736-1787</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1785-07-17</dcterms:created>
+   <dcterms:description>On July 17, 1785, John Augustine Washington penned this letter to George Washington addressing it "My dear Brother." John informs George that during a recent visit to Mount Vernon a "great Coat of yours" and book became mixed-up with his own belongings. John then discusses one of George Washington's notable entrepreneurial activities - the breeding of mules. Seeking to emulate his brother, John suggests that George send one of his "Jack Asses" to Bushfield, John's plantation, to breed with his mares. Affectionately concluded with "…love and best wishes…," this brief letter illuminates the relationship between the brothers. Autograph letter signed, 2 pages.</dcterms:description>
+   <dcterms:subject>Domestic animals</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0404</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1078</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1078</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to Timothy Pickering, 1781 October 30 and 1781 November 5</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Pickering, Timothy, 1745-1829</dcterms:contributor>
+   <dcterms:created>1781-10-30</dcterms:created>
+   <dcterms:created>1781-11-05</dcterms:created>
+   <dcterms:description>George Washington wrote this manuscript just after his final defeat of the British at Yorktown. The manuscript includes two letters from Washington to Timothy Pickering dated October 30, 1781, and November 5, 1781. The letters are both in the hand of aide-de-camp Jonathan Trumbull Jr. and signed by Washington. In these letters, General Washington authorizes the payment of the Southern army troops using funds from a British military war chest. Pickering is instructed to give a total of 350 pounds to Colonel Edward Carrington for this purpose. Carrington signs for receipt of this money on November 6, 1781. Autograph letter signed. There are two letters on this four page document. Both letters are in the hand of John Trumbull Jr. and signed by Washington. One sheet is folded in half to create four pages. The first page contains the text of the October 30, 1781, letter. The second page contains the text of the November 5, 1781, letter. The third page contains a receipt of money by Colonel Carrington. The fourth page is docketed.</dcterms:description>
+   <dcterms:subject>United States--History--Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0137</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1072</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1072</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

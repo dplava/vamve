@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to William Pearce, 1796 April 3</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Pearce, William</dcterms:contributor>
+   <dcterms:created>1796-04-03</dcterms:created>
+   <dcterms:description>Washington writes about the vessel Commerce coming from Liverpool and arriving in Georgetown with eight bushels of field pea, chiccory and eight bushels of winter vetch--directions for the cultivation--wind blowing down trees--selling the flour--Mr. Minor has recommended a Mr. Darnes as a tenant--Mr. Gill and renting the mill--inquires of the dimensions and details on the chimney in the new room at the Mansion. Autograph letter signed, 4 pages.</dcterms:description>
+   <dcterms:subject>Farm management</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-1167</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1101</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1101</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

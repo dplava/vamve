@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, William Washington to George Washington, 1785 December 18</dcterms:title>
+   <dcterms:creator>Washington, William</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:created>1785-12-18</dcterms:created>
+   <dcterms:description>In this letter dated December 18, 1785, William Washington informs his distant cousin George Washington that he is honoring his request for two boxes of seeds and acorns from William's estate in South Carolina. George's interest in seeds from his cousin's home demonstrates his fascination with botany and his desire to have diverse and unusual plants in his garden here at Mount Vernon. William describes acorns for oak trees "tall &amp; majestick in appearance," a "sweet-scented Shrub," and seeds of a Laurel-Tree that "bears a large Beautiful Flower very fragrant in its smell." Upon receipt, George Washington docketed this letter. Autograph letter signed, 3 pages.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0405</dcterms:identifier>
+   <dcterms:rights>https://rightsstatements.org/page/1.0/?language=en</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1083</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1083</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

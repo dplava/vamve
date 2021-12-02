@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to Robert Cary and Co., 1762 June 20</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Robert Cary and Company</dcterms:contributor>
+   <dcterms:created>1765-06-20</dcterms:created>
+   <dcterms:description>In this letter George Washington tells Robert Cary &amp; Co., his British creditors, of his financial problems and vividly relates the severe drought and difficulty of raising tobacco as a cash crop. "We shall not make one ounce of Tobacco this Year. Our plants in spite of all our efforts to the contrary are just destroyed…" This letter is also significant because it demonstrates Washington's dissatisfaction with the colonial import system. Washington details how long it took to receive shipments from England, and in particular is frustrated that 70 sacks of salt have not arrived. Autograph letter signed, 1 page. Partial watermark, center left edge. Only the bottom half of the watermark is visible.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0071</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/693</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=693</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

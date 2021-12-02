@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to John Alton, Mount Vernon, 1759 April 1</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Alton, John</dcterms:contributor>
+   <dcterms:created>1759-04-01</dcterms:created>
+   <dcterms:description>Expects to be up [to Mount Vernon] tomorrow -- Miles sent to get key from Col. Fairfax -- Alton to get house in order, make fires in lower rooms and air them -- two bedsteads put up, one in hall room, one in little dining room -- get out chairs and tables and clean and rub them and stair case -- find eggs and chickens and "prepare in the best manner you can for our coming." Autograph letter signed, integral cover, docketed, "Given to Mr. [ ] Clemson - January 24th 1832 at Mount Vernon by Mrs. Jane Washington supposed to have been written soon after his marriage and Braddocks defeat." Autograph letter signed, 1 page, laminated, watermark (crown over encircled shield &amp; motto Honi soit qui mal y pense). Name on original manuscript appears as "G. Washington". Date on original catalog card appears [1759] [April 1].</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0062</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/5</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=5</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

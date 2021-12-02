@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, blank dinner invitation from President and Mrs. Washington, 1790</dcterms:title>
+   <dcterms:created>1790</dcterms:created>
+   <dcterms:description>As the first President of the United States, George Washington set many social standards that would be followed by later administrations. He and Mrs. Washington established times for public visits and more formal affairs. Those invited to dine at the executive residence received engraved invitations. Their simple, yet elegant, design could be customized with the recipient's name, date, and time.     The President of the United States / and Mrs. Washington, request the Pleasure of / ________________ / Company to Dine, on ________ next, at ___ o'Clock. / _________ 179_ / An answer is requested. For the engraved copper plate used to print invitations of this type see W-827. For additional examples of presidential invitations see MS-5832, MS-5797, MS-5722/B, MS-5605, MS-5745, and MS-5746.</dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:subject>United States--Politics and government--1789-1797</dcterms:subject>
+   <dcterms:medium>Invitations</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0117</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1040</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1040</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

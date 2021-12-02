@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to Elizabeth Willing Powel, 1792 April 23</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Powel, Elizabeth Willing, 1743-1830</dcterms:contributor>
+   <dcterms:created>1792-04-23</dcterms:created>
+   <dcterms:description>Thanks her for sending enclosed "Strictures &amp;c" to him to read -- it hasn't caused him any pain -- he regrets author didn't spend some of time investigating the facts instead of writing the pamphlet. If he had done so, the author "might have found many of his charges as unsupported as the 'baseless fabric of a vision'" (quoting from The Tempest, IV,1). The pamphlet referred to was "Strictures and observations upon the three executive departments of the government of the United States..." by Massachusettensis ([Philadelphia], 1792). Autograph letter signed, 2 pages, docketed by S. Powel(?), detail and transmissive scans of watermark (JW). Name on original manuscript appears as "G. Washington".</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-1142</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/142</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=142</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

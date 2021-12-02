@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to Thomas Law, 1796 February 10</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Law, Thomas, 1756-1834</dcterms:contributor>
+   <dcterms:created>1796-02-10</dcterms:created>
+   <dcterms:description>On February 10, 1796, upon learning of his eldest step-granddaughter's engagement to Thomas Law, George Washington writes this letter of congratulations to him. Washington's fatherly interest in the betrothal of Eliza "Betsey" Parke Custis is apparent. He expresses surprise, gives his blessing, and invites the couple to visit Philadelphia after the ceremony. Thomas Law earned his fortune in India and met Washington's step-granddaughter shortly after his arrival in America. The couple was married the following month, on March 21, 1796. Unfortunately, the integrity of this document has been compromised by the 19th century practice of clipping signatures. Autograph letter signed, 2 pages, partial document.</dcterms:description>
+   <dcterms:subject>Custis family</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0269</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1075</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1075</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>George Washington's Memorandum on planting and transplanting various types of trees &amp; bushes</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:created>Undated</dcterms:created>
+   <dcterms:description>Notes on best methods of planting and transplanting various kinds of trees and bushes, including a notation of the agricultural authority, Langley or Miller, from whom he got information. Also a notation on walks -- should be of gravel or Sand and winding and private -- the sides should be lined with Honey suckles -- sweetbrier-, and many other flowering shrubs. Autograph document, 4 pages, in George Washington's hand, laminated, watermark (Taylor).</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Gardening</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-1175</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/713</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=713</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
