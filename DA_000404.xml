@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Memorandum, George Washington to James Donaldson, 1794 September 29</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Donaldson, James</dcterms:contributor>
+   <dcterms:created>1794-09-29</dcterms:created>
+   <dcterms:description>Memorandum detailing a work contract with Mount Vernon carpenter James Donaldson, including his allowances for food, moving expenses, use of tools, use of a house, garden, and cow, and the privilege of the occasional absence, in exchange for his work. Donaldson was a white overseer of the slave carpenters at Mount Vernon.  Washington hired him for his “sober and industrious” nature, but soon learned that he was not a competent overseer.  Washington repeatedly wrote to his overseer at the time, William Pearce on the subject of Donald’s inability to manage slave labor and Donaldson left Mount Vernon by November 1795.  Autograph letter signed by Washington and Donaldson, 2 pages.</dcterms:description>
+   <dcterms:subject>Farm management</dcterms:subject>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Slavery</dcterms:subject>
+   <dcterms:subject>Carpentry</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000404</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/826</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=826</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

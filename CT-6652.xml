@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to George William Fairfax, 1758 September 25</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Fairfax, George William, 1724-1787</dcterms:contributor>
+   <dcterms:created>1758-09-25</dcterms:created>
+   <dcterms:description>George Washington wrote this letter to George William Fairfax to inform him of Major Grant's unfortunate expedition to Fort Duquesne. Washington describes the circumstances of the attack, the significant number of men and officers killed, and concludes: "It is with infinite pleasure I tell you that the Virginians, Officers and Men, distinguished themselves in the most eminent manner - that the General has Complimented me publickly on their good behaviour, and that every Mouth resounds their Praises. The Highlanders and them are become one People, shaking each other by the hand wherever they meet tho. perfect stranger's." Floor of passage is an eyesore -- would take it up for good and seasoned plank laid -- Capt. Gist to carry this &amp; letter to Govr. Autograph letter signed, 3 pages, laminated, watermark (crown over powder horn &amp; L.V. Garrevink), cover endorsed "This letter belongs to a bundle endorsed 'Genl. G. Washington to G. Wm. Fairfax', and hence it is supposed was written to the latter although there is no Direction.", also endorsed "Major Grant's unfortunate expedition to Fort Duquesne" Name on original manuscript appears as "G. Washington".  *Mislabeled to John Augustine Washington in 'Papers of George Washington.'</dcterms:description>
+   <dcterms:subject>United States--History--French and Indian War, 1754-1763</dcterms:subject>
+   <dcterms:subject>Mount Vernon (Va. : Estate) -- conservation and restoration</dcterms:subject>
+   <dcterms:subject>Central Passage</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>CT-6652</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/2</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=2</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

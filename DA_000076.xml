@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington to Saml. Powell, 1788 January 18</dcterms:title>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:contributor>Powel, Samuel, 1738-1793</dcterms:contributor>
+   <dcterms:created>1788-01-18</dcterms:created>
+   <dcterms:description>No news [on adoption of Constitution] -- glad to hear Pennsylvania, New Jersey and Delaware have adopted proposed Constitution -- Connecticut, Massachusetts, and New Hampshire are next on the stage -- "Of the unanimity of Maryland there can be little question; - and tho' the Constitution in this state has powerful adversaries, little doubt of the adoption of it, has a place in my mind ..." North Carolina to postpone convention til after Virginia's, "which is indicative, in my opinion, of a disposition to take her tone from hence ..." -- of Georgia, "... if a weak state, with powerful tribes of Indians in its rear, and the Spaniards on its flank do not incline to embrace a strong general Government there must, I should think, be either wickedness, or insanity in their conduct." -- generosity of landholders in county of Philadelphia in proposing it for seat of Federal government. Autograph letter signed, 3 pages, docketed by S. Powel(?), watermark (C &amp; I Honig). Name on original manuscri</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000076</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/112</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=112</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

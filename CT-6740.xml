@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, "Memorandum of the Division of Slaves of the Late Lawrence Washington Esq.,", 1754 December 10</dcterms:title>
+   <dcterms:creator>Washington, George,1732-1799</dcterms:creator>
+   <dcterms:creator>Lee, Ann</dcterms:creator>
+   <dcterms:creator>Lee, George</dcterms:creator>
+   <dcterms:creator>Washington, Augustine,1718?-1762</dcterms:creator>
+   <dcterms:created>1754-12-10</dcterms:created>
+   <dcterms:description>This document divides Lawrence Lewis' slaves between Col. George Lee and the brothers of Lawrence Washington. It is signed by G. Washington, George Lee, Ann Lee, and Aug. Washington. Witnessed by William Fairfax, George William Fairfax, Robert Merrie, John Dalton, Thomas Plummer, John Tuberville, John Carlyle, Sarah Carlyle, and Bryan Fairfax. The deed was admitted to record in the County of Fairfax on 1755 June 17. Autograph document signed, 3 pages.</dcterms:description>
+   <dcterms:subject>Washington, Lawrence, 1718-1752--Estate</dcterms:subject>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Estate records</dcterms:medium>
+   <dcterms:medium>Lists (document genres)</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>CT-6740</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1120</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1120</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
