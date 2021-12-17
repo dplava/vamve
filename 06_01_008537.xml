@@ -10,8 +10,6 @@
    <dcterms:creator>Blodget, Samuel, 1724-1807</dcterms:creator>
    <dcterms:publisher>Jefferys, Thomas, -1771</dcterms:publisher>
    <dcterms:created>1768</dcterms:created>
-   <dcterms:place>Hudson River</dcterms:place>
-   <dcterms:place>Lake George, New York, United States</dcterms:place>
    <dcterms:subject>Lake George, Battle of, N.Y., 1755--Aerial views--Early works to 1800</dcterms:subject>
    <dcterms:subject>Fort William Henry (N.Y.)--History--French and Indian War, 1754-1763--Aerial views--Early works to 1800</dcterms:subject>
    <dcterms:subject>Lake George (N.Y. : Town)--History--French and Indian War, 1754-1763--Aerial views--Early works to 1800</dcterms:subject>
@@ -19,7 +17,7 @@
    <dcterms:medium>Prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_008537</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/page/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/144</edm:isShownAt>

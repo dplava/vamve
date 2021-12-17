@@ -12,7 +12,6 @@
    <dcterms:publisher>Sayer, Robert, 1725-1794</dcterms:publisher>
    <dcterms:created>1760</dcterms:created>
    <dcterms:description>Subject: ships on the Saint Lawrence River with a rowboats full of troops disembarking below cliffs; battle in progress on heights above river.</dcterms:description>
-   <dcterms:place>Québec, Quebec, Canada</dcterms:place>
    <dcterms:subject>Québec Campaign, Québec, 1759--Aerial views--Early works to 1800</dcterms:subject>
    <dcterms:subject>Plains of Abraham, Battle of the, Québec, 1759--Aerial views--Early works to 1800</dcterms:subject>
    <dcterms:subject>Seven Years' War, 1756-1763--Aerial views--Early works to 1800</dcterms:subject>
@@ -23,7 +22,7 @@
    <dcterms:medium>Prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_008541</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/page/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/208</edm:isShownAt>
