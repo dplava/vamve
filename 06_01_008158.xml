@@ -10,9 +10,6 @@
    <dcterms:creator>Faden, William, 1749-1836</dcterms:creator>
    <dcterms:contributor>Sauthier, Claude Joseph</dcterms:contributor>
    <dcterms:created>1777</dcterms:created>
-   <dcterms:place>Quebec, Canada</dcterms:place>
-   <dcterms:place>New York, United States</dcterms:place>
-   <dcterms:place>Vermont, United States</dcterms:place>
    <dcterms:subject>Canada--Boundaries--United States--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>United States--Boundaries--Canada--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Québec (Province)--Maps--Early works to 1800</dcterms:subject>
@@ -21,7 +18,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_008158</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/page/NKC/1.0/?language=en</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/49</edm:isShownAt>
