@@ -15,7 +15,7 @@
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000416</dcterms:identifier>
    <dcterms:isPartOf>Rare Books Collection</dcterms:isPartOf>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:right
+          <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:right>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/903</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=903</edm:preview>
