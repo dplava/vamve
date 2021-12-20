@@ -10,8 +10,6 @@
    <dcterms:creator>Hutchins, Thomas, 1730-1789</dcterms:creator>
    <dcterms:created>1765</dcterms:created>
    <dcterms:description>The rare map displayed here was the first detailed map illustrating the Ohio Valley based on actual survey, and was the earliest map of the Midwest published in America. The map served as the frontispiece for William Smith's "An historical account of the expedition against the Ohio indians, in the year 1764, under the command of Henry Bouquet, Esq." (Philadelphia : William Bradford, 1765). The first of two maps on this sheet, "A Topographical Plan ...", depicts Col. Henry Bouquet's march from Fort Pitt to the forks of the Muskingum River in October 1764. Hutchins served as assistant engineer on the expedition. The second map, "A General Map ...", shows all of western Pennsylvania and Ohio east of the Scioto River, and includes notes on the topography, Native American villages, forts, and Bouquet's route. There are two decorative cartouches in each corner of the map; one depicts Native American life, the other shows the the encampment at the Forks of Muskingun and the parlay with the Native Americans.</dcterms:description>
-   <dcterms:place>Pennsylvania</dcterms:place>
-   <dcterms:place>Ohio</dcterms:place>
    <dcterms:subject>Bouquet's Expedition, 1764--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Indians of North America--Ohio--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Pennsylvania--Maps--Early works to 1800</dcterms:subject>
@@ -19,7 +17,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_010192</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/190</edm:isShownAt>
