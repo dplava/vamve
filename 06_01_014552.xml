@@ -9,7 +9,6 @@
    <dcterms:title>Nachricht von der belagerung und einnahme der stadt und hafens Charlestown in America</dcterms:title>
    <dcterms:creator>Donnhaeuser, Johann David, 1752-1789</dcterms:creator>
    <dcterms:created>1780</dcterms:created>
-   <dcterms:place>Charleston, South Carolina</dcterms:place>
    <dcterms:subject>Charleston (S.C)--History--Revolution, 1775-1783--Aerial views--Early works to 1800</dcterms:subject>
    <dcterms:subject>Charleston (S.C)--History--Revolution, 1775-1783--Pictorial works--Early works to 1800</dcterms:subject>
    <dcterms:subject>Charleston (S.C)--History--Siege, 1780--Aerial views--Early works to 1800</dcterms:subject>
@@ -17,7 +16,7 @@
    <dcterms:medium>Prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_014552</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/98</edm:isShownAt>

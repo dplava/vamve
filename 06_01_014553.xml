@@ -10,8 +10,6 @@
    <dcterms:creator>Sayer, Robert, 1725-1794</dcterms:creator>
    <dcterms:created>1763</dcterms:created>
    <dcterms:description>Shows territorial possessions in North America after the Treaty of Paris. Includes the satirical "Theodolite's letter to the Botcher's Club in Monmouth Street." The open letter appears to praise the treaty and the 3rd Earl of Bute, who worked on the treaty, while actually pointing out the weaknesses of the territory gained. Theodolite, a scientific instrument used in surveying, likely represented Bute, who collected such instruments. Botchers were menders such as tailor and cobblers, and Monmouth Street was known for its second-hand shops. The letter was thus from Bute to those with mercantile interests or low connections as Bute?s peers disapproved of him and the treaty. The true author of the letter was likely Sayer or a colleague with similar political sentiments.</dcterms:description>
-   <dcterms:place>United States</dcterms:place>
-   <dcterms:place>North America</dcterms:place>
    <dcterms:subject>Indians of North America--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Political satire</dcterms:subject>
    <dcterms:subject>Great Britain--Territories and possessions--Maps--Early works to 1800</dcterms:subject>
@@ -20,7 +18,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_014553</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/129</edm:isShownAt>
