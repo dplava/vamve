@@ -9,8 +9,6 @@
    <dcterms:title>The coast of a part of New England, New York, New Jersey, Pensilvania, Maryland, Virginia, and part of North Carolina &amp;c. with the banks, roks, soundings, shoals, currents, &amp; nautical remarks, composed from a great number of actual surveys and other materials</dcterms:title>
    <dcterms:creator>Keulen, Gerard van</dcterms:creator>
    <dcterms:created>1784</dcterms:created>
-   <dcterms:place>New England</dcterms:place>
-   <dcterms:place>Middle Atlantic</dcterms:place>
    <dcterms:subject>Nautical charts--New England--Early works to 1800</dcterms:subject>
    <dcterms:subject>Nautical charts--Middle Atlantic States--Early works to 1800</dcterms:subject>
    <dcterms:subject>Coasts--New England--Maps--Early works to 1800</dcterms:subject>
@@ -18,7 +16,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_009615</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <dcterms:language>Dutch</dcterms:language>

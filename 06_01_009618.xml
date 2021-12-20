@@ -9,8 +9,6 @@
    <dcterms:title>The coast of New Schotland, New England, the gulph and river of St. Laurence : the islands of New Foundland, Cape Breton, St. John, Anticosti, and soundings thereof, these charts are followed, according to them executed by order of the Lords Commissioners of the Admiralty in England</dcterms:title>
    <dcterms:creator>Keulen, Gerard van</dcterms:creator>
    <dcterms:created>1783</dcterms:created>
-   <dcterms:place>Québec, Quebec, Canada</dcterms:place>
-   <dcterms:place>Saint Lawrence, Gulf of, Canada</dcterms:place>
    <dcterms:subject>Nautical charts--Atlantic Coast (Canada)--Early works to 1800</dcterms:subject>
    <dcterms:subject>Nautical charts--Saint Lawrence, Gulf of--Early works to 1800</dcterms:subject>
    <dcterms:subject>Nautical charts--Maritime Provinces--Early works to 1800</dcterms:subject>
@@ -20,7 +18,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_009618</dcterms:identifier>
-   <dcterms:rights>No known copyright restrictions. This work is licensed for use under a Creative Commons Attribution Non-Commercial Share Alike License (CC BY-NC-SA).</dcterms:rights>
+   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <dcterms:language>Dutch</dcterms:language>
