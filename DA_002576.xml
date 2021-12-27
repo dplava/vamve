@@ -2,22 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>View of Mount Vernon.</dcterms:title>
    <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
    <dcterms:created>1875</dcterms:created>
-   <dcterms:description>Stereoscopic view of the southeast corner of the Mount Vernon Mansion. Mounted on an orange board. Copyright by the Mount Vernon Association.  </dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:description>Stereoscopic view of the southeast corner of the Mount Vernon Mansion. Mounted on an orange board. Copyright by the Mount Vernon Association.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
    <dcterms:subject>Mansion exterior</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_002576</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
