@@ -10,11 +10,12 @@
    <dcterms:creator>Mitchell, John, 1711-1768</dcterms:creator>
    <dcterms:contributor>Hôtel de Soubise (Paris, France)</dcterms:contributor>
    <dcterms:created>1778</dcterms:created>
+   <dcterms:spatial>United States</dcterms:spatial>
    <dcterms:subject>United States--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_008529</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <dcterms:language>French</dcterms:language>

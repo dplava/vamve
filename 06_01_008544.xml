@@ -11,12 +11,14 @@
    <dcterms:publisher>Dury, Andrew</dcterms:publisher>
    <dcterms:publisher>Rocque (M. A.) (Firm)</dcterms:publisher>
    <dcterms:created>1762</dcterms:created>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>United States--History--French and Indian War, 1754-1763--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_008544</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <dcterms:language>French</dcterms:language>

@@ -10,6 +10,9 @@
    <dcterms:creator>Bonne, Rigobert, 1727-1794</dcterms:creator>
    <dcterms:contributor>Lattré, Jean</dcterms:contributor>
    <dcterms:created>1781</dcterms:created>
+   <dcterms:spatial>Greater Antilles</dcterms:spatial>
+   <dcterms:spatial>Canada</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
    <dcterms:subject>North America--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>United States--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Canada--Maps--Early works to 1800</dcterms:subject>
@@ -17,7 +20,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_008531</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>French</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/60</edm:isShownAt>
