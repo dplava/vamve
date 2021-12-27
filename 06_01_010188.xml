@@ -9,12 +9,14 @@
    <dcterms:title>Krigs theatreni i America, 1777 : seat of war in America, 1777</dcterms:title>
    <dcterms:created>1777</dcterms:created>
    <dcterms:description>This map of southern New England and the mid-Atlantic region appears in a Swedish-language gazetteer of the British Colonies titled "Beskrifning öfver de engelska colonierne i Nord-America," (Stockholm : Tryckt i Kongl. Tryckeriet, 1777). The map itself identifies towns and cities, county boundaries in the mid-Atlantic states, and major roads.</dcterms:description>
+   <dcterms:spatial>New England</dcterms:spatial>
+   <dcterms:spatial>Middle Atlantic</dcterms:spatial>
    <dcterms:subject>New England--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Middle Atlantic States--History--Revolution, 1775-1783--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_010188</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>Swedish</dcterms:language>
    <dcterms:language>English</dcterms:language>

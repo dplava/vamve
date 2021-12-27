@@ -10,6 +10,7 @@
    <dcterms:creator>Donnhaeuser, Johann David, 1752-1789</dcterms:creator>
    <dcterms:created>1780</dcterms:created>
    <dcterms:description>German woodcut of the siege of Charleston, South Carolina in May 1780. The depiction of Charleston is imaginary. Donnhaeuser lacked a view of Charleston so he modified a pre-existing view of an unidentified German city to show the siege.</dcterms:description>
+   <dcterms:spatial>Charleston, South Carolina</dcterms:spatial>
    <dcterms:subject>Charleston (S.C)--History--Revolution, 1775-1783--Aerial views--Early works to 1800</dcterms:subject>
    <dcterms:subject>Charleston (S.C)--History--Revolution, 1775-1783--Pictorial works--Early works to 1800</dcterms:subject>
    <dcterms:subject>Charleston (S.C)--History--Siege, 1780--Aerial views--Early works to 1800</dcterms:subject>
@@ -17,7 +18,7 @@
    <dcterms:medium>Prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_014551</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/239</edm:isShownAt>
