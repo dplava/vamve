@@ -9,6 +9,9 @@
    <dcterms:title>Lauff des flusses St. Laurentzi von Quebec bis an den See Ontario : 2. bladt</dcterms:title>
    <dcterms:creator>Heiden, Christian Friedrich von der</dcterms:creator>
    <dcterms:created>1760?</dcterms:created>
+   <dcterms:spatial>Saint Lawrence River, New York</dcterms:spatial>
+   <dcterms:spatial>Quebec, Canada</dcterms:spatial>
+   <dcterms:spatial>Ontario, Lake</dcterms:spatial>
    <dcterms:subject>Saint Lawrence River--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>New York (State)--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Ontario--Maps--Early works to 1800</dcterms:subject>
@@ -16,7 +19,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_009540</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>German</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/260</edm:isShownAt>

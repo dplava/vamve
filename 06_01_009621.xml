@@ -11,11 +11,12 @@
    <dcterms:contributor>Berger, Friedrich Gottlieb, 1713-</dcterms:contributor>
    <dcterms:created>1755</dcterms:created>
    <dcterms:description>Shows the east coast from the Gulf of the St. Lawrence to the Carolinas, and the interior as far west as the Mississippi Valley. Displayed here is the first state of the map, lacking the inset of Fort Frederick.</dcterms:description>
+   <dcterms:spatial>North America</dcterms:spatial>
    <dcterms:subject>North America--Maps</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_009621</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>German</dcterms:language>
    <dcterms:language>Latin</dcterms:language>

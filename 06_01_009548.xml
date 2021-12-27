@@ -11,6 +11,9 @@
    <dcterms:contributor>Klockhoff, H.</dcterms:contributor>
    <dcterms:publisher>Covens et Mortier et Covens, junior</dcterms:publisher>
    <dcterms:created>1780</dcterms:created>
+   <dcterms:spatial>New Hampshire</dcterms:spatial>
+   <dcterms:spatial>New York</dcterms:spatial>
+   <dcterms:spatial>Vermont</dcterms:spatial>
    <dcterms:subject>Land grants--New Hampshire--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Real property--New Hampshire--Maps--Early works to 1800</dcterms:subject>
    <dcterms:subject>Land grants--New York (State)--Maps--Early works to 1800</dcterms:subject>
@@ -23,7 +26,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_009548</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll42/id/264</edm:isShownAt>

@@ -9,6 +9,8 @@
    <dcterms:title>A new chart of the coast of New England, Nova Scotia, and the islands of St. John, Cape Breton, Sable, the banks of St. Peters, Mizen, Banquereau, Porpoise, Middle Sable Island, Browns, Cape Sable, Jefferys, and with part of St. Georges Bank ; these chartz are followed, according tho them executed by order of the Lords Commissioners of the Admiralty in England</dcterms:title>
    <dcterms:creator>Keulen, Gerard van</dcterms:creator>
    <dcterms:created>1784</dcterms:created>
+   <dcterms:spatial>Nova Scotia, Canada</dcterms:spatial>
+   <dcterms:spatial>New England, United States</dcterms:spatial>
    <dcterms:subject>Nautical charts--New England--Early works to 1800</dcterms:subject>
    <dcterms:subject>Nautical charts--Nova Scotia--Early works to 1800</dcterms:subject>
    <dcterms:subject>Coasts--New England--Maps--Early works to 1800</dcterms:subject>
@@ -16,7 +18,7 @@
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>06_01_009616</dcterms:identifier>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Richard H. Brown Revolutionary War Map Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <dcterms:language>Dutch</dcterms:language>
