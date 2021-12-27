@@ -2,19 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Stereoscopic Views on the Schuylkill River and Vicinity [Washington Headquarters, Valley Forge] </dcterms:title>
+   <dcterms:title>Stereoscopic Views on the Schuylkill River and Vicinity [Washington Headquarters, Valley Forge]</dcterms:title>
    <dcterms:creator>Fisher, S. R. (Samuel Ritter), 1834-1908</dcterms:creator>
-   <dcterms:description>Stereoscopic view of Washington's Headquarters at Valley Forge. Mounted on yellow board. No. 11 in a series of Stereoscopic Views on the Schuylkill River and Vicinity, Photographed by S. R. Fisher, Norristown, PA. </dcterms:description>
+   <dcterms:description>Stereoscopic view of Washington's Headquarters at Valley Forge. Mounted on yellow board. No. 11 in a series of Stereoscopic Views on the Schuylkill River and Vicinity, Photographed by S. R. Fisher, Norristown, PA.</dcterms:description>
    <dcterms:subject>Valley Forge (Pa.)</dcterms:subject>
-   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
    <dcterms:medium>photograph</dcterms:medium>
-   <dcterms:medium>Albumen prints</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003316</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

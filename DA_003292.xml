@@ -2,18 +2,18 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Washington's Headquarters, Newburgh, N. Y. </dcterms:title>
-   <dcterms:description>Stereoscopic view of exterior of Washington's headquarters at Newburgh. Four men are posed in front of the building. Mounted on tan board. Stamped in ink on the reverse, "Washington's Headquarters, Newburgh, N. Y."  </dcterms:description>
+   <dcterms:title>Washington's Headquarters, Newburgh, N. Y.</dcterms:title>
+   <dcterms:description>Stereoscopic view of exterior of Washington's headquarters at Newburgh. Four men are posed in front of the building. Mounted on tan board. Stamped in ink on the reverse, "Washington's Headquarters, Newburgh, N. Y."</dcterms:description>
    <dcterms:subject>New York (State)</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003292</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

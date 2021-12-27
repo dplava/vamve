@@ -2,24 +2,25 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>East Parlor </dcterms:title>
+   <dcterms:title>East Parlor</dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
-   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
+   <dcterms:contributor>Copyright by the Mount Vernon Association.</dcterms:contributor>
+   <dcterms:publisher>N. G. Johnson Photographer, 317 Pennsylvania Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views.</dcterms:publisher>
    <dcterms:created>1880</dcterms:created>
-   <dcterms:description>Stereoscopic view of the northeast corner of the little parlor. Photograph taken from the doorway in the central passage. A relic case is situated in the corner and a portion of the harpsichord is visible. Mounted on yellow board. The photographer's imprint on the stereograph mount reads, N. G. Johnson, Photographer, 317 Pennsylvania Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views. The reverse of the stereograph has an adhered printed label - East Parlor, Showing the Harpsichord, the wedding present of Washington to Miss Custis, his adopted daughter, when she married Col. Lewis; also, the old Flute used by Washington. The room is now furnished by the State of Ohio, so as to appear as it was in Washington's time. Copyright by the Mt. Vernon Association, 1880. </dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:description>Stereoscopic view of the northeast corner of the little parlor. Photograph taken from the doorway in the central passage. A relic case is situated in the corner and a portion of the harpsichord is visible. Mounted on yellow board. The photographer's imprint on the stereograph mount reads, N. G. Johnson, Photographer, 317 Pennsylvania Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views. The reverse of the stereograph has an adhered printed label - East Parlor, Showing the Harpsichord, the wedding present of Washington to Miss Custis, his adopted daughter, when she married Col. Lewis</dcterms:description>
+   <dcterms:description>also, the old Flute used by Washington. The room is now furnished by the State of Ohio, so as to appear as it was in Washington's time. Copyright by the Mt. Vernon Association, 1880.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
    <dcterms:subject>Mansion interior</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003325</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

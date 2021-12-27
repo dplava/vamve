@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>No. 1256. General Washington's Treasure Chest. </dcterms:title>
+   <dcterms:title>No. 1256. General Washington's Treasure Chest.</dcterms:title>
    <dcterms:creator>Kilburn Brothers</dcterms:creator>
    <dcterms:creator>Kilburn, B. W. (Benjamin West), 1827-1909</dcterms:creator>
    <dcterms:publisher>Kilburn Brothers</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of Washington's iron 'treasure' chest. Mounted on yellow board. Photographed and Published by Kilburn Brothers, ----- Littleton, N. H. The iron chest is in Mount Vernon's Fine and Decorative Arts Collection [W-1964]. </dcterms:description>
-   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:description>Stereoscopic view of Washington's iron 'treasure' chest. Mounted on yellow board. Photographed and Published by Kilburn Brothers, ----- Littleton, N. H. The iron chest is in Mount Vernon's Fine and Decorative Arts Collection [W-1964].</dcterms:description>
+   <dcterms:medium>Stereograph</dcterms:medium>
    <dcterms:medium>photograph</dcterms:medium>
-   <dcterms:medium>Albumen prints</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003315</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

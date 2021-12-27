@@ -2,22 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>No. 989. Washington Equestrian Statue, Public Garden, Boston, Mass.</dcterms:title>
    <dcterms:creator>Soule, John P.</dcterms:creator>
    <dcterms:contributor>Ball, Thomas, 1819-1911 (sculptor)</dcterms:contributor>
    <dcterms:publisher>Soule, John P.</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of an equestrian statue of George Washington by Thomas Ball installed in Boston's Public Garden. The bronze sculpture was commissioned in 1859, modeled in 1864, and cast and dedicated in 1869.  Mounted on orange board. The photographer's imprint on the front of the card reads: Boston and Vicinity, John P. Soule--Boston, 199 Washington Street. No. 989. Washington Equestrian Statue, Public Garden, Boston, Mass. </dcterms:description>
+   <dcterms:description>Stereoscopic view of an equestrian statue of George Washington by Thomas Ball installed in Boston's Public Garden. The bronze sculpture was commissioned in 1859, modeled in 1864, and cast and dedicated in 1869. Mounted on orange board. The photographer's imprint on the front of the card reads: Boston and Vicinity, John P. Soule--Boston, 199 Washington Street. No. 989. Washington Equestrian Statue, Public Garden, Boston, Mass.</dcterms:description>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
-   <dcterms:subject>Boston (Mass.)</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:subject>Boston, Massachusetts</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003260</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

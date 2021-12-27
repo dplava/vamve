@@ -2,23 +2,23 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Untitled [Mount Vernon Mansion] </dcterms:title>
-   <dcterms:created>1870-1875</dcterms:created>
-   <dcterms:description>Stereoscopic view of the east front of the Mount Vernon Mansion, c. 1873. The balustrade and south porch have been removed for repairs.  Greenery adorns the pediment above the central doorway and is hung between the two columns directly adjacent to the entrance. Mounted on yellow board. Photographer unknown. </dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:title>Untitled [Mount Vernon Mansion]</dcterms:title>
+   <dcterms:created>1870/1875</dcterms:created>
+   <dcterms:description>Stereoscopic view of the east front of the Mount Vernon Mansion, c. 1873. The balustrade and south porch have been removed for repairs. Greenery adorns the pediment above the central doorway and is hung between the two columns directly adjacent to the entrance. Mounted on yellow board. Photographer unknown.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003205</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/457</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=457</edm:preview>
