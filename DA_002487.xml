@@ -2,22 +2,23 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>The Home of Washington Illustrated. No. 22; Mansion, West Front.</dcterms:title>
+   <dcterms:title>The Home of Washington Illustrated. No. 22</dcterms:title>
+   <dcterms:title>Mansion, West Front.</dcterms:title>
    <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
-   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:created>1866-1878</dcterms:created>
-   <dcterms:description>Stereoscopic view of the west front of the Mansion taken from the bowling green. Mounted on beige board. Part of a set of 40 views (No. 22). Photographed by (Alexander) Gardner, 921 Penna. Avenue, Washington D. C. for the Ladies' Mount Vernon Association. For Sale only at Mount Vernon. </dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:publisher>Mount Vernon Ladies' Association of the Union</dcterms:publisher>
+   <dcterms:created>1866/1878</dcterms:created>
+   <dcterms:description>Stereoscopic view of the west front of the Mansion taken from the bowling green. Part of a set of 40 views (No. 22) taken by Mount Vernon Ladies' Association photographer Alexander Gardner.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA. : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_002487</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

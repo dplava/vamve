@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Mount Vernon.</dcterms:title>
+   <dcterms:title>Stereograph - Mount Vernon</dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
    <dcterms:publisher>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:publisher>
-   <dcterms:created>1870-1875</dcterms:created>
-   <dcterms:description>Stereoscopic view of the east front of the Mansion at Mount Vernon taken from the southeast lawn, circa 1874. The porch and balustrade have been removed for repairs. Mounted on yellow board. Photographer's imprint on the front of the cardboard mount reads, J. F. Jarvis, Publisher and Dealer, Stereoscopic Views. 135 Pennsylvania Avenue, Washington D. C. A label affixed to the reverse of the mount reads: Mount Vernon. Once the home and now the resting place of the immortal Washington. The Tomb contains the remains of Washington and his wife, Martha. The Mansion contains many historical relics, among which may be mentioned the Key of the Bastile (sp.), presented by LaFayette, portions of the military and personal furniture of General Washington, &amp;c. &amp;c.</dcterms:description>
+   <dcterms:created>1871/1875</dcterms:created>
+   <dcterms:description>Stereoscopic view of the east front of the Mansion at Mount Vernon taken from the southeast lawn, circa 1874. The porch and balustrade have been removed for repairs. Albumen prints on a card mount that has the photographer's name and address printed on the outer edges, "J. F. Jarvis, Publisher and Dealer, Stereoscopic Views. 135 Pennsylvania Avenue, Washington D. C." The reverse of the stereograph has an adhered description of Mount Vernon.</dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>Stereographs</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:medium>Albumen prints</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_002452</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
