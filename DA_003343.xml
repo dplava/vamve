@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Untitled [Statue of George Washington] </dcterms:title>
+   <dcterms:title>Untitled [Statue of George Washington]</dcterms:title>
    <dcterms:contributor>Greenough, Horatio, 1805-1852 (sculptor)</dcterms:contributor>
-   <dcterms:description>Stereoscopic view of the statue of George Washington by Horatio Greenough. The sculpture is displayed outdoors on a base that reads First in the Hearts of His Countrymen and First in Peace on two sides. Mounted on orange board. </dcterms:description>
+   <dcterms:description>Stereoscopic view of the statue of George Washington by Horatio Greenough. The sculpture is displayed outdoors on a base that reads First in the Hearts of His Countrymen and First in Peace on two sides. Mounted on orange board.</dcterms:description>
    <dcterms:subject>Washington (D.C.)</dcterms:subject>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003343</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Untitled [Washington's Family Dining Room] </dcterms:title>
+   <dcterms:title>Untitled [Washington's Family Dining Room]</dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
-   <dcterms:description>Stereoscopic view of the family dining room at Mount Vernon. View towards the east wall includes a small table and the fireplace. Mounted on yellow board. Photographer's imprint on the front of the card reads: J. F. Jarvis' Stereoscopic Views, 135 Pa. Ave. Washington, D. C. Penciled note on the reverse - Washington's Family Dining Room.  </dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:description>Stereoscopic view of the family dining room at Mount Vernon. View towards the east wall includes a small table and the fireplace. Mounted on yellow board. Photographer's imprint on the front of the card reads: J. F. Jarvis' Stereoscopic Views, 135 Pa. Ave. Washington, D. C. Penciled note on the reverse - Washington's Family Dining Room.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>Small Dining Room</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003360</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

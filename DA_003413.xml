@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>166 Tomb of Washington, Mt. Vernon, Va. </dcterms:title>
+   <dcterms:title>166 Tomb of Washington, Mt. Vernon, Va.</dcterms:title>
    <dcterms:creator>White, Hawley C.</dcterms:creator>
    <dcterms:publisher>H.C. White Co.</dcterms:publisher>
-   <dcterms:created>1902 (copyright)</dcterms:created>
-   <dcterms:created>1903-04-14 (patented)</dcterms:created>
-   <dcterms:description>Stereoscopic view of the Washington's tomb at Mount Vernon with several visitors. Mounted on gray board. The publisher's imprint on the front of the cardboard mount reads: The "Perfec" Stereograph. (Trade Mark.) Patented April 14, 1903. Other Patents Pending. H. C. White Co., Publishers. General Office and Works, North Bennington, Vt., U.S.A. Title: 166 Tomb of Washington, Mt. Vernon, Va. Copyright 1902 by H. C. White Co. </dcterms:description>
-   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:medium>Stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:description>Stereoscopic view of the Washington's tomb at Mount Vernon with several visitors. Mounted on gray board. The publisher's imprint on the front of the cardboard mount reads: The "Perfec" Stereograph. (Trade Mark.) Patented April 14, 1903. Other Patents Pending. H. C. White Co., Publishers. General Office and Works, North Bennington, Vt., U.S.A. Title: 166 Tomb of Washington, Mt. Vernon, Va. Copyright 1902 by H. C. White Co.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Tomb</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003413</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

@@ -2,16 +2,16 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>714. Mt. Vernon Mansion, East Front and Lawn. </dcterms:title>
-   <dcterms:description>Stereoscopic view, color photomechanical print, of the east front of the Mansion from the northeast east. Printed on cream colored mount.  </dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate) --Mansion exterior</dcterms:subject>
+   <dcterms:title>714. Mt. Vernon Mansion, East Front and Lawn.</dcterms:title>
+   <dcterms:description>Stereoscopic view, color photomechanical print, of the east front of the Mansion from the northeast east. Printed on cream colored mount.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:medium>Photomechnical print</dcterms:medium>
-   <dcterms:medium>Stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003393</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

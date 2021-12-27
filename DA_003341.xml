@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>No. 64/70 The Capitol from East Capitol Square, Marble Statue of Washington in the Foreground. </dcterms:title>
+   <dcterms:title>No. 64/70 The Capitol from East Capitol Square, Marble Statue of Washington in the Foreground.</dcterms:title>
    <dcterms:creator>E. &amp; H.T. Anthony (Firm)</dcterms:creator>
    <dcterms:contributor>Greenough, Horatio, 1805-1852 (sculptor)</dcterms:contributor>
-   <dcterms:publisher>E. &amp; H.T. Anthony (Firm)</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of East Capitol Square and pedestal with statue of George Washington by Horatio Greenough. Several men with scaffolding appear to be working on the sculpture. Mounted on yellow board. The stereograph is part of a series Views in Washington City, D. C. A label affixed to the back of the card mount reads: Views in Washington City, D. C. No. 64/70 (partial torn)..The Capitol from East Capitol Square, Marble Statue of Washington in the Foreground. Published by E. &amp; H. T. Anthony &amp; Co., Emporium of American and Foreign Stereoscopic Views, Chromos and Albums, 591 Broadway, opposite Metropolitan Hotel, New York. </dcterms:description>
+   <dcterms:publisher>Published by E. &amp; H. T. Anthony &amp; Co., Emporium of American and Foreign Stereoscopic Views, Chromos and Albums, 591 Broadway, opposite Metropolitan Hotel, New York.</dcterms:publisher>
+   <dcterms:description>Stereoscopic view of East Capitol Square and pedestal with statue of George Washington by Horatio Greenough. Several men with scaffolding appear to be working on the sculpture. Mounted on yellow board. The stereograph is part of a series Views in Washington City, D. C. A label affixed to the back of the card mount reads: Views in Washington City, D. C. No. 64/70 (partial torn)..The Capitol from East Capitol Square, Marble Statue of Washington in the Foreground. Published by E. &amp; H. T. Anthony &amp; Co., Emporium of American and Foreign Stereoscopic Views, Chromos and Albums, 591 Broadway, opposite Metropolitan Hotel, New York.</dcterms:description>
    <dcterms:subject>United States Capitol (Washington, D.C.)</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_003341</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
