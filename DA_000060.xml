@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Washington Homestead, Mt. Vernon.</dcterms:title>
    <dcterms:creator>Bell &amp; Bro. (Washington, D.C.)</dcterms:creator>
-   <dcterms:publisher>Bell &amp; Bro. (Washington, D.C.)</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of the east front of the Mount Vernon Mansion taken from the southeast. Note the dilapidated state of the house with ship masts stabilizing the piazza roof. A child's hobby horse sits on the piazza. Mounted on yellow board. Label adhered to the reverse reads: Washington Homestead, Mt. Vernon. Photographed and Published by Bell &amp; Bro., 480 Pennsylvania Avenue, Washington, D. C. [E]ntered according to Act of Congress A. D., 1867, by F. H. Bell, in the District Court of the District of Columbia. Handwritten note in pencil - 'From Mr. Carpenter's Records 12/12/49'</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:publisher>Photographed and Published by Bell &amp; Bro., 480 Pennsylvania Avenue, Washington, D. C.</dcterms:publisher>
+   <dcterms:description>Stereoscopic view of the east front of the Mount Vernon mansion taken from the southeast. Entered according to Act of Congress A. D., 1867, by F. H. Bell, in the District Court of the District of Columbia.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_000060</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

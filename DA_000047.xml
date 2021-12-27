@@ -2,25 +2,25 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Mrs. Washington's Sitting Room.</dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
-   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
+   <dcterms:contributor>Copyright 1880 by the Mount Vernon Association</dcterms:contributor>
+   <dcterms:publisher>N. G. Johnson, Photographer, No. 317 Pa. Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views.</dcterms:publisher>
    <dcterms:created>1880</dcterms:created>
    <dcterms:description>Stereoscopic view of the downstairs chamber in the Mount Vernon Mansion. Formerly called Martha Washington's sitting room. View towards the north wall shows a relic case positioned in front of doorway from the central passage. The Houdon bust of Washington is displayed within the case. Mounted on orange board. The photographer's imprint on the stereograph mount reads, N. G. Johnson, Photographer, No. 317 Pa. Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views. The reverse of the stereograph has an adhered printed label - Mrs. Washington's Sitting Room. Adjoining the Family Dining Room and containing the most important relics. A faint stamp in blue ink reads: Copyright 1880 by the Mount Vernon Association.</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
    <dcterms:subject>Mansion interior</dcterms:subject>
    <dcterms:subject>Downstairs Chamber</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>Albumen prints</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:medium>Stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_000047</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

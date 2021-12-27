@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Untitled [Dining Room]</dcterms:title>
+   <dcterms:title>Dining Room.</dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
    <dcterms:created>1870</dcterms:created>
-   <dcterms:description>Stereoscopic view of the southeast corner of the dining room at Mount Vernon including the fireplace, c. 1870. Photographic print on stereocard. Mounted on yellow board. Printed text on front of the cardboard mount reads: J. F. Jarvis' Stereoscopic Views. 135 Pa. Ave. Washington, D. C. Note - on the reverse, the accession is mismarked as RP-6 and should read RP-7.</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:description>Interior view towards the southeast corner of the dining room at Mount Vernon including the fireplace. Photographic print on stereocard. Note - on the reverse, the accession is mismarked as RP-6 and should read RP-7.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_000087</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

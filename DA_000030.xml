@@ -2,19 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>The Mansion House, Mount Vernon, Va.</dcterms:title>
    <dcterms:creator>Langenheim, Frederick, 1809-1879</dcterms:creator>
    <dcterms:contributor>F. Langenheim's Patent, Nov. 19, 1850.</dcterms:contributor>
-   <dcterms:created>1850-1860</dcterms:created>
+   <dcterms:created>1850/1860</dcterms:created>
    <dcterms:description>Stereoscopic view of the Mount Vernon mansion from the southeast, circa 1856.</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Glass Stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Glass stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_000030</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

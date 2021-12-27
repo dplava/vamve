@@ -2,24 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>New Jersey Room, Mount Vernon Mansion</dcterms:title>
    <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
    <dcterms:publisher>Dillon, Luke C., 1836-1904</dcterms:publisher>
-   <dcterms:created>1884-1888</dcterms:created>
-   <dcterms:description>Stereoscopic view of the blue room, formerly called New Jersey Room, c. 1886. View towards northwest corner includes part of the bedstead and fireplace. Mounted on orange board. Printed directly on the reverse of the cardboard mount: New Jersey Room, Mount Vernon Mansion. Copyrighted by Luke C Dillon, Photographer to Mount Vernon, Office at Pullman's Gallery, 935 Penn. Avenue, Washington, D. C.</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:created>1884/1888</dcterms:created>
+   <dcterms:description>Interior view of the blue room, circa 1886.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
    <dcterms:subject>Mansion interior</dcterms:subject>
    <dcterms:subject>Blue room</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_000045</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

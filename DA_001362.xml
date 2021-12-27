@@ -2,21 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>The home of Washington Illustrated. No. 11; Interior of tomb</dcterms:title>
+   <dcterms:title>The home of Washington Illustrated. No. 11</dcterms:title>
+   <dcterms:title>Interior of tomb</dcterms:title>
    <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
    <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:created>1866-1875</dcterms:created>
-   <dcterms:description>Stereograph, albumen photographs of the interior of George Washington's tomb from outside the gated entrance showing both George and Martha Washington's sarcophagi, circa 1870. The photographs are mounted on tan board. The reverse has a printed list of 45 photographs taken by Alexander Gardner for the Ladies' Mount Vernon Association.</dcterms:description>
-   <dcterms:subject>George Washington, 1732-1799--Tomb</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>Albumen prints</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:medium>Stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:publisher>Gardner, Alexander, 1821-1882</dcterms:publisher>
+   <dcterms:created>1865/1875</dcterms:created>
+   <dcterms:description>Stereograph, albumen photographs of the interior of George Washington's tomb from outside the gated entrance showing both George and Martha Washington's sarcophagi, circa 1870. The photographs are mounted on cardboard. The reverse has a printed list of 45 photographs taken by Alexander Gardner for the Ladies' Mount Vernon Association.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Tomb</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Albumen print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_001362</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>(14) Home of Washington, preserved in memory of the Republic's founder, Mount Vernon, Va.</dcterms:title>
    <dcterms:publisher>Underwood &amp; Underwood</dcterms:publisher>
-   <dcterms:created>1908 - copyright</dcterms:created>
+   <dcterms:created>1908</dcterms:created>
    <dcterms:description>Stereoscopic view of the east front of the Mansion at Mount Vernon. View includes the south porch and visitors lounging and strolling on the east lawn. Mounted on gray board. Publisher's imprint on the front of the board reads: Underwood &amp; Underwood, Publishers. New York. London. Toronto-Canada. Ottawa-Kansas. Works and Studios - Sun Sculpture trademark. Washington, D. C. Arlington, N. J. Littleton, N. H. Title - (14) Home of Washington preserved in memory of the Republic's founder, Mount Vernon, Virginia. Copyright 1908 by Underwood &amp; Underwood. A history of the estate is printed directly onto the back of mount. Titles of the stereograph are printed in English, French, German, Spanish, Swedish and Russian.</dcterms:description>
-   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>Card photographs</dcterms:medium>
-   <dcterms:medium>Stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>Card photograph</dcterms:medium>
+   <dcterms:medium>Stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_001326</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

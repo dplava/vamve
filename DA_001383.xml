@@ -2,22 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Gardener's House at Mt. Vernon</dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
    <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
-   <dcterms:created>1878-1883</dcterms:created>
-   <dcterms:description>Stereograph of the gardener's house at Mount Vernon. The view includes four individuals posed in front of the structure, a man leaning against the hitching post and several other people in the distance along the north lane. Adjacent to building appears to be a dog house and a sign that reads 'Canes for Sale.' Mounted on orange board. The publisher's imprint on the front of the stereograph mount reads:  N. G. Johnson, Photographer, 426 7th Street, Washington, D. C. Only Authorized Publisher of Mount Vernon Views. The label adhered on the reverse reads: Gardener's House at Mt. Vernon, and two other small houses used for domestic purposes during Washington's time. N. G. Johnson, Photographer, 426 7th St., Washington, D. C.</dcterms:description>
+   <dcterms:publisher>N. G. Johnson Photographer, 426 7th Street, Washington D. C. Only Authorized Publisher of Mount Vernon Views</dcterms:publisher>
+   <dcterms:created>1878/1883</dcterms:created>
+   <dcterms:description>Stereograph of the gardener's house at Mount Vernon. The view includes four individuals posed in front of the structure, a man leaning against the hitching post and several other people in the distance along the north lane. Adjacent to building appears to be a dog house and a sign that reads 'Canes for Sale.' Albumen prints mounted to an orange board imprinted with the photographers name and address. The caption on the reverse reads: Gardener's House at Mt. Vernon, and two other small houses used for domestic purposes during Washington's time.</dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate) : Outbuilding</dcterms:subject>
-   <dcterms:medium>Photographic prints</dcterms:medium>
-   <dcterms:medium>albumen prints</dcterms:medium>
-   <dcterms:medium>card photographs</dcterms:medium>
-   <dcterms:medium>stereographs</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:medium>albumen print</dcterms:medium>
+   <dcterms:medium>card photograph</dcterms:medium>
+   <dcterms:medium>stereograph</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
    <dcterms:identifier>DA_001383</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
