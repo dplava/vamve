@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Martha Washington to Bartholomew Dandridge, Sr., 1778 November 2</dcterms:title>
+   <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:contributor>Dandridge, Bartholomew, Sr., 1737-1785</dcterms:contributor>
+   <dcterms:created>1778-11-02</dcterms:created>
+   <dcterms:description>Martha writes that she is sorry that mama is ill -- glad she recovered -- expect she will take another trip to the northward -- the "pore General is not likely to come to see us" -- if she stays home hopes to see him soon -- sends Patty a kiss and pair of shoes -- not a doll in the city of Philadelphia -- has had no letter since Washington came from camp -- duty to Mama, love to sister Aylett [Elizabeth Dandridge Aylett, later to marry Henley] sister and family. Autograph letter signed, 2 pages, laminated, incomplete watermark (powder horn &amp; GR). | Papers of George Washington - Reel#1</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003903</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/47</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=47</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Martha Washington to Francis Bassett Washington, 1793 February 8</dcterms:title>
+   <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:contributor>Lear, Frances "Fanny" Bassett Washington, 1767-1796</dcterms:contributor>
+   <dcterms:created>1793-02-08</dcterms:created>
+   <dcterms:description>Martha Washington writes from Philadelphia to 'My Dear Fanny.' Southern post not in yet -- all are well -- winter has been warm, causes a sickly season -- Mr. Blair says many friends "are dead below" -- warm winter -- farmers ploughed all winter -- afraid there will be no ice for ice houses in the city -- hears from Mrs. Stuart -- she [Mrs. Stuart] hasn't seen Mr. Fairfax and doesn't know whether he got to England -- Mrs. Harrison is well -- Mrs. Mercer in town and sick -- love to the Major -- "I hope ere this that he has got the better of the spitting Blood you mentioned in your last." Autograph letter signed, 2 pages, laminated, docketed by F. Washington "Feb. 8th," George Washington's watermarked paper (incomplete). Name on original manuscript appears as "M. Washington".</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003911</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/44</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=44</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

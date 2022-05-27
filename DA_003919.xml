@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter Cover, Martha Washington to Mrs. Elizabeth Powell, Philadelphia, 1797 May 4</dcterms:title>
+   <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:contributor>Powel, Elizabeth Willing, 1743-1830</dcterms:contributor>
+   <dcterms:created>1797-05-04</dcterms:created>
+   <dcterms:description>Autograph document, docketed by Mrs. Powel, "Received Thursday May ye 4th 1797, Answered May 9th 1797," directed "Favred. by Mr. Craik", excellent black seal with George Washington's coat of arms, pencil notation in another hand: "Duval - he is not a compleat Cook - but understands making a Bouille Soups - Compots or preserves - a compleat Steward &amp; Waiter -understands arranging his Table cleaning plate &amp;ca. -- is honest sober &amp; obliging - cleanly in his Person - careful of everything under his Direction". | Date on original catalog card appears [1797][April]. | Papers of George Washington - Reel#5</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003919</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll7/id/3</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll7&amp;CISOPTR=3</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
