@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Inventory, Articles at Mount Vernon with appraised value, 1800 </dcterms:title>
+   <dcterms:created>1800</dcterms:created>
+   <dcterms:description>Inventory, draft. A.D. 64 pages. Inventory by room of articles at Mount Vernon, with appraised values -- includes contents of mansion house, kitchen, office, storehouse, washhouse, gardeners house, salt house, black smith shop, etc. -- also inventory of livestock, and farm equipment on each of the farms, the distillery, mill -- on the mansion house farm, inventory of articles in barn, greenhouse, lost, fish house, etc., paint cellar -- lists of gardeners tools, linen, etc., and plated ware, etc. -- list of books and pamphlets in library by case, with some marked "Taken by B[ushrod] Washington" and "Mrs. Lewis's property," "taken by G. Washington", and "To Mrs. Washington," -- maps, charts, etc. -- includes number of Negroes owned by George Washington in his own right, "which Mrs. Washington intending to liberate at the end of the present year, can only be valued for the service of the working negroes for one year." Autograph document, draft, in unknown hand, entitled "An Inventory etc. of Articles at Mount Vernon with their appraised value, annexed." watermark. Date on original catalog card appears [1800?], but an entry on page 59 enumerates the slave population "which Mrs. Washington [is] intending to liberate at the end of the present year." Since she signed a deed of manumission for her deceased husband's slaves in December 1800, the date of this estate inventory would seem to be 1800. </dcterms:description>
+   <dcterms:medium>Inventories</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000410</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/368</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=368</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

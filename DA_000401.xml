@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Thomas Paine to John Hustler, 1789 December 8 </dcterms:title>
+   <dcterms:creator>Paine, Thomas, 1737-1809</dcterms:creator>
+   <dcterms:contributor>Hustler, John, 1715-1790</dcterms:contributor>
+   <dcterms:created>1789-12-08</dcterms:created>
+   <dcterms:description>In this letter, friend then foe of Washington, Thomas Paine wrote to John Hustler on issues of a new constitution in France and directly transcribes Washington’s address to the Society of Quakers (written by GW c. 13 October 1789, in response to their address to him, c. 3 October 1789). On the first page of the letter, Paine remarked that he had received letters and newspapers from America as recent as October 17 and that he has included Washington’s address here because he thinks Hustler will find it interesting. Paine did not say where he got the address, but it was printed in newspapers as early as the October 15. Autograph letter signed, 4 pages, with integral address panel and partial red wax seal. Letter damaged with some loss.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000401</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/87</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=87</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

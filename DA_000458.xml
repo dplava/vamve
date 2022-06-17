@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Broadside of funeral procession arrangements for George Washington in Haverhill, Massachusetts, 1800 February 4</dcterms:title>
+   <dcterms:created>1800-02-04</dcterms:created>
+   <dcterms:description>Printed broadside of "Arrangements to be observed On the 22nd day of February next, agreeably to the proclamation of the President of the United States, For Paying a Public Tribute of Respect to the Memory of our beloved General George Washington, late deceased." A eulogy will be given at Reverend Abiel Abbot's Meeting House. The broadside includes an order of procession and instructions to the inhabitants of Haverhill on proper mourning wear. The signature of Samuel White Esq. appears on the reverse. </dcterms:description>
+   <dcterms:medium>Broadsides (notices)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000458</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/110</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=110</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

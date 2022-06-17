@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Broadside subscription order for "Life and Writings of Washington with Historical Notes, Illustrations, Engravings" by Jared Sparks, 1834 February 21</dcterms:title>
+   <dcterms:creator>Sparks, Jared, 1789-1866</dcterms:creator>
+   <dcterms:created>1834-02-21</dcterms:created>
+   <dcterms:description>Printed form completed in manuscript. The top half of the form is a prospectus for Jared Sparks's Life and Writings of Washington, with Historical Notes, Illustrations, Engravings, &amp;c. It features a wood engraving of the "Evacuation of Boston, from a Revolutionary medal." The bottom of the form certifies that Oliver B. Dorance - a lawyer and freemason from Portland, Maine - has paid 5 dollars for volumes two and three of Sparks's book. The receipt is signed by Benjamin R. Downes on behalf of the publisher. </dcterms:description>
+   <dcterms:medium>Broadsides (notices)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_000478</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/114</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=114</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
