@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Charles Cornwallis to Thomas Law, 1796 March 28</dcterms:title>
+   <dcterms:creator>Cornwallis, Charles Cornwallis, Marquis, 1738-1805</dcterms:creator>
+   <dcterms:contributor>Law, Thomas, 1756-1834</dcterms:contributor>
+   <dcterms:created>1796-03-28</dcterms:created>
+   <dcterms:description>Cornwallis writes to Law discussing Law's move to America; conveys his sentiments about the American Revolution and wishes for America's future, 'I at present, sincerely wish prosperity and happiness to America, and that it may long enjoy the benefits of the Presidency of Washington, whose great character and virtues alone could have preserved order in an infant state...' He continues on about Britain's affairs with France and his great distaste towards Jacobinism. Makes reference to Law's plan for India. Autograph letter signed, 4 pages. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003059</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/246</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=246</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

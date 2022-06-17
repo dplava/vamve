@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Timothy Pickering to Oliver Phelps, 1790 September 4 </dcterms:title>
+   <dcterms:creator>Pickering, Timothy, 1745-1829</dcterms:creator>
+   <dcterms:contributor>Phelps, Oliver</dcterms:contributor>
+   <dcterms:created>1790-09-04</dcterms:created>
+   <dcterms:description>Pickering, appointed by President Washington as commissioner to the Iroquois, is writing from Philadelphia to merchant and land speculator Oliver Phelps in response to the Pine Creek killings, in which two Seneca Indians were murdered in a dispute with the sons of John Walker, a man whom the Seneca claimed to have scalped and murdered several years prior. Pickering writes of Washington's "utter abhorrence" of the killings. He has sent Pickering to meet with the relations of the murdered Seneca men. Autograph letter, signed "Timothy Pickering" to Oliver Phelps, 3 pages. </dcterms:description>
+   <dcterms:subject>Native Americans</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003024</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/202</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=202</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

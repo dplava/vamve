@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Expense Account, from George Town to New York, [1789][May].</dcterms:title>
+   <dcterms:creator>Lewis, Robert, 1769-1829</dcterms:creator>
+   <dcterms:created>1789-05</dcterms:created>
+   <dcterms:description>An account of ferry and inn expenses listing all the stops between Georgetown and New York--carriage of a trunk from Philadelphia to New York--stage horses--Col. Van Horn who arranged the trip had been paid earlier some amount--. Silked document, one page, in hand of Robert Lewis, watermark (MW &amp; a plough), endorsed on back, "An account of Money's Expended from Geo. Town To New Yorke. The Amount of every expence is £67.10.7 Pensylvania currency."</dcterms:description>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003026</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/205</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=205</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

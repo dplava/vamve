@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Caroline Maria Calvert, to Elizabeth Bordley Gibson, 1820 November 11</dcterms:title>
+   <dcterms:creator>Calvert, Caroline Maria, 1800-1842</dcterms:creator>
+   <dcterms:contributor>Gibson, Elizabeth Bordley, 1777-1863</dcterms:contributor>
+   <dcterms:created>1820-11-11</dcterms:created>
+   <dcterms:description>Sorry to have missed seeing her yesterday -- Mama is convalescing -- she and sister must refuse invitation to tea because of a previous engagement -- Eugenia [Calvert] &amp; America [Peter] invited someone to tea  -- Papa also has a previous engagement with Mr. Camac. Autograph letter signed, 2 pages, integral address panel, black seal inscribed "Caroline", watermark (6 pointed star). </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003037</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Elizabeth Bordley Gibson Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/223</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=223</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

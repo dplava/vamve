@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Anna Maria Washington Thornton to George Fayette Washington, 1815 March 1 </dcterms:title>
+   <dcterms:creator>Thornton, Anna Maria Washington, 1788-1816</dcterms:creator>
+   <dcterms:contributor>Washington, George Fayette, 1790-1867</dcterms:contributor>
+   <dcterms:created>1815-03-01</dcterms:created>
+   <dcterms:description>She sends the letter written fortnight ago [see letter of 12 February 1815] from Wellington near Alexandria -- it was not sent earlier because Jack was struck with rheumatism and could not carry it to Alexandria -- again rebukes her brother for not writing -- her health is improved, but pain and cough continue. Autograph letter signed, 1 page, integral address panel, postmarked "[ ] Mar. 2," laminated, watermark (Levering &amp; Co.). Name on original manuscript appears as "A. M. Thornton". </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003077</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/280</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=280</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Account, Free Negroes in Account with Lawrence Lewis, 1803-1811</dcterms:title>
+   <dcterms:creator>Lewis, Lawrence, 1767-1839</dcterms:creator>
+   <dcterms:created>1803</dcterms:created>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:created>1805</dcterms:created>
+   <dcterms:created>1806</dcterms:created>
+   <dcterms:created>1807</dcterms:created>
+   <dcterms:created>1808</dcterms:created>
+   <dcterms:created>1809</dcterms:created>
+   <dcterms:created>1810</dcterms:created>
+   <dcterms:created>1811</dcterms:created>
+   <dcterms:description>This account with former Mount Vernon slaves was kept by George Washington’s nephew, who was also one of his executors. In his will, Washington had freed the slaves he owned and directed that those too young or old to work receive support from his estate. In 1803, Lewis records expenses for this support, including, “49 Bushels of [corn] Meal…12 pair of shoes…12 pair of stockings,” and nearly 150 yards of textiles for clothing. Money expended for food &amp; clothing during period 1803-1809--"To a coffin for Chloie, cart &amp; Horse one day carrying it to free ground died Nov. 1811" amt. furnished French's negroes--Interest each year to Jan. 1819--certified by D[avi]d Stuart, Justice of the Peace of Fairfax County on Nov. 18, 1811. Autograph document, 3 pages. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:medium>Lists (document genres)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003081</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/285</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=285</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
