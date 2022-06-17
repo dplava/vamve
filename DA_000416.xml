@@ -11,11 +11,11 @@
    <dcterms:publisher>Boston : Printed by order of the General Court of the Commonwealth of Massachusetts, 1783</dcterms:publisher>
    <dcterms:created>1783</dcterms:created>
    <dcterms:description>Cover missing, 24 pages. </dcterms:description>
-   <dcterms:medium>Book</dcterms:medium>
+   <dcterms:medium>Books</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_000416</dcterms:identifier>
-   <dcterms:isPartOf>Rare Books Collection</dcterms:isPartOf>
-   <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Rare Book Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/903</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=903</edm:preview>
