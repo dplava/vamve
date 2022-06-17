@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Benjamin Rush [Philadelphia], to Bushrod Washington, 1812 May 2</dcterms:title>
+   <dcterms:creator>Rush, Benjamin, 1746-1813</dcterms:creator>
+   <dcterms:contributor>Washington, Bushrod, 1762-1829</dcterms:contributor>
+   <dcterms:created>1812-05-02</dcterms:created>
+   <dcterms:description>Physician Benjamin Rush advises Bushrod Washington on his wife's treatment "to complete the conquest which Mrs. Washington has happily made in part over her attachment to laudanum" -- Rush directs a gradual lessening of the dose to nothing -- suggests various infusions, including ginger tea, bitters, spirits of hartshorne, &amp; strong porter or wine -- asks Bushrod to pass on his words that "the habitual use of opium is often attended with the most serious and distressing consequences [including] idiotism and madness" -- he hopes her resolution to be cured is equal to her judgment on the subject of the letter. Autograph letter signed, 2 pages, docketed by B.W. "Doct. Rush Advice for Mrs. Washington", laminated. </dcterms:description>
+   <dcterms:subject>Washington, Julia Ann Blackburn, 1768-1829</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002385</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/168</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=168</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

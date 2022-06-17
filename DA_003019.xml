@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Portrait of George Washington </dcterms:title>
+   <dcterms:creator>Latrobe, Benjamin Henry, 1764-1820</dcterms:creator>
+   <dcterms:created>1796-07</dcterms:created>
+   <dcterms:description>Pencil sketch of George Washington in profile, by Benjamin Henry Latrobe, July 1796. The inscription below the sketch is written by Latrobe's daughter Julia and reads, 'Sketch of Gen.l Washington stolen at Mount Vernon while he was looking to discover a distant vessel in the Potowmac (sp.) in which he expected some of his friends from Alexandria. Taken from a sketch book of my father's, date 1796.' </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:medium>Drawings (visual works)</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003019</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/196</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=196</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

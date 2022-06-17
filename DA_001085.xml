@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, An artist's proposal for subscription and receipt for the engraving America, paid by George William Fairfax and signed by Robert Edge Pine, 1778 April 16</dcterms:title>
+   <dcterms:creator>Pine, Robert Edge, 1730-1788</dcterms:creator>
+   <dcterms:contributor>Fairfax, George William, 1724-1787</dcterms:contributor>
+   <dcterms:created>1778-04-16</dcterms:created>
+   <dcterms:description>This broadside was used as an advertisement to help fund engravings of Robert Edge Pine's painting that celebrated the American cause. It is filled out by Pine in manuscript on behalf of George William Fairfax who bought and sponsored five prints.</dcterms:description>
+   <dcterms:medium>Broadsides (notices)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_001085</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/78</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=78</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

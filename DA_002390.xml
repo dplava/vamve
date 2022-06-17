@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, George Washington Parke Custis to J[ ] Pickett Esq., 1857 April 17</dcterms:title>
+   <dcterms:creator>Custis, George Washington Parke, 1781-1857</dcterms:creator>
+   <dcterms:contributor>Pickett, J.</dcterms:contributor>
+   <dcterms:created>1857-04-17</dcterms:created>
+   <dcterms:description>George Washington Parke Custis writes from Arlington House and explains that he receives large amounts of correspondence re: GWashington ... "cutting up fragments from old letters &amp; accounts some of 1760, or nearly an hundred years ago, to supply the call for Anything ... of his venerated hands" ... encloses a 1772 account with GW autograph as a relic for the Tri Mont Society] .... Autograph letter signed, 2 pages. Name on original manuscript appears as "George W. P. Custis" </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:subject>Relics</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002390</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/174</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=174</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

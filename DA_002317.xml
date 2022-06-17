@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Robert R. Prentis to Lorenzo Lewis, 1845 December 3 </dcterms:title>
+   <dcterms:creator>Prentis, Robert R.</dcterms:creator>
+   <dcterms:contributor>Lewis, Lorenzo, 1803-1847</dcterms:contributor>
+   <dcterms:created>1845-12-03</dcterms:created>
+   <dcterms:description>Robert R. Prentis, a lawyer in Suffolk, responds to a request by Lorenzo Lewis passed on to him from Bushrod Corbin Washington to obtain a decree for the sale of the interest for lands from the estate of George Washington lying in Nansemnond County and held by the firm of Washington Walker Co. Prentis advises Lewis that the land is of little value and that it would be better to sell the entire tract. Autograph letter signed, 2 pages, with integral address panel. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002317</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/145</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=145</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

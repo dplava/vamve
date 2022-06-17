@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Receipt from the Sheriff of Jefferson County to Bushrod Corbin Washington, 1824 June </dcterms:title>
+   <dcterms:contributor>Washington, Bushrod Corbin, 1790-1851</dcterms:contributor>
+   <dcterms:created>1824-06</dcterms:created>
+   <dcterms:description>Receipt from June 1824 Jefferson County Court for two dollars and 75 cents ordered to be paid to Bushrod C. Washington, 'on the fist day of November next..' Partially printed form signed by Samuel J. Cramer.  </dcterms:description>
+   <dcterms:medium>Printed document</dcterms:medium>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:medium>Receipts (financial records)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_002333</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/148</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=148</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
