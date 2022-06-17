@@ -6,7 +6,7 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, George Washington to William Pearce, 1794 May 18 </dcterms:title>
+   <dcterms:title>Letter, George Washington to William Pearce, 1794 May 18</dcterms:title>
    <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
    <dcterms:contributor>Pearce, William</dcterms:contributor>
    <dcterms:created>1794-05-18</dcterms:created>
@@ -15,9 +15,10 @@
    <dcterms:subject>Slaves</dcterms:subject>
    <dcterms:subject>Farm management</dcterms:subject>
    <dcterms:subject>Domestic animals</dcterms:subject>
+   <dcterms:subject>Charles (ditcher)</dcterms:subject>
    <dcterms:subject>Doll, 1747?-</dcterms:subject>
    <dcterms:subject>Lee, William, approximately 1752-</dcterms:subject>
-   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:subject>Sam, 1759?-</dcterms:subject>
    <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_003543</dcterms:identifier>

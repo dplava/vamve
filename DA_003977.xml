@@ -6,18 +6,18 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, George Washington to Mrs. [Martha] Washington, Philadelphia, 1775 June 23</dcterms:title>
+   <dcterms:title>Letter, George Washington to Tobias Lear, 1795 June 15</dcterms:title>
    <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
-   <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
-   <dcterms:created>1775-06-23</dcterms:created>
-   <dcterms:description>George Washington writes a short letter before leaving for camp at Boston... "I go fully trusting in that Providence which has been more bountiful than I deserve... I retain an unalterable affection for you, which neither time or distance can change..." Autograph letter signed, 1 page.</dcterms:description>
+   <dcterms:contributor>Lear, Tobias, 1762-1816</dcterms:contributor>
+   <dcterms:created>1795-06-15</dcterms:created>
+   <dcterms:description>George Washington writes to Tobias Lear, Washington's personal secretary, regarding the purchase of bank shares on his behalf. Autograph letter signed, 1 page.  Addressed on verso in holograph with intact wax seal and docket in Tobias Lear's hand.</dcterms:description>
    <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
-   <dcterms:identifier>DI_1314-1</dcterms:identifier>
+   <dcterms:identifier>DA_003977</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/692</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=692</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1201</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1201</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>

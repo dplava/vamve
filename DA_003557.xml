@@ -6,7 +6,7 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, George Washington to William Pearce, 1795 March 8 </dcterms:title>
+   <dcterms:title>Letter, George Washington to William Pearce, 1795 March 8</dcterms:title>
    <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
    <dcterms:contributor>Pearce, William</dcterms:contributor>
    <dcterms:created>1795-03-08</dcterms:created>
@@ -15,9 +15,8 @@
    <dcterms:subject>Slaves</dcterms:subject>
    <dcterms:subject>Farm management</dcterms:subject>
    <dcterms:subject>Davis, Betty, active 1792- (Spinner)</dcterms:subject>
-   <dcterms:subject>Paul, 1763?-</dcterms:subject>
    <dcterms:subject>Jasper, Dick, active 1786-</dcterms:subject>
-   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:subject>Paul, 1763?-</dcterms:subject>
    <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_003557</dcterms:identifier>
