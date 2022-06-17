@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Mary Custis Lee to Benson Lossing, 1858 December 13 </dcterms:title>
+   <dcterms:creator>Lee, Mary Custis, 1835-1918</dcterms:creator>
+   <dcterms:contributor>Lossing, Benson John, 1813-1891</dcterms:contributor>
+   <dcterms:created>1858-12-13</dcterms:created>
+   <dcterms:description>[Regarding publication of her father's Memoirs] Sends by Col. [R.E.] Lee her "Memoir" and other papers--also all letters between George Washington and her grandfather [John Parke Custis]--"I only suggest that if you publish the will of my ancestor it may be as well to omit for the sake of our Northern readers the names of all the slaves mentioned in the legacies."--sends him an engraving of Mrs. Washington and a daguerre of Mrs. Lewis--title page to have title her father put to his work--hopes the work [George Washington Parke Custis's Recollections] will come out shortly--will try to find the speech on the overthrow of Napoleon for Lossing--doesn't care for more mention of her name in title page than is there at present. Autograph letter signed - "M. C. Lee" - 2 pages. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003098</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/293</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=293</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

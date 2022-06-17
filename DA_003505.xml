@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Thomas Rossiter to Benson J. Lossing, 1859 January 22 </dcterms:title>
+   <dcterms:creator>Rossiter, Thomas Prichard, 1818-1871</dcterms:creator>
+   <dcterms:contributor>Lossing, Benson John, 1813-1891</dcterms:contributor>
+   <dcterms:created>1859-01-22</dcterms:created>
+   <dcterms:description>Artist Thomas P. Rossiter writes to Benson Lossing to inquire who was living at Mount Vernon in 1784 when Lafayette visited. "In conjunction with M. Mignot, I have commenced a composition of Washington, Lafayette and 4 or 5 members of the Mt. Vernon family on the piazza but with all my investigation am at a loss to learn who were the members of the household during Lafayette's first visit in August 1784." Autograph letter signed, 3 pages. Rossiter and Mignot's painting was completed in 1859 and is currently in the collection at The Metropolitan Museum of Art in New York.  </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003505</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/296</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=296</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
