@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, William Ledyard (possibly) to Charles-René-Dominique Sochet Destouches, 1781 February 21 </dcterms:title>
+   <dcterms:creator>Ledyard, William, 1738 - 1781?</dcterms:creator>
+   <dcterms:contributor>Destouches, Charles-René-Dominique Sochet, 1727-1794</dcterms:contributor>
+   <dcterms:created>1781-02-21</dcterms:created>
+   <dcterms:description>A translation of a letter, likely written by Ledyard, William(?). Ledyard writes to Destouches supplying intelligence on disposition of the British fleet at Gardiner's Bay including a small map showing the various ships in line relative to the shoreline. The report notes the presence of eight vessels ranging in strength from 50-74 guns. Autograph document, 2 pages, with integral address panel. </dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:subject>Gardiners Bay (N.Y.)</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003973</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>French</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/581</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=581</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

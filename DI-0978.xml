@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Inspection Return of The Music in the Army, under the immediate Command of the Excellency General Washington, 1782 July 1</dcterms:title>
+   <dcterms:creator>Hiwell, John</dcterms:creator>
+   <dcterms:created>1782-07-01</dcterms:created>
+   <dcterms:description>List of numbers of musicians and the quantity and quality of their instruments and equipment for various New England states regiments and for George Washington's Life Guard. Used to monitor troop strength and the availability of the many necessary supplies, George Washington examined reports such as this return (inventory) detailing fifers, drummers, and their equipment. In one of his General Orders, Washington wrote: “Nothing is more agreeable, and ornamental, than good music;…” Autograph document signed, 1 folio page.</dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Government records</dcterms:medium>
+   <dcterms:medium>Lists (document genres)</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0978</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/237</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=237</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Commission of Benedict Arnold as major general, 1777 May 2</dcterms:title>
+   <dcterms:creator>Hancock, John, 1737-1793</dcterms:creator>
+   <dcterms:contributor>Arnold, Benedict, 1741-1801</dcterms:contributor>
+   <dcterms:created>1777-05-02</dcterms:created>
+   <dcterms:description>On April 28, 1777, Arnold almost single-handedly stopped the British from raiding the American supply post at Danbury, Connecticut. His heroic actions prompted Congress to promote him to major general. The partially printed document reads, 'We, reposing especial Trust and Confidence in your Patriotism, Valour, Conduct and Fidelity, DO, by these Presents, constitute and appoint you to be Major General.' Autograph document signed, one page.</dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Military records</dcterms:medium>
+   <dcterms:medium>Military commissions</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DI-0996</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/238</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=238</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

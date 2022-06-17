@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, General Assembly of Maryland to his Excellency The Minister of France, 1781 January 5 </dcterms:title>
+   <dcterms:contributor>Jenifer, Daniel of St. Thomas, 1723-1790</dcterms:contributor>
+   <dcterms:created>1781-01-05</dcterms:created>
+   <dcterms:description>Manuscript copy, letter is a request to "his most Christian Majesty" for help to secure the Chesapeake from British naval raids that had rendered it impossible to export the "Tobacco, flour and other produce of this State and Virginia". Copy indicates the letter was signed by Maryland Members of the General Assembly - Daniel of St. Thomas Jenifer, President of the Senate and [William] Bruff, Speaker of the House. Autograph document, 4 pages. </dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003975</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/578</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=578</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

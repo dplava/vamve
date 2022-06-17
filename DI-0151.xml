@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Survey of Pope's Creek Plantation, 1742 August 24</dcterms:title>
+   <dcterms:creator>Berry, Joseph</dcterms:creator>
+   <dcterms:created>1742-08-24</dcterms:created>
+   <dcterms:description>"Platt of a Survey made for Capt. Augustine Washington and Mr. John Washington in Westmoreland County ..." Contains metes and bounds and ink and pencil drawing of the tract bordered on three sides by Bridges Creek Potomac River and Pope's Creek. Later renamed Wakefield by Wm. Aug. Washington.</dcterms:description>
+   <dcterms:medium>Land surveys</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DI-0151</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/95</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=95</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

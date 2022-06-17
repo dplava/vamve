@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Barras to Destouches, 1781 June 24</dcterms:title>
+   <dcterms:creator>Barras, Jacques-Melchior, Comte de, 1719-1793</dcterms:creator>
+   <dcterms:contributor>Destouches, Charles-René-Dominique Sochet, 1727-1794</dcterms:contributor>
+   <dcterms:created>1781-06-24</dcterms:created>
+   <dcterms:description>Barras writes a letter to Destouches authorizing him to take "Le Neptune, L'Eveille and Le Romulus" to cover the arrival of a convoy from Boston that was escorting two frigates to Newport: "For this purpose he will cross between Rhode Island and Martha's Vineyard, being sure as much as possible to preserve the facility of entering Rhode Island if the enemy were to present themselves in superior force". Autograph document signed, 1 page, on pre-printed stationery. </dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003974</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>French</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/583</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=583</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

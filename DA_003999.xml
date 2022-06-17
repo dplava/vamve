@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>List of bonds for sundries purchased at the sale of the estate of Lawrence Washington, ca. 1752 </dcterms:title>
+   <dcterms:created>1752</dcterms:created>
+   <dcterms:description>An undated one-page list of over 80 persons, some well known Virginians - including Col. Fairfax, Col. Lee, and Maj. Washington - who purchased items from the estate of Lawrence Washington, George Washington's older brother. The total value of bonds and other sundries comes to 386 pounds, 10 shillings, 10 pence. Sheet is docketed on the reverse in George Washington's handwriting. The second item is a brief note, also undated, of 6 lines in an unknown hand that identifies the first item and points out George Washington's handwriting in the docketing. Two autograph documents in different hands. </dcterms:description>
+   <dcterms:subject>Washington, Lawrence, 1718-1752</dcterms:subject>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003999</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/591</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=591</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

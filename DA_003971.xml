@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Manuscript Map, French intelligence map of New York harbor with soundings of East River, Hell Gate, and the western end of Long Island sound, 1781 January-February </dcterms:title>
+   <dcterms:created>1781-01</dcterms:created>
+   <dcterms:created>1781-02</dcterms:created>
+   <dcterms:description>A French Intelligence map of New York Harbor with soundings of the East River, Hell Gate and the western end of Long Island Sound. Additionally the map denotes anchorages, dangerous rocks, shore fortifications as well as several named landmarks including "Red hook Fort", "New York [City]", "gouverneur island", "frogs pte", "White Stone", "Sandy pte", "West chester", as well as "Riviere du nord", "New Jersy", and "partie du ouest Dela Longue isle". Over the section of Long Island is a lengthy commentary including a detailed description of the hazards navigating "hell gette". Manuscript map and description, 1 page. </dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:subject>New York (N.Y.)</dcterms:subject>
+   <dcterms:subject>Long Island Sound (N.Y. and Conn.)</dcterms:subject>
+   <dcterms:medium>Maps (documents)</dcterms:medium>
+   <dcterms:medium>Nautical charts</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003971</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>French</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/582</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=582</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

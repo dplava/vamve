@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Anthony Stewart to Lawrence Washington, 1751 May 7 </dcterms:title>
+   <dcterms:creator>Stewart, Anthony</dcterms:creator>
+   <dcterms:contributor>Washington, Lawrence, 1718-1752</dcterms:contributor>
+   <dcterms:created>1751-05-07</dcterms:created>
+   <dcterms:description>Because of Capt. Wilson's situation it has been impossible to issue Lawrence's half pay--needs a new power of atty.--also asks Lawrence to send him a letter for the Secy. of War in re. his bad state of health and requesting a 12 mo. extension of his leave. Autograph letter signed, 1 page, integral cover, laminated, watermark (crown over powder horn and name L.V. Garrevink). Name on original manuscript appears as "Anth. Stewart". </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003998</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/592</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=592</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
