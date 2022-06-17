@@ -6,18 +6,19 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Bill, Thomas Craig to George Washington, 1787 July 16</dcterms:title>
-   <dcterms:creator>Craig, Thomas</dcterms:creator>
-   <dcterms:created>1787-07-16</dcterms:created>
-   <dcterms:description>Receipt for £13.2.6 on July 16, 1787 in Washington's hand, signed by Craig. Bill for 6 weeks board for two servants at 25/each, plus balance of old account--total £13.15. </dcterms:description>
+   <dcterms:title>Receipt, John Gadsby to Mrs. Washington, 1800 April 18</dcterms:title>
+   <dcterms:creator>Gadsby, John, 1766-1844</dcterms:creator>
+   <dcterms:contributor>Washington, Martha, 1731-1802</dcterms:contributor>
+   <dcterms:created>1800-04-18</dcterms:created>
+   <dcterms:description>Receipt for beef etc. Receipted by John Gadsby.</dcterms:description>
    <dcterms:medium>Financial records</dcterms:medium>
    <dcterms:medium>Receipts (financial records)</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
-   <dcterms:identifier>DA_003512</dcterms:identifier>
+   <dcterms:identifier>DA_003993</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/696</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=696</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/450</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=450</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>

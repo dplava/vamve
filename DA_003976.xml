@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Document, Lease deed for Dogue Run Plantation and 23 named enslaved African Americans, 1786 October 18 </dcterms:title>
+   <dcterms:creator>French, Penelope Manley, approximately 1739-</dcterms:creator>
+   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
+   <dcterms:contributor>Washington, Lund, 1737-1796</dcterms:contributor>
+   <dcterms:contributor>Washington, George Augustine, approximately 1759-1793</dcterms:contributor>
+   <dcterms:contributor>Triplett, William</dcterms:contributor>
+   <dcterms:created>1786-10-18</dcterms:created>
+   <dcterms:description>This agreement between George Washington and Penelope French secured for his use the last piece of property he added to his Mount Vernon estate, a parcel that would become part of Union Farm. French, who had a life in interest in the land and buildings, also leased to Washington the use of twenty-one enslaved people including "Will, Paschal, Paul, Abraham, Sabine, Rosanna, Daphne, Lucy, Delia, Grace, Tom, Isaac, Robert, Moses, Julius, Spencer, Nancy, Celia, Nell, Mitty, and Lett", and three young children not named. The agreement stipulated that Washington must ensure the enslaved were "clothed and fed in the same manner as slaves usually are within this commonwealth and shall not be removed and worked out of the said county of fairfax", and if "unreasonably worked or neglected in sickness or treated within humanity", they would be returned to French. Autograph document, 4 pages. </dcterms:description>
+   <dcterms:subject>French's farm (Mount Vernon, Va.)</dcterms:subject>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003976</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/713</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=713</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
