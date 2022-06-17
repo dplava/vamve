@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Anna Maria Washington Thornton to George Fayette Washington, 1815 February 12 </dcterms:title>
+   <dcterms:creator>Thornton, Anna Maria Washington, 1788-1816</dcterms:creator>
+   <dcterms:contributor>Washington, George Fayette, 1790-1867</dcterms:contributor>
+   <dcterms:created>1815-02-12</dcterms:created>
+   <dcterms:description>Anna writes from Greenwood to her brother George Fayette of her ill health over a long period -- pain in breast and cough -- describes the medicines she has been taking and efforts to get a doctor from Fredericksburg or elsewhere -- hopes to visit him in summer by packet "if the British will be good enough to keep out of the way." -- writes of her children, Charles and Churchill -- scolds him for not writing. Autograph letter signed, 4 pages, (under cover of letter of March 1) watermark. Name on original manuscript appears as "A. M. Thornton." </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003563</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/434</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=434</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

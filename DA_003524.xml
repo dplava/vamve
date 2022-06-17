@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Proposed sketches and inscription for monument to George Washington, [1800?] </dcterms:title>
+   <dcterms:creator>West, Benjamin, 1738-1820</dcterms:creator>
+   <dcterms:created>1800?</dcterms:created>
+   <dcterms:description>Two similar sketches by Benjamin West shows pyramid-like structures surmounted by a statue, and inscription below. On a separate page, endorsed in later hand "Benjamin West sketches," written on reverse of a cover addressed to West at Newman Street, watermark (T. Willmott). Text of proposed inscription in Latin: Georgius Washington ; "Corpus hic tegitur ; Fama per ora volat ; Fama per Orbem resonat". Watermark (crown over armed figure), 3 pages. </dcterms:description>
+   <dcterms:medium>Drawings (visual works)</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>DA_003524</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/376</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=376</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Benjamin West to Rufus King, 1800 May 25 </dcterms:title>
+   <dcterms:creator>West, Benjamin, 1738-1820</dcterms:creator>
+   <dcterms:contributor>King, Rufus, 1755-1827</dcterms:contributor>
+   <dcterms:created>1800-05-25</dcterms:created>
+   <dcterms:description>Copy of a letter written containing Benjamin West's comments on proposed reinterment of George Washington in the Federal city and monument to be raised to him -- recommends triangle or pyramid as most durable monument -- should be in prominent place, planted with trees -- monuments should be hollow -- rotunda, and brass pedestrian statue of Washington -- work to be of "monumental simplicity" -- 4 doors and stone coffin. Letter, marked "Copy of a letter from one West=the celebrated American artist in London to Rufus King, Esq. our Minister at that Court on the subject of a "Monument" to be erected to the memory of that illustrious citizen - George Washington, was obligingly handed us by a gentleman for publication - From Gazette of the United States and Daily Advertiser, Dec. 22, 1800". [Appended is a copy of "A Resolution of the Old Congress," describing the type of monument to be erected to Washington.] Autograph document, 3 pages. To view drawings see: H-1293/A ; H-1293/B ; H-1293/C. </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Monuments</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003539</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/398</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=398</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

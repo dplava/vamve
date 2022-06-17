@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Deposition of George Fayette Washington,1820 May 2 </dcterms:title>
+   <dcterms:creator>Washington, George Fayette, 1790-1867</dcterms:creator>
+   <dcterms:contributor>Waters, William</dcterms:contributor>
+   <dcterms:created>1820-05-02</dcterms:created>
+   <dcterms:description>Deposition of George Fayette Washington before William Waters, justice of the peace in Washington, D.C. -- deposer is the only surviving son of George A. Washington, late a Lieutenant in Virginia continental line -- claim for U.S. bounty lands -- his brother Charles A. and sister Anna Maria Thornton are dead, &amp; sister's sons Charles A. &amp; Churchill J. Thornton to receive half. Document signed, 1 page, docketed "Memo. May 2d to ex. and Rept. tomorrow." watermark (D. Ames). </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003564</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/430</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=430</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

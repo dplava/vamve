@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letters from Fannie Washington Finch to Mrs. Claffin, 1884 May 3-1886 July 1</dcterms:title>
+   <dcterms:creator>Finch, Fannie Washington</dcterms:creator>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:description>A series of letters from Fannie Washington Finch (also spelled Fanny), great-grandniece of George Washington, to a Mrs. Claffin regarding the sale of Washington family items. Fannie writes that she is reluctant to sell the family heirlooms but must because of her "pecuniary condition." Included in the letters is a list of items being sold, including a silver pitcher, coffee pot, mugs, tumblers, ladle, tablespoons, salts, sugar bowl, cream pots, glass water bottles, glass tumblers, glass goblets, glass dessert dish, snuff box presented by Thomas Lord Fairfax to General Washington, 4 wine marks owned by George Washington, a large bed quilt made from dresses worn by Martha Washington, 2 silver plated sauce dishes, miscellaneous chinaware, and an engraved plate of Col. William Augustine Washington. Included with the letters is a manuscript "Extracts from newspapers, relating to Mrs Finch - great-grand niece of George Washington," genealogical information, lists of household goods, and an 1891 newspaper clipping about Fanny Washington Finch. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:medium>Newspaper clippings</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003571</dcterms:identifier>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/480</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=480</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

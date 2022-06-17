@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter or journal entry with sketched map of Lake Champlain, 1776 May 10-24 </dcterms:title>
+   <dcterms:contributor>Arnold, Benedict, 1741-1801</dcterms:contributor>
+   <dcterms:created>1776-05</dcterms:created>
+   <dcterms:description>Letter or journal entry written from Montreal, Canada on May 24, 1776 with sketched map of Lake Champlain on the back. Describes movement and condition of troops and arms of the Northern Department, some have smallpox and fever. It is unknown who the creator is but was at one time attributed to David Avery. References Benedict Arnold. Autograph document, 2 pages. </dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>map (documents)</dcterms:medium>
+   <dcterms:medium>reports</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003572</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/483</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=483</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
