@@ -2,23 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>The home of Washington Illustrated. No. 10</dcterms:title>
-   <dcterms:title>East Front of Mansion, from S. E.</dcterms:title>
+   <dcterms:title>The home of Washington Illustrated. No. 10; East Front of Mansion, from S. E.</dcterms:title>
    <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
-   <dcterms:publisher>Mount Vernon Ladies' Association of the Union</dcterms:publisher>
-   <dcterms:created>1865/1875</dcterms:created>
-   <dcterms:description>Stereoscopic view of east front of the mansion at Mount Vernon taken from the southeast, circa 1870. Balustrade and porch have been temporarily removed.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
+   <dcterms:created>1866/1874</dcterms:created>
+   <dcterms:description>Stereoscopic view of the Mount Vernon Mansion from the southeast lawn. The south porch and balustrade have been removed for repairs. Two gentlemen stand on the piazza. The stereograph is No. 10 in a group of 30 views. Mounted on black board. Photographed by (Alexander) Gardner, 921 Penna. Avenue, Washington, D. C. For the Ladies' Mount Vernon Association.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_000044</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

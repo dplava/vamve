@@ -2,24 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Washington's Bed Chamber.</dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
-   <dcterms:contributor>Copyright by the Mount Vernon Association</dcterms:contributor>
-   <dcterms:publisher>N. G. Johnson, only authorized publisher of Mount Vernon views</dcterms:publisher>
+   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
+   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
    <dcterms:created>1878/1883</dcterms:created>
-   <dcterms:description>Stereoscopic view of the Washington Bedchamber. Label on the reverse reads: Washington's Bed Chamber, Showing the room as it was and Bedstead on which he died, December 14, 1799. Mounted on orange board. N. G. Johnson, Photographer, 317 Pennsylvania Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:description>Stereoscopic view of the Washington Bedchamber. Mounted on orange board. The publisher's imprint on the front of the cardboard mount read: N. G. Johnson, Photographer, 317 Pennsylvania Avenue, Washington, D. C. Only Authorized Publisher of Mt. Vernon Views. Label on the reverse reads: Washington's Bed Chamber, Showing the room as it was and Bedstead on which he died, December 14, 1799. Copyright by the Mount Vernon Association.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
    <dcterms:subject>Mansion interior</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_000017</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
