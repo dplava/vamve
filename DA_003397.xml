@@ -2,19 +2,18 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>5619-Tomb of America's greatest citizen. Washington at Mount Vernon, Va.</dcterms:title>
+   <dcterms:title>5619-Tomb of America's greatest citizen. Washington at Mount Vernon, Va. </dcterms:title>
    <dcterms:publisher>Underwood &amp; Underwood</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of George Washington's tomb at Mount Vernon. Several visitors stand near the entrance. Mounted on gray board. The publisher's imprint on the front of the card reads: European Publishers Underwood &amp; Underwood (London) Ltd. Underwood &amp; Underwood, Sun Sculpture Trademark. New York &amp; Ottawa, Kas. Works, Arlington, N.J. Title - Tomb of America's greatest citizen. Washington at Mount Vernon, Va. copyright Underwood &amp; Underwood. U-186001. Printed directly onto the back of the mount is a brief history of the estate and the title of the stereograph in English, French, German, Spanish, Norwegian and Russian.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of George Washington's tomb at Mount Vernon. Several visitors stand near the entrance. Mounted on gray board. The publisher's imprint on the front of the card reads: European Publishers Underwood &amp; Underwood (London) Ltd. Underwood &amp; Underwood, Sun Sculpture Trademark. New York &amp; Ottawa, Kas. Works, Arlington, N.J. Title - Tomb of America's greatest citizen. Washington at Mount Vernon, Va. copyright Underwood &amp; Underwood. U-186001. Printed directly onto the back of the mount is a brief history of the estate and the title of the stereograph in English, French, German, Spanish, Norwegian and Russian. </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003397</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

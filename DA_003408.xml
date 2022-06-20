@@ -2,19 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>23088--Washington's Room, Mt. Vernon, Va.</dcterms:title>
    <dcterms:publisher>Keystone View Company</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of Washington's bedchamber at Mount Vernon. The view includes a Windsor chair in the foreground and a partial view of the bedstead and other furniture pieces. Mounted on gray board. The publisher's imprint on the front of the cardboard mount read: Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Portland, Oregon, London, Eng., Sydney, Aus. Title: 23088--Washington's Room, Mt. Vernon, Va. Part of a series - 164. Printed directly on the reverse of the mount is a short on Washington and Mount Vernon. Copyright by The Keystone View Company.</dcterms:description>
+   <dcterms:description>Stereoscopic view of Washington's bedchamber at Mount Vernon. The view includes a Windsor chair in the foreground and a partial view of the bedstead and other furniture pieces. Mounted on gray board. The publisher's imprint on the front of the cardboard mount read: Keystone View Company, Manufacturers, Copyrighted Made in U.S.A., Publishers, Meadville, Pa., New York, N.Y., Portland, Oregon, London, Eng., Sydney, Aus. Title: 23088--Washington's Room, Mt. Vernon, Va. Part of a series - 164. Printed directly on the reverse of the mount is a short description on Washington and Mount Vernon. Copyright by The Keystone View Company. </dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>Washington Bedchamber</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003408</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
