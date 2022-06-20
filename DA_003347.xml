@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Statue of Gen. Washington</dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
    <dcterms:contributor>Greenough, Horatio, 1805-1852 (sculptor)</dcterms:contributor>
-   <dcterms:description>Stereoscopic view of statue of George Washington by Horatio Greenough in Washington, D. C. The sculpture sits atop a pedestal that reads, First in the Hearts of His Countrymen. First in Peace. Mounted on cream colored board. The photograph's imprint on the front of the cardboard mount reads: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C.</dcterms:description>
+   <dcterms:description>Stereoscopic view of statue of George Washington by Horatio Greenough in Washington, D. C. The sculpture sits atop a pedestal that reads, First in the Hearts of His Countrymen. First in Peace. Mounted on cream colored board. The photograph's imprint on the front of the cardboard mount reads: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C. </dcterms:description>
    <dcterms:subject>Washington (D.C.)</dcterms:subject>
    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003347</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

@@ -2,20 +2,20 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>3030. Washington's Home at Mt. Vernon.</dcterms:title>
+   <dcterms:title>3030. Washington's Home at Mt. Vernon. </dcterms:title>
    <dcterms:contributor>Griffith &amp; Griffith (seller)</dcterms:contributor>
    <dcterms:publisher>Griffith, George W.</dcterms:publisher>
    <dcterms:created>1902</dcterms:created>
-   <dcterms:description>Stereoscopic view of the south and east facades of the Mansion at Mount Vernon, 1902. Mounted on peach colored board. Publisher's imprint on the front of the cardboard mount reads: Sold only by Griffith &amp; Griffith, Philadelphia, Chicago, London, Hamburg, Ger. Milan, Italy. Geo. W. Griffith, Publisher, Philadelphia, Pa. [Title] 3030. Washington's Home at Mt. Vernon. Series of 1902 by George W Griffith.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of the south and east facades of the Mansion at Mount Vernon, 1902. Mounted on peach colored board. Publisher's imprint on the front of the cardboard mount reads: Sold only by Griffith &amp; Griffith, Philadelphia, Chicago, London, Hamburg, Ger. Milan, Italy. Geo. W. Griffith, Publisher, Philadelphia, Pa. [Title] 3030. Washington's Home at Mt. Vernon. Series of 1902 by George W Griffith. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003350</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

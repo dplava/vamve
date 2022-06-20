@@ -2,20 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Untitled [Tomb at Mount Vernon]</dcterms:title>
+   <dcterms:title>Untitled [Tomb at Mount Vernon] </dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
-   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. The photograph has been hand-colored. The roof of the stables can be seen in the distance. Mounted on yellow board. The photographer's imprint on the front of the cardboard mount read: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C. A black ink stamp on the reverse reads, FROM THE DOME OF THE CAPITOL.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of Washington's tomb at Mount Vernon. The photograph has been hand-colored. The roof of the stables can be seen in the distance. Mounted on yellow board. The photographer's imprint on the front of the cardboard mount read: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C. A black ink stamp on the reverse reads, FROM THE DOME OF THE CAPITOL.  </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003349</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
