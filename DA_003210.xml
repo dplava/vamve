@@ -2,23 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>The Tomb of Washington, at Mt' Vernon Va.</dcterms:title>
+   <dcterms:title>The Tomb of Washington. at Mt' Vernon Va.</dcterms:title>
    <dcterms:creator>Bell &amp; Bro. (Washington, D.C.)</dcterms:creator>
-   <dcterms:publisher>Photographed and Published by Bell &amp; Bro., 319 Penna. Ave., Washington, D.C.</dcterms:publisher>
+   <dcterms:publisher>Bell &amp; Bro. (Washington, D.C.)</dcterms:publisher>
    <dcterms:created>1860</dcterms:created>
-   <dcterms:description>Stereoscopic view of the Washington's tomb at Mount Vernon with wooden plank walk. Mounted on green board.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of the Washington's tomb at Mount Vernon with wooden plank walk. Mounted on green board.   Text printed directly on reverse of cardboard mount reads: The Tomb of Washington. at Mt' Vernon Va. Photographed and Published by Bell &amp; Bro., 319 Penna. Ave., Washington, D.C.</dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003210</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

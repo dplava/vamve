@@ -2,24 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>[Untitled] South Lumber Room</dcterms:title>
+   <dcterms:title>[Untitled] South Lumber Room </dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
-   <dcterms:contributor>Johnson, N. G. (Newton G.)</dcterms:contributor>
+   <dcterms:contributor>copyright 1896</dcterms:contributor>
    <dcterms:publisher>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:publisher>
    <dcterms:created>1878/1883</dcterms:created>
-   <dcterms:description>Stereoscopic view of Mansion's south lumber room, once believed to have been occupied by Mrs. Washington upon George Washington's death and formally titled 'Mrs. Washington's Bed Room or Chamber.' Later determined that Mrs. Washington resided in a different chamber on the third floor of the Mansion. Mounted on yellow board.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:description>Stereoscopic view of Mansion's south lumber room, once believed to have been occupied by Mrs. Washington upon George Washington's death and formally titled 'Mrs. Washington's Bed Room or Chamber.' Later determined that Mrs. Washington resided in a different chamber on the third floor of the Mansion. Mounted on yellow board. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
    <dcterms:subject>South lumber room</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003212</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

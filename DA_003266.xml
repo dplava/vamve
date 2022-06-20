@@ -2,23 +2,23 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Washington Monument</dcterms:title>
+   <dcterms:title>Washington Monument </dcterms:title>
    <dcterms:creator>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:creator>
    <dcterms:publisher>Jarvis, J. F. (John Fillis), 1849-1931</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of the Washington Monument in Washington, D. C. Mounted on beige board. Photographer's imprint on the front of the card read: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C.</dcterms:description>
+   <dcterms:description>Stereoscopic view of the Washington Monument in Washington, D. C. Mounted on beige board. Photographer's imprint on the front of the card read: J. F. Jarvis' Stereoscopic Views, 135 Penn. Ave. Wash'n, D. C.  </dcterms:description>
    <dcterms:subject>Washington (D.C.)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_003266</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/538</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=538</edm:preview>
