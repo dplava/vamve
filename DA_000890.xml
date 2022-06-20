@@ -2,24 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>The home of Washington Illustrated. No. 6</dcterms:title>
-   <dcterms:title>Tomb of Washington.</dcterms:title>
+   <dcterms:title>The home of Washington Illustrated. No. 6; Tomb of Washington.</dcterms:title>
    <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
-   <dcterms:publisher>Mount Vernon Ladies' Association of the Union</dcterms:publisher>
+   <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
    <dcterms:created>1865/1875</dcterms:created>
    <dcterms:description>Stereoscopic view of the gate and vault of the new tomb, circa 1870. George and Martha Washington's sarcophagi can be seen inside. No. 6 in the series of 45 views.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA. : Estate)</dcterms:subject>
-   <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:subject>New Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_000890</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>

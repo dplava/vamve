@@ -2,22 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Mount Vernon.</dcterms:title>
-   <dcterms:creator>Langenheim, Frederick, 1809-1879</dcterms:creator>
-   <dcterms:creator>Langenheim, Wilhelm, 1807-1874</dcterms:creator>
-   <dcterms:publisher>American Stereoscopic Co., Langenheim, Loyd &amp; Co., Philadelphia.</dcterms:publisher>
-   <dcterms:description>Stereoscopic view of the east front of the Mount Vernon mansion photographed from the northeast lawn. Embossed with 'Langenheim.' Entered according to act of Congress, in the year 1858.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
+   <dcterms:creator>American Stereoscopic Company</dcterms:creator>
+   <dcterms:contributor>Langenheim, Frederick, 1809-1879</dcterms:contributor>
+   <dcterms:contributor>Langenheim, William, 1807-1874</dcterms:contributor>
+   <dcterms:contributor>Loyd, William</dcterms:contributor>
+   <dcterms:publisher>Langenheim, Loyd &amp; Co.</dcterms:publisher>
+   <dcterms:description>Stereoscopic view of the east front of the Mount Vernon Mansion photographed from the northeast lawn.  Mounted on cream board embossed with 'Langenheim.' The title 'Mount Vernon.' is printed in red text. A small label adhered to the reverse reads: American Stereoscopic Co., Langenheim, Loyd &amp; Co., Philadelphia. Entered according to act of Congress, in the year 1858. A handwritted note reads: Purchased Oct. 1941 from W. Floyd K____, 575 Riverside Drive, N. Y. C. $1.00 - C. C. W. [Charles C. Wall]'</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_000059</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

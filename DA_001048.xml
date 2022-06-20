@@ -2,22 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>State Dining Room, Mt. Vernon Mansion</dcterms:title>
    <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
    <dcterms:contributor>Mount Vernon Ladies' Association</dcterms:contributor>
-   <dcterms:publisher>N. G. Johnson, Photographer, 309 9th St., Washington, D.C. Only Authorized Publisher Of Mount Vernon Views.</dcterms:publisher>
+   <dcterms:publisher>Johnson, N. G. (Newton G.)</dcterms:publisher>
    <dcterms:created>1878/1883</dcterms:created>
-   <dcterms:description>Stereoscopic view of the new room in the Mansion at Mount Vernon. View towards southwest corner includes Rembrandt Peale portrait of Washington Before Yorktown, the model of the Bastille and the Vaughan mantel covered by a metal cage. The label on the reverse reads: State Dining Room, Mt. Vernon Mansion, Or Banquet Hall in which Washington gave his State Dinners, displaying Peal's (Peale's) painting of "Washington Before Yorktown," the Model of the "Bastille" which was made from one of the old stones of which the Prison wasbuilt, and the Interesting old relic, the "Mayflower Chair," with its old fashioned straight back, and antiquated appearance, which was brought over in the ship Mayflower, 1620. N.G. Johnson, Photograph, 426 7th St., Washington D.C.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA. : Estate) -- Mansion interior</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:description>Stereoscopic view of the new room in the Mansion at Mount Vernon. View towards southwest corner includes Rembrandt Peale's portrait of Washington Before Yorktown, the model of the Bastille and the Vaughan mantel covered by a metal cage. Mounted on orange board. The publisher's imprint on the front of the cardboard mount reads: N. G. Johnson, Photographer, 309 9th St., Washington, D.C. Only Authorized Publisher Of Mount Vernon Views. The label adhered on the reverse reads: State Dining Room, Mt. Vernon Mansion, Or Banquet Hall in which Washington gave his State Dinners, displaying Peal's (Peale's) painting of "Washington Before Yorktown," the Model of the "Bastille" which was made from one of the old stones of which the Prison was built, and the Interesting old relic, the "Mayflower Chair," with its old fashioned straight back, and antiquated appearance, which was brought over in the ship Mayflower, 1620. N. G. Johnson, Photographer, 426 7th St., Washington D.C.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate) -- Mansion interior</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001048</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
