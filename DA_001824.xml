@@ -2,24 +2,22 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Tomb of America's greatest Citizen, Washington, at Mount Vernon, Virginia.</dcterms:title>
+   <dcterms:title>Tomb of America's greatest Citizen, Washington, at Mount Vernon, Virginia. </dcterms:title>
    <dcterms:publisher>Underwood &amp; Underwood</dcterms:publisher>
    <dcterms:created>1903</dcterms:created>
    <dcterms:description>Stereoscopic view of visitors at Washington's tomb. Mounted on gray board. Publisher's imprint on the front of the board reads: Underwood &amp; Underwood, Publishers. New York. London. Toronto-Canada. Ottawa-Kansas. Works and Studios - Sun Sculpture trademark. Washington, D. C. Arlington, N. J. Littleton, N. H. Title - Tomb of America's greatest Citizen, Washington, at Mount Vernon, Virginia. Copyright 1903 Underwood &amp; Underwood. A history of the estate is printed directly onto the back of mount. Titles of the stereograph are printed in English, French, German, Spanish, Swedish and Russian.</dcterms:description>
-   <dcterms:subject>Mount Vernon (VA : Estate)</dcterms:subject>
-   <dcterms:subject>George Washington's Mount Vernon</dcterms:subject>
-   <dcterms:subject>Tomb</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001824</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <dcterms:language>French</dcterms:language>
    <dcterms:language>German</dcterms:language>

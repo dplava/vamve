@@ -2,19 +2,19 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Washington's Carriage</dcterms:title>
+   <dcterms:title>Washington's Carriage </dcterms:title>
    <dcterms:created>1876</dcterms:created>
-   <dcterms:description>Stereoscopic view of the 'Washington Carriage' at the International Exhibition, Philadelphia, celebrating the 100th anniversary of America's independence. This coach actually belonged to Washington's Philadelphian acquaintences Samuel and Elizabeth Powel and is likely a near duplicate of the coach owned by Washington as both vehicles shared the same coach maker. The reverse of the card mount includes a printed list of view from the International Exhibition. 'Washington's Carriage' is not included on the list but instead is handwritten in ink.</dcterms:description>
+   <dcterms:description>Stereoscopic view of the 'Washington Carriage' at the International Exhibition, Philadelphia, celebrating the 100th anniversary of America's independence. This coach actually belonged to Washington's Philadelphian acquaintances Samuel and Elizabeth Powel and is likely a near duplicate of the coach owned by Washington as both vehicles shared the same coach maker. The reverse of the card mount includes a printed list of views from the International Exhibition. 'Washington's Carriage' is not included on the list but instead is handwritten in ink. </dcterms:description>
    <dcterms:subject>Powel coach</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001898</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

@@ -2,8 +2,8 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>No. 38, Washington Carriage, Belmont Mansion</dcterms:title>
@@ -11,13 +11,13 @@
    <dcterms:contributor>Newell, Henry, 1848-1897</dcterms:contributor>
    <dcterms:publisher>R. Newell &amp; Son</dcterms:publisher>
    <dcterms:created>1872/1897</dcterms:created>
-   <dcterms:description>Stereoscopic view of the 'Washington Carriage' at Belmont Mansion, Philadelphia. This coach actually belonged to Washington's Philadelphian acquaintences Samuel and Elizabeth Powel and is likely a near duplicate of the coach owned by Washington as both vehicles shared the same coach maker. The stereograph is part of a series of 'Stereoscopic Views Published by R. Newell &amp; So, Photographers, Phialdelphia, Pa., Fairmount Park Views.' A full list of the 100 view set are printed on the reverse of the card. A note at the bottom states that views 101 through 105 are 'Views from Landsdown.'</dcterms:description>
+   <dcterms:description>Stereoscopic view of the 'Washington Carriage' at Belmont Mansion, Philadelphia. This coach actually belonged to Washington's Philadelphian acquaintences Samuel and Elizabeth Powel and is likely a near duplicate of the coach owned by Washington as both vehicles shared the same coach maker. The stereograph is part of a series of 'Stereoscopic Views Published by R. Newell &amp; So, Photographers, Phialdelphia, Pa., Fairmount Park Views.' A full list of the 100 view set are printed on the reverse of the card. A note at the bottom states that views 101 through 105 are 'Views from Landsdown.' </dcterms:description>
    <dcterms:subject>Powel coach</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001895</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>

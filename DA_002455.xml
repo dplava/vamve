@@ -2,23 +2,24 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Bushrod Washington's pise greenhouse</dcterms:title>
    <dcterms:creator>Cremer, James, 1821-1893</dcterms:creator>
-   <dcterms:publisher>James Cremer, Publisher of Stereoscopic Views, 18 South Eighth St, Philadelphia</dcterms:publisher>
+   <dcterms:publisher>Cremer, James, 1821-1893</dcterms:publisher>
    <dcterms:created>1859/1861</dcterms:created>
-   <dcterms:description>Stereoscopic view of Bushrod Washington's earthen or pise greenhouse built adjacent to Washington's original greenhouse (partially destroyed by fire in 1835). To the right of the photograph you can see a portion of the upper garden wall. The greenhouse as well as the surrounding structures are in a state of disrepair. Photograph was taken by James Cremer (Philadelphia), c. 1860. Cremer's printed label is adhered to the reverse of the cardboard mount.</dcterms:description>
+   <dcterms:description>Stereoscopic view of Bushrod Washington's earthen or pise greenhouse built adjacent to Washington's original greenhouse (partially destroyed by fire in 1835). To the right of the photograph you can see a portion of the upper garden wall. The greenhouse as well as the surrounding structures are in a state of disrepair. Photograph was taken by James Cremer (Philadelphia), c. 1860. Mounted on cream board. A label adhered to the reverse of the cardboard mount reads: James Cremer, Publisher of Stereoscopic Views, 18 South Eighth St, Philadelphia  . Stereoscopes and Views, Wholesale and Retail.</dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>Albumen print</dcterms:medium>
-   <dcterms:medium>Card photograph</dcterms:medium>
-   <dcterms:medium>Stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_002455</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Photograph Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
    <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll23/id/286</edm:isShownAt>
    <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll23&amp;CISOPTR=286</edm:preview>
