@@ -2,21 +2,21 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dc="http://purl.org/dc/elements/1.1/"
           xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>No. 107 - View on the Potomac River</dcterms:title>
+   <dcterms:title>No. 107. - View on the Potomac River, U.S.</dcterms:title>
    <dcterms:creator>England, William, 1830-1896</dcterms:creator>
    <dcterms:publisher>London Stereoscopic Company</dcterms:publisher>
    <dcterms:created>1859</dcterms:created>
-   <dcterms:description>Stereograph of the view of the Potomac River from Mount Vernon. The two images are mounted on a cardboard support and include three individuals, two male and one female, sitting or standing near a white picket fence with a view of the river. The stereograph is part of a series of "America in the Stereoscope" created by the London Stereoscopic Company, photographed by William England, 1859. The reverse of the stereograph includes a passage from the 'Handbook of American Travel' about the Potomac River and sentiments on its impact on George Washington.</dcterms:description>
+   <dcterms:description>Stereograph of the view of the Potomac River from Mount Vernon. The two images are mounted on a cardboard support and include three individuals, two male and one female, sitting or standing near a white picket fence with a view of the river. Mounted on cream board. The stereograph is part of a series of  "America in the Stereoscope" created by the London Stereoscopic Company, photographed by William England, 1859. The reverse of the stereograph includes a passage from the 'Handbook of American Travel' about the Potomac River and sentiments on its impact on George Washington.</dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
-   <dcterms:medium>Photographic print</dcterms:medium>
-   <dcterms:medium>albumen print</dcterms:medium>
-   <dcterms:medium>card photograph</dcterms:medium>
-   <dcterms:medium>stereograph</dcterms:medium>
-   <dcterms:type>Still image</dcterms:type>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>stereographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001387</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
