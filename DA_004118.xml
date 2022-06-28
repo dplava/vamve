@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Military Instructions, Stephen Hopkins to Col. Christopher Harris, 1755 June 14 </dcterms:title>
+   <dcterms:creator>Hopkins, Stephen, 1707-1785</dcterms:creator>
+   <dcterms:contributor>Harris, Christopher</dcterms:contributor>
+   <dcterms:created>1755-06-14</dcterms:created>
+   <dcterms:description>Stephen Hopkins, Governor of Rhode Island and signer of the Declaration of Independence, writes to Christopher Harris during the French and Indian War, ordering a Colonel to take forces to Albany and join Major General William Johnson for a campaign against the French at Crown Point. Autograph document signed, 2 pages. </dcterms:description>
+   <dcterms:subject>United States -- History -- French and Indian War, 1754-1763</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004118</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Wayne Rickert Collection of Founders' Autographs </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll46/id/52</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll46&amp;CISOPTR=52</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

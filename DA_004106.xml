@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Abraham Clark to Col. Elias Dayton, 1780 December 19 </dcterms:title>
+   <dcterms:creator>Clark, Abraham, 1726-1794</dcterms:creator>
+   <dcterms:contributor>Dayton, Elias, 1737-1807</dcterms:contributor>
+   <dcterms:created>1780-12-19</dcterms:created>
+   <dcterms:description>Abraham Clark, a New Jersey delegate, writes to Col. Elias Dayton, an experienced veteran, to inform him he has not won the promotion he sought. Clark writes, "Congress is impressed with the necessity of observing economy in the public expenses and having been formerly too profuse in the promotion of officers determined to stop their hand. They say N.Jersey hath our Major Gen. and by the reduction proposed we shall have but two Regiments. What prospect have I then of obtaining another Genl. officer... We have had no recommendation for this measure either from the Genl. [Washington] - The Legislature- or even the brigade. You mention the promotion of Genls. [Nathanael] Greene and [Daniel] Morgan, but their appointments were... requests from Maryland [actually Rhode Island] and Virginia, this cannot be offered in your favour. I see the embarrassment the subject is under." Clark adds that "Genl. Sullivan hath wrote to the Genl. desiring his opinion... and desired me to postpone any proposals respecting you, till he rcd. an answer." He concludes, "There stands the matter. I wish the arrangement of our Brigade could be postponed...that some favourable occurrence might offer in your favour." Autograph letter, signed. 2 pages. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004106</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Wayne Rickert Collection of Founders' Autographs</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll46/id/30</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll46&amp;CISOPTR=30</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

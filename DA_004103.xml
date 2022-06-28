@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Aaron Burr to Thomas Jefferson, 1798 August 21 </dcterms:title>
+   <dcterms:creator>Burr, Aaron, 1756-1836</dcterms:creator>
+   <dcterms:contributor>Jefferson, Thomas, 1743-1826</dcterms:contributor>
+   <dcterms:created>1798-08-21</dcterms:created>
+   <dcterms:description>Aaron Burr writes to the President of the Senate, Thomas Jefferson, when the United States was almost at war with France in 1798, offering to provide information about New York City's defense plan to the state legislature. He writes, "As one of the Committee appointed by the inhabitants of the City of New York to direct the temporary defence of the said city I have been instructed to give to either House of the Legislature such information as may be in my power relative to that object. Pursuant to such instructions I shall chearfully [sic] attend the Senate or any Committee thereof for that purpose whenever required." Autograph letter, signed, 1 page. </dcterms:description>
+   <dcterms:subject>France</dcterms:subject>
+   <dcterms:subject>New York (N.Y.)</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004103</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Wayne Rickert Collection of Founders' Autographs</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll46/id/14</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll46&amp;CISOPTR=14</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

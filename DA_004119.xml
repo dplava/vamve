@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Writ, Judge Francis Hopkinson to Clement Biddle, 1781 October 12</dcterms:title>
+   <dcterms:creator>Hopkinson, Francis, 1737-1791</dcterms:creator>
+   <dcterms:contributor>Biddle, Clement, 1740-1814</dcterms:contributor>
+   <dcterms:created>1781-10-12</dcterms:created>
+   <dcterms:description>Francis Hopkinson, Esq., Judge for the Courts of Admiralty for the State of Pennsylvania, directs Clement Biddle Esq., Marshall for the court, to "sell at public venue the sloop or vessel called the Polly her guns, tackle, apparel, furniture and all and singular the goods, wares and merchandise laden and found on board her at the time of her capture and that after deducting the costs and charges of the trial condemnation and sale out of the monies arising from the said sale you divide the residue of the said monies into two equal parts one of which you are to pay overunto the agent or agents of the owners of the Brigantine or Vessel called the Fair American to and for their use and the other you are to pay over unto the Agent or Agents of the Officers and Crew belonging to the said Brigantine Fair American to and for their use and if it shall happen that any of the said owners officers or crew shall neglect to appear either in person or by agent to receive their respective shares of said monies then you are forthwith to bring such shares into this court to the intent the same may remain ready to be paid to them whenever they are their agents duly authorised may appear and demand the same according to the Resolves of Congress the usages of nations and the Act of Assembly of this state in such case made and provided and how you shall have executed this writ make return to me at a court of Admiralty to be held at my chambers in Philadelphia on the tenth day of November together with this writ given under my hand and the seal of the court twentieth day of October in the year of our lord one thousand seven hundred and eighty one." On verso, Biddle responds confirming sale of the Sloop Polly and cargo. Autograph document signed, 2 pages, with embossed stamp. Hopkinson was a signer of the Declaration of Independence. </dcterms:description>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004119</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Wayne Rickert Collection of Founders' Autographs </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll46/id/56</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll46&amp;CISOPTR=56</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

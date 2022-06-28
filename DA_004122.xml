@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Thomas Jefferson to William Gordon, 1787 July 2 </dcterms:title>
+   <dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+   <dcterms:contributor>Gordon, William, 1728-1807</dcterms:contributor>
+   <dcterms:created>1787-07-02</dcterms:created>
+   <dcterms:description>Thomas Jefferson writes, while he was the U.S. Minister to France, to William Gordon about the actions he has taken to assist Gordon's efforts to write a history of the American Revolution, and conveys his thoughts on what market may exist for the publication in France. Gordon conducted part of his research for his history at Mount Vernon. Gordon published The History of the Rise, Progress, and Establishment, of the Independence of the United States of America: Including an Account of the late War, and of the Thirteen Colonies from their origin, to that period, 4 vols. (London: William Gordon, 1788). Letter also mentions Marquis de la Fayette. Autograph letter signed, 1 page, with clipped address panel. </dcterms:description>
+   <dcterms:subject>United States -- History -- Revolution, 1775-1783</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004122</dcterms:identifier>
+   <dcterms:rights>	  http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Wayne Rickert Collection of Founders' Autographs</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll46/id/75</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll46&amp;CISOPTR=75</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
