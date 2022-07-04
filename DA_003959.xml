@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Mr. and Mrs. Powel to Martha Washington, 1792 June 8</dcterms:title>
+   <dcterms:creator>Powel, Elizabeth Willing, 1743-1830</dcterms:creator>
+   <dcterms:creator>Powel, Samuel, 1738-1793</dcterms:creator>
+   <dcterms:created>1792-06-08</dcterms:created>
+   <dcterms:description>The Speaker of the Senate of Pennsylvania [Mr. Powel] will wait on President and Mrs. Washington on Thursday -- Mrs. Powel sends regrets. Autograph letter, 1 page, copy, in hand of Mrs. Powel with cover, watermark (HS Sandy Run), in 3rd person. Name on original manuscript appears as "Powel, Mrs."</dcterms:description>
+   <dcterms:subject>Washington, Martha, 1731-1802</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003959</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Martha Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll6/id/68</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll6&amp;CISOPTR=68</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

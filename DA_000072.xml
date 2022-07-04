@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Poem : "Lines by a Friend addressed to Mrs. Elizabeth Powel on her Birthday of Fifty years February 22 1792", 1792 May 1</dcterms:title>
+   <dcterms:creator>Fergusson, Elizabeth Graeme, 1737–1801</dcterms:creator>
+   <dcterms:created>1792-05-01</dcterms:created>
+   <dcterms:description>A nineteen stanza poem by the poet Elizabeth Graeme Fergusson (1737–1801) and which ends with a personal note from the author that reads: ‘My dear Mrs Powel will be so good as to accept this Humble Esay of a Solitary Muse with the Same Candor she Showd to the Same hand in happier Days some two and twenty years past when she gave her hand to Mr. Powell to whom my best Regards.’ Mrs. Powel's fiftith birthday is February 22, 1793. In Feburary 1793, George Washington sends an altered version of this poem, written in the hand of Tobias Lear, to Mrs. Powel - in "Letter, to Elizabeth Powel, 1793 February", in the George Washington Collection.</dcterms:description>
+   <dcterms:subject>Powel, Elizabeth Willing, 1743-1830</dcterms:subject>
+   <dcterms:medium>Poems</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000072</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll6/id/76</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll6&amp;CISOPTR=76</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
