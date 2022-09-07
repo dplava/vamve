@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Jane C. Washington to John A. Washington III, 1847 December 24</dcterms:title>
+   <dcterms:creator>Washington, Jane Charlotte Blackburn, 1786-1855</dcterms:creator>
+   <dcterms:contributor>Washington, John Augustine, III, 1821-1861</dcterms:contributor>
+   <dcterms:created>1847-12-24</dcterms:created>
+   <dcterms:description>Letter written by Jane C. Washington from Blakeley near Charlestown, West Virginia at Christmas time to her son John Augustine Washington III at Mount Vernon. Jane worries over John's recent illness with "chill fever" and reminds him "You now have an overseer, &amp; it surely cannot be so necessary for you to go out at the dawn of day, &amp; expose yourself to the inclemencies of weather in attending to farm business." Jane writes "I am now quite alone, dear little John A. left me this morning; he is a happy cheerful fellow, &amp; has been with me for some time. I have endeavoured to teach him, &amp; think he has mad some progress both in reading &amp; knitting, with which he is excedingly pleased declaring, he 'was never lonesome since he learned to knit,' the most monotonous &amp; dullest of all employments." Speaking of the enslaved persons of Blakeley plantation, Jane says "Christmas as you know always occasions considerable excitement, particularly with the poor Negroes, to whom it is a season of temporary freedom &amp; feasting." Autograph letter signed, partial seal, 4 pages. </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000419</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/628</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=628</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

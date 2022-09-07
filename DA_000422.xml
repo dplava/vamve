@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Jane C. Washington to John Augustine Washington III, 1854 December 26</dcterms:title>
+   <dcterms:creator>Washington, Jane Charlotte Blackburn, 1786-1855</dcterms:creator>
+   <dcterms:contributor>Washington, John Augustine, III, 1821-1861</dcterms:contributor>
+   <dcterms:created>1854-12-26</dcterms:created>
+   <dcterms:description>Letter written by Jane C. Washington from Blakeley near Charlestown, West Virginia a few months before her death to her son John Augustine Washington III. Jane tells John she was "much interested and amused at your correspondence with the Richmond and Manchester Ladies. They no doubt are inspired by sincere and noble feelings of admiration and gratitude to the truly great &amp; good Father of his Country, called forth and appointed by providence as such. His memory will be best preserved &amp; handed down to posterity by the Constitution which he labored to build up and which I devoutly pray may ever be sustained by successive generations. Let dear old Mount Vernon continue forever, if it pleases an all wise providence, in the Washington family and name." Jane adds "I am not very well and fear I am becoming a confirmed Dispeptic, looking as yellow &amp; shrivled as an old cucumber." Autograph letter signed, 2 pages. </dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000422</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/647</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=647</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

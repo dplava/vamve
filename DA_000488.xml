@@ -6,19 +6,21 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, Alfred Moss to John Augustine Washington III, 1854 January 27</dcterms:title>
-   <dcterms:creator>Moss, Alfred</dcterms:creator>
+   <dcterms:title>Letter, Joseph McFarland to John Augustine Washington III, 1845 August 3</dcterms:title>
+   <dcterms:creator>McFarland, Joseph</dcterms:creator>
    <dcterms:contributor>Washington, John Augustine, III, 1821-1861</dcterms:contributor>
-   <dcterms:created>1854-01-27</dcterms:created>
-   <dcterms:description>Moss writes from Fairfax County Court and discusses the commissioners appointed to assess damages to the properties of lands through which the Manassas Gap Rail will pass. One property holder is not a freeholder, which poses a problem. Autograph letter signed, 1 page. </dcterms:description>
+   <dcterms:created>1845-08-03</dcterms:created>
+   <dcterms:description>John Augustine's overseer at Mount Vernon, Joseph McFarland, writes that he has had "a great deal of difficulty" with the enslaved worker Gabriel Johnson and has had to put Gabriel in Bruin's Slave Jail in Alexandria. Autograph letter signed, 1 page. </dcterms:description>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:subject>Johnson Gabriel, 1820-</dcterms:subject>
    <dcterms:medium>Manuscript</dcterms:medium>
    <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
-   <dcterms:identifier>DA_003593</dcterms:identifier>
+   <dcterms:identifier>DA_000488</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>John Augustine Washington III and Descendants Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/1041</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=1041</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll25/id/677</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll25&amp;CISOPTR=677</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
