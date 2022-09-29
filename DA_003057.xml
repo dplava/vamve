@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, John Augustine Washington III to Jane C. Washington, 1840 December 1 </dcterms:title>
+   <dcterms:creator>Washington, John Augustine, III, 1821-1861</dcterms:creator>
+   <dcterms:contributor>Washington, Jane Charlotte Blackburn, 1786-1855</dcterms:contributor>
+   <dcterms:created>1840-12-01</dcterms:created>
+   <dcterms:description>John Augustine Washington writes from the University of Virginia to 'My dear Mother' in Charlestown discussing possible appointment of new professor who does not have his vote. Mentions the trial of Joseph Greene Semmes who is accused of murdering the University's Chairman John A.G. Davis. Autograph letter signed, 3 pages, integral address panel. Partial wax seal. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003057</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Elswyth Thane Beebe Collection of Washington Family Papers </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll32/id/23</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll32&amp;CISOPTR=23</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

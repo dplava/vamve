@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, John Augustine Washington III to Jane C. Washington, 1842 October 18</dcterms:title>
+   <dcterms:creator>Washington, John Augustine, III, 1821-1861</dcterms:creator>
+   <dcterms:contributor>Washington, Jane Charlotte Blackburn, 1786-1855</dcterms:contributor>
+   <dcterms:created>1842-10-18</dcterms:created>
+   <dcterms:description>Marked as 'Private &amp; Confidential,' John Augustine Washington writes from Mount Vernon to his mother in Charlestown about illness amongst enslaved workers at Mount Vernon; announces his proposal to Nelly; describes horse races; financial matters. Autograph letter signed, 4 pages,  integral address panel. </dcterms:description>
+   <dcterms:subject>Slaves -- Diseases</dcterms:subject>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003058</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Elswyth Thane Beebe Collection of Washington Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll32/id/20</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll32&amp;CISOPTR=20</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

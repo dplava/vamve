@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, West Ford to Bushrod Washington 1829 August 29 </dcterms:title>
+   <dcterms:creator>Ford, West, approximately 1784-1863</dcterms:creator>
+   <dcterms:contributor>Washington, Bushrod, 1762-1829</dcterms:contributor>
+   <dcterms:created>1829-08-29</dcterms:created>
+   <dcterms:description>A letter written by West Ford from Mount Vernon to Bushrod Washington at Blakeley, the home of Bushrod's neighbor and nephew John Augustine Washington II. Ford, a former slave of the Washington family who was later freed and employed as overseer of Mount Vernon, reports on arrangements being made at Mount Vernon for a workman to slate a "house for the books and papers." He mentions illnesses in his family and warns Bushrod against buying mules from his neighbor, Mr. Peake. Autograph letter signed, 2 pages, with integral cover.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000428</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Elswyth Thane Beebe Collection of Washington Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll32/id/2</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll32&amp;CISOPTR=2</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
