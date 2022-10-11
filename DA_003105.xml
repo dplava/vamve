@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Elizabeth Rathbone to Lily Laughton, January 12, 1886</dcterms:title>
+   <dcterms:creator>Rathbone, Elizabeth Adams, 1837-1923</dcterms:creator>
+   <dcterms:created>1886-01-12</dcterms:created>
+   <dcterms:description>Letter from Elizabeth Rathbone, Vice Regent for Michigan, to Laughton, January 12, 1886.  Has been organizing lady managers in Michigan, between forty and fifty of them. Hopes for good results. Wants to know what her state could undertake at the Mansion – the stairway or cupola. Her idea for cupola is to have four of the windows have stained glass pictures illustrating some scene from Washington’s life, and the other four be plain glass.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003105</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Papers of Lily Macalester Berghmans Laughton</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll36/id/88</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll36&amp;CISOPTR=88</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
