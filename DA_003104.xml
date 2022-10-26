@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Hannah Farnsworth to James Hollingsworth, 1878 February 12</dcterms:title>
+   <dcterms:creator>Farnsworth, Hannah Blake, 1802-1879</dcterms:creator>
+   <dcterms:created>1878-02-12</dcterms:created>
+   <dcterms:description>Letter from Hannah Farnsworth, Vice Regent for Michigan, to James Hollingsworth, Superintendent, February 12, 1878. New Rochelle. Michigan coat of arms was presented by Governor Crosswell, executed by architect of Capitol at Lansing, designed to be hung in or before the window to secure strong light.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003104</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1554</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1554</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

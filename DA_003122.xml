@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Sarah Tracy to Ann Pamela Cunningham, 1861 March 26</dcterms:title>
+   <dcterms:creator>Tracy, Sarah, 1820-1896</dcterms:creator>
+   <dcterms:created>1861-03-26</dcterms:created>
+   <dcterms:description>Letter, Sarah Tracy, secretary, to Ann Pamela Cunningham, March 26, 1861. larendon Hotel, Washington, DC. Difficulties with mail.  Mount Vernon is made a Postal Depot and Superintendent Herbert the Post Master.  Superintendent has bought kitchen utensils and has $240 left from receipts since December.  Reviews Superintendent's  recommendations re mending Mansion roof promptly, order for cutting shingles; putting Washington's room in order, charging fee to it and keeping guard there; furniture for the room.  Many visitors.  Mrs. Berghmans' plan for Mrs. Lincoln's visit, rain and children having measles deferred trip indefinitely, final arrangements.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003122</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1630</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1630</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

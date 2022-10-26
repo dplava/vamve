@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Reproduction drawing, Wharf design, Montgomery C. Meigs, 1859 October 12</dcterms:title>
+   <dcterms:creator>Meigs, Montgomery C. (Montgomery Cunningham), 1816-1892</dcterms:creator>
+   <dcterms:created>1859-10-12</dcterms:created>
+   <dcterms:description>Reprint drawing "Recommended for adoption the front of the Wharf being made parallel to the thread of the Stream" showing design and repairs of the wharf at Mount Vernon. Adhered to cardstock paper with a news clipping appeal by Ann Pamela Cunningham on the reverse dated December 9, 1859. Brief note concerning the recommendation for the wharf also enclosed.</dcterms:description>
+   <dcterms:medium>Architectural drawings</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003144</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1694</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1694</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

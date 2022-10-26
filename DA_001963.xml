@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Betsey Mason to Margaret Sweat, 1872 November 3</dcterms:title>
+   <dcterms:creator>Mason, Betsey (Elizabeth Price), 1802-1873</dcterms:creator>
+   <dcterms:created>1872-11-03</dcterms:created>
+   <dcterms:description>Letter from Betsey Mason, Vice Regent for Virginia, to Margaret Sweat, Vice Regent for Maine, November 3, 1872. Chesnut Hill. Discusses Miss Cunningham's health and common knowledge of her excessive use of drugs.  MVLA's financial matters - wonders if complaints about Miss Tracy were valid.  Friends of hers pledged $150 to Mount Vernon as they were so impressed with the mansion and with Hollingsworth, who feels he is being spied upon.  Feels Miss Cunningham is beginning to cost Mount Vernon some of its friends and allies.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_001963</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1133</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1133</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

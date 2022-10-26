@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Ann Pamela Cunningham to George W. Riggs, 1861 April 30</dcterms:title>
+   <dcterms:creator>Cunningham, Ann Pamela, 1816-1875</dcterms:creator>
+   <dcterms:created>1861-04-30</dcterms:created>
+   <dcterms:description>Letter from Ann Pamela Cunningham to George W. Riggs, treasurer, April 30, 1861. Rosemont. Concerned over statements that Lincoln will blow up public buildings in Washington if city is in danger from Confederates--worry about Washington relics in Patent office--begs him to get interview with Lincoln or Mrs. Lincoln and offer Mount Vernon as safe place for relics during war--if so, she must get additional force to guard them there--doesn't fear Southern soldiers, for they are gentlemen, but northern army is composed of every type--fears they may even fire Mount Vernon--must hold Va. bonds--sum due from Steamboat Company--Mr. Everett has $6000 on deposit--suggests Mrs. Riggs make Mount Vernon her place of refuge during war and become its guardian during her absence.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003141</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1673</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1673</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Sarah Tracy to Ann Pamela Cunningham, 1861 April 13</dcterms:title>
+   <dcterms:creator>Tracy, Sarah, 1820-1896</dcterms:creator>
+   <dcterms:created>1861-04-13</dcterms:created>
+   <dcterms:description>Letter from Sarah Tracy, secretary to Ann Pamela Cunningham, April 13, 1861. Washington, D.C. Mails delayed by rains.  War news suggests mails will be stopped.  Is roof of porch to be propped up - will prevent painting end of house.  Colonnade blown away.  Silver plate can be bought for $28.  Re repairs of boat, rising costs, E. Everett at Cincinnati, hiring someone to come on with Regent. Partial typed transcription with the letter.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003135</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1661</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1661</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

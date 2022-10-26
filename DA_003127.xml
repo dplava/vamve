@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Sarah Tracy to Ann Pamela Cunningham, 1861 April 5</dcterms:title>
+   <dcterms:creator>Tracy, Sarah, 1820-1896</dcterms:creator>
+   <dcterms:created>1861-04-05</dcterms:created>
+   <dcterms:description>Letter from Sarah Tracy, secretary, to Ann Pamela Cunningham, April 5, 1861. Washington, D.C. Visits Mount Vernon, finds Mansion clean and in good order, some rooms habitable.  Men are sanding paint.  Vegetable garden has peas, strawberries in blossom, plenty of lettuce.  Road to be finished soon, contract does not provide for repair of all the road.  Superintendent Herbert offers a walnut extension table for temporary use. Re keeping 6 dining room chairs; room for Mrs. Matthews, floor coverings, furnishings for Regent's room.  Plans for Regent's trip and arrival at Mount Vernon.  Asks about painting sitting room.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003127</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1636</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1636</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

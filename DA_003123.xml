@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Sarah Tracy to Ann Pamela Cunningham, 28 March 1861</dcterms:title>
+   <dcterms:creator>Tracy, Sarah, 1820-1896</dcterms:creator>
+   <dcterms:created>1861-03-28</dcterms:created>
+   <dcterms:description>Letter, Sarah Tracy, secretary, to Ann Pamela Cunningham, March 28, 1861. Includes typed transcript. Washington, DC. Receives her letter of Feb. 21 and 22.  Mr. Lincoln not invited to Mount Vernon, and Mrs. Lincoln's proposed visit kept secret.  Re General Washington's room, thinks plaster can be mended, room painted and wait for paper.  Wind carried away covered passage to Kitchen, and one side of Judge Washington's porch.  Mr. Graham and she get prices in Alexandria for bedstead, dining table, mahogany chair, rocking chair (rockerless), curtains, pillow case.  Describes Mrs. Lincoln.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_003123</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1626</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1626</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
