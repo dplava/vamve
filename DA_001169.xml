@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Nancy Halsted to Abby Chace, 1878 April 26</dcterms:title>
+   <dcterms:creator>Halsted, Nancy Marsh, 1817-1891</dcterms:creator>
+   <dcterms:created>1878-04-26</dcterms:created>
+   <dcterms:description>Letter from Nancy Halsted, Vice Regent for New Jersey, to Abby Chace, Vice Regent for Rhode Island, April 26, 1878. Copy. Newark. Now a decided change for floors at Mount Vernon, reports several opinions, discussed also at executive meeting in New York.  Mrs. Farnsworth offers to furnish Hall and coat of arms for her state.  Decided to put new supporters under Hall, arch to support floor above, a heavy pine floor with oak floor on top, also simple black walnut border inlaid around edge.  Refers to things stolen at Mount Vernon.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_001169</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1462</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1462</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

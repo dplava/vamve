@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Ann Pamela Cunningham to Nancy Halsted, 1870 October 2</dcterms:title>
+   <dcterms:creator>Cunningham, Ann Pamela, 1816-1875</dcterms:creator>
+   <dcterms:created>1870-10-02</dcterms:created>
+   <dcterms:description>Letter from Ann Pamela Cunningham to Nancy Halsted, Vice Regent for New Jersey, October 2, 1870. Draft. Thanks Mrs. Halsted for kindness to her niece.  Wants work to begin on colonnade, dormer windows and cistern. Vice Regent of Delaware is at Mount Vernon.  Re planting peach trees.  Reports on Mrs. Tilley's unfortunate trials.  Successor must be able to write and know about management of a country estate.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_001116</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1274</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1274</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

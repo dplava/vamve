@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, S.W. Tiffey to Philoclea Eve, 1884 February 13</dcterms:title>
+   <dcterms:creator>Tiffey, S. W.</dcterms:creator>
+   <dcterms:created>1884-02-13</dcterms:created>
+   <dcterms:description>Letter from S.W. Tiffey, former secretary, to Philoclea Eve, Vice Regent for Georgia, February 13, 1884. Washington, D.C. At request of Records Committee she continues "resume" of her years at Mount Vernon. Cites Regent's voluminous correspondence with Vice Regents. Mrs. Halsted's great activities and gifts. General Michler's repairs made with funds from U.S. "claims" settlement. Cites a few gifts and definite repairs. Also gardener Craig's improvements in grounds and gardens, building of greenhouses, sale of produce.  Marginal comments of Mrs. Hudson.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_001160</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1434</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1434</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
