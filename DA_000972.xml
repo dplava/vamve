@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Ann Pamela Cunningham to Nancy Halsted, 1869 April 27</dcterms:title>
+   <dcterms:creator>Cunningham, Ann Pamela, 1816-1875</dcterms:creator>
+   <dcterms:created>1869-04-27</dcterms:created>
+   <dcterms:description>Letter from Ann Pamela Cunningham to Nancy Halsted, Vice Regent for New Jersey, April 27, 1869. Mount Vernon. Regarding land adjoining Mount Vernon, Court orders sold.  Freight charged on mattress, bedstead, parlor desk.  Prof. Henry gives water gauge, buys thermometer.  Vice Regent of New York says collections will resume after $7000 claim is spent.  Repairs - plastering on 2nd floor, Greenhouse walls leveled, gardener's house.  Two bedrooms, 2nd floor plastered, 3rd floor replastered (beams sound), colonnade tinned.  Mr. Forney reduces supply costs.  Banquet Hall cost about $105.  One "Great Room" mirror broken in removal, other misplaced.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000972</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/944</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=944</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

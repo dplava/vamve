@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Draft letter, Ann Pamela Cunningham to Margaret Comegys, 1868 May 5</dcterms:title>
+   <dcterms:creator>Cunningham, Ann Pamela, 1816-1875</dcterms:creator>
+   <dcterms:created>1868-05-05</dcterms:created>
+   <dcterms:description>Draft letter from Ann Pamela Cunningham to Margaret Comegys, Vice Regent for Delaware, May 5, 1868. Mount Vernon. "Burn this." Also includes handwritten extract of the letter. Much of the letter has been crossed out. She misses Mrs. Comegys greatly and wishes she could visit. Daily boat a success and boat receipts have increased despite bad weather. They are short two servants, have only one woman to wash, attend house and dairy.  Mrs. Morse is at Mount Vernon.  Receipts for month are $486.56 against $302 last year, sales increased, made $75 on photographs, $44 for flowers. Compares her sales with Miss Tracy's.  Visitors are destructive; officers sent five soldiers from neighboring fort to protect property, each paid 25 cents per day.  Mentions Appeal to the rich for an endowment.  The fort's band plays twice a week.  Reports continued personal losses</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000960</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/598</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=598</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

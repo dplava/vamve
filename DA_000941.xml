@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, S.W. Tiffey to Ann Pamela Cunningham, 1869 September 22</dcterms:title>
+   <dcterms:creator>Tiffey, S. W.</dcterms:creator>
+   <dcterms:created>1869-09-22</dcterms:created>
+   <dcterms:description>Letter from S.W. Tiffey, secretary of the MVLA, to Ann Pamela Cunningham, September 22, 1869. She received Miss Cunningham's letters from the 13th, 18th, and 19th, all postmarked 20th.  She is hurt that Miss Cunningham worried she was being neglectful of her duties and promises she is innocent and thought she was doing the right thing by not bothering Miss Cunningham with every detail, which would make her anxious.    Discusses wages and contract for the painter and delays in papering rooms. Men fed and lodged at Mount Vernon.  The walls should be scraped and more wallpaper is needed. There are delays with work on the greenhouse.  Mr. Fisher begs to start work on the colonnade. Updates on other Mansion interior work and gifts including: 2 mirrors with eagles, wire hangings, high post bed, mosquito wire cloth, chairs, oil cloths promised.  She canned peaches and tomatoes, and dried apples. Mr. Craig made cider.  Reports the boat receipts.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000941</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/443</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=443</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

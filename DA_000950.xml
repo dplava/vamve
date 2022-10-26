@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, S.W. Tiffey to Nancy Halsted, 1869 November 24</dcterms:title>
+   <dcterms:creator>Tiffey, S. W.</dcterms:creator>
+   <dcterms:created>1869-11-24</dcterms:created>
+   <dcterms:description>Letter from S.W. Tiffey, secretary, to Nancy Halsted, Vice Regent for New Jersey, November 24, 1869. The Regent went to Washington and started for home alone.  The oil cloth was placed in the Banquet Hall. She and Nathan will arrange for the oil cloth upstairs. Discusses furnishings and sends Banquet Hall window measurements. Says the Regent wishes things "Historical."  Follansbee will send a Washington reporter and will give him a list of donations and what repairs the Association made with their funds raised.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000950</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/473</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=473</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

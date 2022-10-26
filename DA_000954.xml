@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Ann Pamela Cunningham to Sarah Tracy, 1865 July 10</dcterms:title>
+   <dcterms:creator>Cunningham, Ann Pamela, 1816-1875</dcterms:creator>
+   <dcterms:created>1865-07-10</dcterms:created>
+   <dcterms:description>Letter from Ann Pamela Cunningham to Sarah Tracy, secretary, July 10. 1865. Long, detailed account of her condition after the war.  All communication and transportation has been disrupted. She fears for Mount Vernon and plans to make it self-sustaining. She will go there when travel and health permit.  Describes her barren plantation and converting $34,000 into Confederate Securities.  Legacies planned for Mount Vernon, Superintendent Herbert, Secretary Tracy and Mary.  She despairs over debts.  Asks for news of Mount Vernon, the Vice Regents, and others.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000954</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/500</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=500</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

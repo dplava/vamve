@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Ann Pamela Cunningham to Nancy Halsted, 1868 December 27</dcterms:title>
+   <dcterms:creator>Cunningham, Ann Pamela, 1816-1875</dcterms:creator>
+   <dcterms:created>1868-12-27</dcterms:created>
+   <dcterms:description>Letter from Ann Pamela Cunningham to Nancy Halsted, Vice Regent for New Jersey, December 27, 1868. Mount Vernon. Carpenter repairs gardener's house.  Boat to be put up for 2 months.  The stove is a gift.  Christmas supplies from Alexandria.  Four thousand appeals franked; New Jersey appeal excellent.  Concern over attack on Association. Communication with Mrs. Chace and Mrs. Berghmans.  Write to R. Washington, guardian of minor heirs re affixing stamps to deed.  Dividend from railroad plus bank refund provides for current expenses until April.  Thanks Mrs. Halsted for a trunk and $10 (personal).  Suggests asking A.T. Stewart's store in New York for a gift for endowment.   Mrs. Perrin's qualifications favorable - must be able to stand the isolation of Mount Vernon and its discomforts.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000966</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/887</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=887</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

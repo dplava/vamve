@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Christie Johnson to Mary Goodrich, 1859 April 16</dcterms:title>
+   <dcterms:creator>Johnson, Christie</dcterms:creator>
+   <dcterms:created>1859-04-16</dcterms:created>
+   <dcterms:description>Letter from Christie Johnson to Mary Goodrich, Vice Regent for Connecticut, April 16, 1859. Regent's appreciation of Connecticut's activities; comments on a man's offer to guide Association; refers to Constitution and fact that she has best legal advice on important questions; no action regarding Mr. Thornburn can be taken until Grant Council meets; first outlays for repairs of the perishable, needs an architect for this; comments on J.A. Washington's cooperation but her unwillingness to start repairs before the Association takes possession; Washington family alarmed at moving from Mount Vernon before their new home is finished; investment of funds and payments to Mr. Washington.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000907</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/269</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=269</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

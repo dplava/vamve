@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, S.W. Tiffey to Ann Pamela Cunningham, 1869 September 10</dcterms:title>
+   <dcterms:creator>Tiffey, S. W.</dcterms:creator>
+   <dcterms:created>1869-09-10</dcterms:created>
+   <dcterms:description>Letter from S.W. Tiffey, secretary, to Ann Pamela Cunningham, September 10, 1869. Mount Vernon. Puzzled that Regent does not write.  Mr. Nalley came down to see about painting, can have no more paint through Mr. Follansbee.  Captain Stackpole engages paper-hangers for Mount Vernon.  Mr. Nalley estimates painting on exterior of Mansion will be $150.  Anxious to finish interior painting as mixed paint is drying up and he cannot be paid wages until work is completed, so he asked Regent to decide on color.  West Parlor is beautiful.  Asks instructions for placing cases and chairs.  Craig still digging at greenhouse, paid bill for tile.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_001104</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/1242</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=1242</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
