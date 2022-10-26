@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Copy of a letter by Nancy Halsted to the Editor of an unknown newspaper, 1869 May 12</dcterms:title>
+   <dcterms:creator>Halsted, Nancy Marsh, 1817-1891</dcterms:creator>
+   <dcterms:created>1869-05-12</dcterms:created>
+   <dcterms:description>Copy or draft of a letter from Nancy Halsted, Vice Regent for New Jersey, to "Mr. Editor" (newspaper unknown), May 12, 1869. References a mistake in an article, then discusses Mount Vernon's rooms designated to different states with the Vice Regents responsible for furnishing their own rooms. Mentions their goal of restoring Mount Vernon to how it appeared in Washington's time. Letter is not complete - partially in fragments.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000280</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Early Records of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll35/id/188</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll35&amp;CISOPTR=188</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
