@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Martha Washington's daybook, 1802 February-April </dcterms:title>
+   <dcterms:creator>Washington, Martha, 1731-1802</dcterms:creator>
+   <dcterms:created>1802-02</dcterms:created>
+   <dcterms:created>1802-03</dcterms:created>
+   <dcterms:created>1802-04</dcterms:created>
+   <dcterms:description>Martha Washington used this daybook to record her expenses from February to April of 1802, just over two years after her husband’s death. A February 10 payment of $40 to Dr. David Stuart “for the hire of Peter” was for Peter Hardiman whom the Washingtons had rented as an enslaved groom, since the 1780s. He was married to Mount Vernon housemaid Caroline Branham, and the couple had 8 children at Mount Vernon. Autograph booklet, 29 pages. Only pages 1-5, which covers February 1802 to April 1802, include entries. The remainder of the book is blank. Digitization only captures pages 1-11, end pages, and front and back cover. Pages 8-29 and formatted identically. </dcterms:description>
+   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Hardiman, Peter</dcterms:subject>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004150</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/181</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=181</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

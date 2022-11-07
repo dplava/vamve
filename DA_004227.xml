@@ -6,18 +6,17 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Receipt, Wages paid to Richard Burnett for the year 1802, 1803 April 1</dcterms:title>
+   <dcterms:title>Thomas Peter's daybook, 1813-1814 </dcterms:title>
    <dcterms:creator>Peter, Thomas, 1769-1834</dcterms:creator>
-   <dcterms:created>1803-04-01</dcterms:created>
-   <dcterms:description>Twenty dollars wages paid to Richard Burnett of the City of Washingon by Thomas Peter for the year 1802.</dcterms:description>
-   <dcterms:medium>Financial records</dcterms:medium>
-   <dcterms:medium>Receipts (financial records)</dcterms:medium>
+   <dcterms:created>1813/1814</dcterms:created>
+   <dcterms:description>Pamphlet stitch binding with marbled paper covers, 64 pages. Contains notes about purchases made by Thomas Peter 1813-1814. Only pages 2-5, 8-9, 20, 24-25 and 40-41 include account information. The remaining pages are blank. </dcterms:description>
+   <dcterms:medium>Ledgers (account books)</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
-   <dcterms:identifier>DI-1173</dcterms:identifier>
+   <dcterms:identifier>DA_004227</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/27</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=27</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/318</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=318</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>

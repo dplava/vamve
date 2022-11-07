@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Tobacco Book 1784 / Negros the Property of Robert Peter taken November 1790 / Lots in the City of Washington, 1784-1797 </dcterms:title>
+   <dcterms:created>1784/1797</dcterms:created>
+   <dcterms:description>Book of tobacco sales, list of slaves belonging to Robert Peter, and lots of Robert Peter in the City of Washington with division by squares for the Commissioners and how they are disposed. The bound volume is made up of 178 pages. Pages 52-147 are blank. At some point the volume is flipped and entries are begun at the back of the book from pages 178-154. For viewing purposes those pages have been reoriented and reordered. </dcterms:description>
+   <dcterms:subject>Slavery</dcterms:subject>
+   <dcterms:subject>Real estate</dcterms:subject>
+   <dcterms:medium>Books</dcterms:medium>
+   <dcterms:medium>Business records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004244</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/457</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=457</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
