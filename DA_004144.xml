@@ -6,17 +6,19 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Letter, Tobias Lear, Mount Vernon, to Alexander Hamilton, 1800 January 23 </dcterms:title>
+   <dcterms:title>Letter, Tobias Lear to Maria S. Ross, 1800 January 10 </dcterms:title>
    <dcterms:creator>Lear, Tobias, 1762-1816</dcterms:creator>
-   <dcterms:created>1800-01-23</dcterms:created>
-   <dcterms:description>Tobias Lear's response on behalf of Martha to Alexander Hamilton's condolence letter dated 1800 January 12. Autograph letter signed, 1 page. </dcterms:description>
+   <dcterms:contributor>Ross, Maria</dcterms:contributor>
+   <dcterms:created>1800-01-10</dcterms:created>
+   <dcterms:description>Tobias Lear's response to Maria Ross's condolence letter to Martha Washington. Autograph letter, copy, 1 page.  </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Death and burial</dcterms:subject>
    <dcterms:medium>Correspondence</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
-   <dcterms:identifier>DA_002353</dcterms:identifier>
+   <dcterms:identifier>DA_004144</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Peter Family Papers </dcterms:isPartOf>
+   <dcterms:isPartOf>Peter Family Papers</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/14</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=14</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll39/id/160</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll39&amp;CISOPTR=160</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
