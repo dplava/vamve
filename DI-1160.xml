@@ -6,18 +6,19 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Plan, Piazza flooring, undated</dcterms:title>
+   <dcterms:title>Document, Plan for garret chamber, 1797 September 15</dcterms:title>
    <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
-   <dcterms:description>Floor plan of the piazza drawn by George Washington.  Washington has indicated that the unshaded tiles must be replaced due to damage from frost. He is suggesting that the work be completed by indentured servants John Knowles or Harry [Henry] Young. The plan is undated.</dcterms:description>
+   <dcterms:created>1797-09-15</dcterms:created>
+   <dcterms:description>Manuscript Architectural Plan of a room in the garret of Mount Vernon sent from George Washington to Clement Biddle when purchasing a stove for the room.</dcterms:description>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
-   <dcterms:subject>Piazza</dcterms:subject>
    <dcterms:medium>Architectural documents</dcterms:medium>
-   <dcterms:type>Image</dcterms:type>
-   <dcterms:identifier>DA_001050</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DI-1160</dcterms:identifier>
+   <dcterms:rights>Photograph by Mark Finenstaedt</dcterms:rights>
    <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll21/id/21</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll21&amp;CISOPTR=21</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll21/id/38</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll21&amp;CISOPTR=38</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
