@@ -9,11 +9,13 @@
    <dcterms:title>Oceani occidentalis seu terrae tabula</dcterms:title>
    <dcterms:creator>Fries, Lorenz, approximately 1490-1531</dcterms:creator>
    <dcterms:created>1541</dcterms:created>
-   <dcterms:place>North America</dcterms:place>
-   <dcterms:place>South America</dcterms:place>
-   <dcterms:place>Atlantic Ocean</dcterms:place>
-   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>South America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>Atlantic Ocean</dcterms:spatial>
+   <dcterms:subject>p
+                                North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                South America--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004194</dcterms:identifier>

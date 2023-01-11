@@ -9,12 +9,16 @@
    <dcterms:title>Carte de la Virginie et du Maryland</dcterms:title>
    <dcterms:creator>Robert de Vaugondy, Gilles, 1688-1766</dcterms:creator>
    <dcterms:created>1755</dcterms:created>
-   <dcterms:place>Mid-Atlantic, United States</dcterms:place>
-   <dcterms:place>Chesapeake Bay (bay), United States</dcterms:place>
-   <dcterms:subject>Middle Atlantic States--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Delaware--Maps- Early works to 1800</dcterms:subject>
-   <dcterms:subject>Maryland--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Mid-Atlantic, United States</dcterms:spatial>
+   <dcterms:spatial>Chesapeake Bay (bay), United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Middle Atlantic States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Delaware--Maps- Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Maryland--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Virginia--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004186</dcterms:identifier>

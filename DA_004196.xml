@@ -11,9 +11,11 @@
    <dcterms:creator>Elstracke, Renold, active 1590-1630</dcterms:creator>
    <dcterms:created>1625</dcterms:created>
    <dcterms:description>The first printed map in English to show California as an island, with flat northern coast.</dcterms:description>
-   <dcterms:place>North America</dcterms:place>
-   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Native Americans</dcterms:subject>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:subject>p
+                                North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Native Americans</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004196</dcterms:identifier>

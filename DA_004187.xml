@@ -9,13 +9,19 @@
    <dcterms:title>Carte du Mexique et de la Floride des Terres Angloises et des Isles Antilles : du cours et des environs de la Riviere de Mississipi [sic], dressée sur ungrand nombre de memoires principalemt. sur ceux de M.rs d'Iberville et le Sueur</dcterms:title>
    <dcterms:creator>L'Isle, Guillaume de, 1675-1726</dcterms:creator>
    <dcterms:created>1703</dcterms:created>
-   <dcterms:place>Americas</dcterms:place>
-   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>United States--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Mexico--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>West Indies--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Central America--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Caribbean Area--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Americas</dcterms:spatial>
+   <dcterms:subject>p
+                                North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                United States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Mexico--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                West Indies--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Central America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Caribbean Area--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004187</dcterms:identifier>

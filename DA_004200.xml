@@ -9,10 +9,13 @@
    <dcterms:title>Virginiae Item et Floridae Americae Provinciarum, nova Descriptio</dcterms:title>
    <dcterms:creator>Hondius, Jodocus, 1563-1612</dcterms:creator>
    <dcterms:created>1601?</dcterms:created>
-   <dcterms:place>Southern United States</dcterms:place>
-   <dcterms:subject>Southern States--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Florida--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Southern United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Southern States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Virginia--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Florida--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004200</dcterms:identifier>

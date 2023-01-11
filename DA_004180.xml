@@ -8,14 +8,19 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>A chart of the Gulf Stream</dcterms:title>
    <dcterms:created>1786</dcterms:created>
-   <dcterms:place>Atlantic Ocean</dcterms:place>
-   <dcterms:place>Gulf Stream</dcterms:place>
-   <dcterms:place>North Atlantic Ocean</dcterms:place>
-   <dcterms:subject>Nautical charts--Gulf Stream--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Nautical charts--North Atlantic Ocean--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Atlantic Ocean--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Gulf Stream--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>North Atlantic Ocean--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Atlantic Ocean</dcterms:spatial>
+   <dcterms:spatial>Gulf Stream</dcterms:spatial>
+   <dcterms:spatial>North Atlantic Ocean</dcterms:spatial>
+   <dcterms:subject>p
+                                Nautical charts--Gulf Stream--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Nautical charts--North Atlantic Ocean--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Atlantic Ocean--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Gulf Stream--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                North Atlantic Ocean--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004180</dcterms:identifier>

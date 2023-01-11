@@ -9,10 +9,13 @@
    <dcterms:title>A new map of Virginia, Maryland and the improved parts of Pennsylvania &amp; New Jersey</dcterms:title>
    <dcterms:creator>Browne, Christopher, active 1684-1712</dcterms:creator>
    <dcterms:created>1689</dcterms:created>
-   <dcterms:place>Eastern United States</dcterms:place>
-   <dcterms:subject>Maryland--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Pennsylvania--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>New Jersey--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Eastern United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Maryland--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Pennsylvania--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                New Jersey--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004182</dcterms:identifier>

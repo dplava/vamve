@@ -9,14 +9,17 @@
    <dcterms:title>Americae sive novi orbis, nova descriptio</dcterms:title>
    <dcterms:creator>Ortelius, Abraham, 1527-1598</dcterms:creator>
    <dcterms:created>1570</dcterms:created>
-   <dcterms:place>America</dcterms:place>
-   <dcterms:place>South America</dcterms:place>
-   <dcterms:place>South Pacific Ocean</dcterms:place>
-   <dcterms:place>Atlantic Ocean</dcterms:place>
-   <dcterms:place>West Indies</dcterms:place>
-   <dcterms:subject>Western Hemisphere--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>South America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>America</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>South Pacific Ocean</dcterms:spatial>
+   <dcterms:spatial>Atlantic Ocean</dcterms:spatial>
+   <dcterms:spatial>West Indies</dcterms:spatial>
+   <dcterms:subject>p
+                                Western Hemisphere--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                South America--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004184</dcterms:identifier>

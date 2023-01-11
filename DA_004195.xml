@@ -10,10 +10,12 @@
    <dcterms:creator>Smith, John, 1580-1631</dcterms:creator>
    <dcterms:creator>Robert de Vaugondy, Gilles, 1688-1766</dcterms:creator>
    <dcterms:created>1627</dcterms:created>
-   <dcterms:place>Virginia, United States</dcterms:place>
-   <dcterms:place>Maryland, United States</dcterms:place>
-   <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Native Americans</dcterms:subject>
+   <dcterms:spatial>Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>Maryland, United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Virginia--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Native Americans</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004195</dcterms:identifier>

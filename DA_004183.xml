@@ -10,10 +10,12 @@
    <dcterms:creator>White, John, active 1585-1593</dcterms:creator>
    <dcterms:creator>Harriot, Thomas, 1560-1621</dcterms:creator>
    <dcterms:created>1590</dcterms:created>
-   <dcterms:place>Virginia, United States</dcterms:place>
-   <dcterms:place>North Carolina, United States</dcterms:place>
-   <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>North Carolina--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>North Carolina, United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Virginia--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                North Carolina--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004183</dcterms:identifier>

@@ -10,10 +10,11 @@
    <dcterms:creator>Drake, Francis, approximately 1540-1596</dcterms:creator>
    <dcterms:created>1586</dcterms:created>
    <dcterms:description>Map of Cuba showing the harbor at Havana and battalions marching to battle. Also labels land as part of New Spain, New France, Peru, Hispaniola, and Florida. Cartographic elements include compass rose and some topographical details. Includes lizard or iguana (here identified as a crocodile), ships, sea monster, flying fish, animals, scene of naval warfare, and soldiers.</dcterms:description>
-   <dcterms:place>Cuba</dcterms:place>
-   <dcterms:place>Caribbean Sea</dcterms:place>
-   <dcterms:place>Florida, United States</dcterms:place>
-   <dcterms:subject>Caribbean Area--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Cuba</dcterms:spatial>
+   <dcterms:spatial>Caribbean Sea</dcterms:spatial>
+   <dcterms:spatial>Florida, United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Caribbean Area--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004188</dcterms:identifier>

@@ -9,10 +9,13 @@
    <dcterms:title>Florida et regiones vicinae</dcterms:title>
    <dcterms:creator>Laet, Joannes de, 1581-1649</dcterms:creator>
    <dcterms:created>1630</dcterms:created>
-   <dcterms:place>Florida, United States</dcterms:place>
-   <dcterms:subject>Florida--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Gulf Coast (U.S.)--Maps--Early works to 1800</dcterms:subject>
-   <dcterms:subject>Southern States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Florida, United States</dcterms:spatial>
+   <dcterms:subject>p
+                                Florida--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Gulf Coast (U.S.)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>p
+                                Southern States--Maps--Early works to 1800</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_004190</dcterms:identifier>
