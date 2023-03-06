@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Mrs. Washington's Room where she Died. </dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:created>1884/1894</dcterms:created>
+   <dcterms:description>Cabinet card of Mansion's south lumber room, once believed to have been occupied by Mrs. Washington upon George Washington's death and formally titled 'Mrs. Washington's Bed Room or Chamber.' Later determined that Mrs. Washington resided in a different chamber on the third floor of the Mansion. The following text is printed directly onto the reverse of the cardboard mount: Mrs. Washington's Room where she Died. Copyrighted by Luke C. Dillon, Photographer to Mount Vernon, Office at Pullman's Gallery, 935 Penn. Avenue, Washington D. C. </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Mansion interior</dcterms:subject>
+   <dcterms:subject>p
+                                South Lumber Room</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Cabinet cards</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004065</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/1505</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=1505</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

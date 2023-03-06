@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>New York Room, Mount Vernon Mansion. </dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:created>1884/1894</dcterms:created>
+   <dcterms:description>Cabinet card of interior view of the new room in the Mansion at Mount Vernon. View towards west wall includes Rembrandt Peale portrait of Washington Before Yorktown and furnishings. The following text is printed directly onto the reverse of the cardboard mount: New York Room, Mount Vernon Mansion. Copyrighted by Luke C. Dillon, Photographer to Mount Vernon, Office at Pullman's Gallery, 935 Penn. Avenue, Washington, D.C. </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Mansion interior</dcterms:subject>
+   <dcterms:subject>p
+                                New Room</dcterms:subject>
+   <dcterms:medium>Photographs</dcterms:medium>
+   <dcterms:medium>cabinet cards</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003495</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/1288</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=1288</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

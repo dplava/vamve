@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>East Parlor </dcterms:title>
+   <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
+   <dcterms:created>1878/1883</dcterms:created>
+   <dcterms:description>Cabinet card of the northeast corner of the little parlor. The card mount has a gold border along the front edge. A printed label on yellow paper is affixed to the reverse of the cardboard mount and reads: East Parlor, Mount Vernon, Showing the Harpsichord, the wedding present of Washington to Miss Nellie Custis, his adopted daughter, when she married Col. Lewis; also the old Flute used by Washington. The room is now furnished by the State of Ohio, so as to appear as it was in Washington's time. Copyright by the Mount Vernon Association. Penciled note on label attributes photograph to 'Johnson.' </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Mansion interior</dcterms:subject>
+   <dcterms:subject>p
+                                Little Parlor</dcterms:subject>
+   <dcterms:medium>Photographs</dcterms:medium>
+   <dcterms:medium>cabinet cards</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003498</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/1306</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=1306</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The Marble Mantel Piece </dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:created>1884/1886</dcterms:created>
+   <dcterms:description>Cabinet card of the fireplace and Vaughan mantel [W-940] in the new room at Mount Vernon. Several vases and a piece of fan coral adorn the top of the mantel. Several pieces of marble inlays are missing from the hearth. The following text is printed on the reverse: The Marble Mantel Piece In the New York Room at Mt. Vernon Mansion. Copyright by the Mount Vernon Ladies' Union Association. Luke C. Dillon, Authorized Photographer, Office at Pullman's Gallery, 935 Penna. Avenue, Washington City, D. C. </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                New Room</dcterms:subject>
+   <dcterms:subject>p
+                                Vaughan mantel</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Cabinet cards</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004047</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/1469</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=1469</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
