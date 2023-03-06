@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Views in North America: The Mansion House, July 1850, by W &amp; F Langenheim.</dcterms:title>
+   <dcterms:creator>Dunlop, James R.</dcterms:creator>
+   <dcterms:created>1850-07</dcterms:created>
+   <dcterms:description>Black and white photograph. Reproduction photograph of view of the west front of the Mount Vernon Mansion. Text on the photograph reads: 'Views in North America. Taken from nature, July 1850, by the patent Talbotype process by W and F, Langenheim, 216 Chestnut, St Phila and 247 Broadway N. York. Series VI V,a No. 2. The Mansion House of Gen. George Washington at Mount Vernon Va.'  Reverse reads, 'A-536 M-1605/C.'</dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Mansion exterior</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_000121</dcterms:identifier>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/73</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=73</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
