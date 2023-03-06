@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>George Washington's Home, Mount Vernon VA</dcterms:title>
+   <dcterms:creator>Photographer unknown</dcterms:creator>
+   <dcterms:contributor>Ford, West (1784 or 1785-1863)</dcterms:contributor>
+   <dcterms:created>1858</dcterms:created>
+   <dcterms:description>Glass plate negative of the mansion. Photograph of the south and east façades of the Mount Vernon Mansion, 1858. The view is taken from the southeast lawn and shows the mansion in a dilapidated state with ship masts holding up the sagging piazza. Several individuals are posing in the photograph: (from left to right)  - a young African American woman stands on the stairs to the south porch, a white male stands leaning next to a tree, an elderly African-American man is seated on the corner of the piazza next to the Mansion, an African-American woman surrounded by four young children is also seated on the piazza, leaning against one of the ship mast supports stands an African-American man, and lastly, an African-American man holding a hat stands on the east lawn near the piazza. A faint figure of a woman or child stands inside the window of the room (study) nearest the piazza. While all of the subjects are currently unidentified there is a possibility that the elderly gentleman seated on</dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:medium>Wet collodion negatives</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_001388</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/1154</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=1154</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

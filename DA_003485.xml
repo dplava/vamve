@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Untitled [Mount Vernon] </dcterms:title>
+   <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
+   <dcterms:created>1866/1875</dcterms:created>
+   <dcterms:description>Cabinet card of the east front of the Mansion from the northeast. Note the balustrade has been removed for repairs. The following text has been printed in gold ink directly onto the cardboard mount: From Gardner Gallery, 921 Penna. Ave. Washington, D. C. There is also a handwritten note in black ink, 'Another view of George Washington's house at Mt. Vernon.' </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Mansion exterior</dcterms:subject>
+   <dcterms:subject>p
+                                east front</dcterms:subject>
+   <dcterms:subject>p
+                                east lawn</dcterms:subject>
+   <dcterms:medium>Photographs</dcterms:medium>
+   <dcterms:medium>cabinet cards</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003485</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection </dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/1243</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=1243</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
