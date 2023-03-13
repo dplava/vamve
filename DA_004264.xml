@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, John Augustine Washington III to “my dear cousin,” Eliza Lidden (?) or Selden, 1845 February 3 </dcterms:title>
+   <dcterms:creator>Washington, John Augustine, III, 1821-1861</dcterms:creator>
+   <dcterms:created>1845-02-03</dcterms:created>
+   <dcterms:description>Is in the market to purchase negroes as one of his men, Alfred, has run off. Wants to know whether she still wishes to dispose of her negroes and what her price would be. He could pay $500 cash and then pay off the principal in a year or two. Autograph copy of letter, 1 page. </dcterms:description>
+   <dcterms:subject>p
+                                Slavery</dcterms:subject>
+   <dcterms:subject>p
+                                Slavery at Mount Vernon</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004264</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>John Augustine Washington III and Mount Vernon Ladies' Association (MVLA) collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll8/id/35</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll8&amp;CISOPTR=35</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

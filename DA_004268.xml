@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Draft agreement for sale of Mount Vernon to John Linton, 1853 June 13 </dcterms:title>
+   <dcterms:created>1853-06-13</dcterms:created>
+   <dcterms:description>Agreement to sell 200 acres of Mount Vernon for $200,000. Includes all buildings and the tomb, as well as furnishings currently there. Also will allow heirs to be buried there. He may not sell the estate without first offering it to the U.S. Government and the State of Virginia for no more than $350,000. Autograph document, 4 pages. </dcterms:description>
+   <dcterms:subject>p
+                                Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004268</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>John Augustine Washington III and Mount Vernon Ladies' Association (MVLA) collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll8/id/47</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll8&amp;CISOPTR=47</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
