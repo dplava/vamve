@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Conservatory at Mount Vernon. </dcterms:title>
+   <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
+   <dcterms:created>1878/1883</dcterms:created>
+   <dcterms:description>Cabinet card of the conservatory in the upper garden. The structure was built around 1869 on the site of Washington's original greenhouse. The upper garden's brick exterior wall is in the foreground. A man is seated on the glass-paned roof. A small red lined border on the mount surrounds the photograph. The following is printed in red ink on the bottom edge of the mount: Conservatory at Mount Vernon. N. G. Johnson, Photographer, 426 Seventh Street, N. W., Washington, D. C. A penciled note on the reverse (in the hand of Robert Waldsmith), 'Annual Report 1979, M.V.L.A. Was my gift to M.V. This bldg. built in 1869 on old site. This view about 1880.' </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Conservatory</dcterms:subject>
+   <dcterms:subject>p
+                                Greenhouse</dcterms:subject>
+   <dcterms:subject>p
+                                Upper Garden</dcterms:subject>
+   <dcterms:medium>Photographs</dcterms:medium>
+   <dcterms:medium>cabinet cards</dcterms:medium>
+   <dcterms:medium>card photographs</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003620</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Robert Waldsmith Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll30/id/1207</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll30&amp;CISOPTR=1207</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
