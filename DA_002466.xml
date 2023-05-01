@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Thomas Collyer at the Mount Vernon Wharf, 1860-1861</dcterms:title>
+   <dcterms:creator>Rau, William Herman, 1855-1920 - publisher</dcterms:creator>
+   <dcterms:created>1860/1861</dcterms:created>
+   <dcterms:description>Magic glass lantern slide of the Thos. Collyer passenger steamboat docked at the Mount Vernon landing. The slide's mount includes the following printed text, 'William H. Rau, Photographer, Philadelphia, Penna.' The reverse of the slides has a handwritten label which reads, 'No. 840 - Va. Mt. Vernon, steam boat landing.' The view shows a newly constructed landing completed by the Mount Vernon Ladies' Association in 1860. Although, Rau is taking credit as the photographer  he obviously would have been far too young to have been the photographer of record.</dcterms:description>
+   <dcterms:spatial>Mount Vernon (VA. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>p
+                                Wharf</dcterms:subject>
+   <dcterms:medium>Glass transparencies</dcterms:medium>
+   <dcterms:medium>lantern slides</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002466</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll30/id/822</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll30&amp;CISOPTR=822</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
