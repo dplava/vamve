@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Views of parking space and lunch room just outside the Mount Vernon property, c. 1926 </dcterms:title>
+   <dcterms:contributor>Gibbs, Edward C., 1893-1963</dcterms:contributor>
+   <dcterms:contributor>Gibbs, Francis T.</dcterms:contributor>
+   <dcterms:created>1924/1928</dcterms:created>
+   <dcterms:description>Seven mounted photographs all sized approximately 4 1/2 in. x 2 3/4 in. adhered to card stock measuring 10 1/4 in. x 6 5/8 in., four on one side and three on the reverse. Several photographs have handwritten captions (in the hand of Harrison H. Dodge). The views include the parking areas owned by Fairfax County, the lunch room owned and operated by the Gibbs family just outside Mount Vernon's main entrance, and the 'Landon Lot' (belonging to Mount Vernon, east of the parking lot).  </dcterms:description>
+   <dcterms:subject>p
+                                Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004315</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll30/id/1307</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll30&amp;CISOPTR=1307</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

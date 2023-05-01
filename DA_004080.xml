@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Summer House at Mount Vernon </dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:created>1884/1894</dcterms:created>
+   <dcterms:description>Cabinet card of the summer house at Mount Vernon. The following text is printed directly onto the reverse of the cardboard mount: Summer House at Mount Vernon, Restored by Contributions of the School Children of Louisiana, 1886. Copyrighted by Luke C. Dillon, Photographer to Mount Vernon, Office at Pullman's Gallery, 935 Penn. Avenue, Washington, D. C. A handwritten note on reverse reads, 'From Vice Regent La. [Louisiana] - Oct. 1950' </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                East lawn</dcterms:subject>
+   <dcterms:subject>p
+                                Summer house</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Cabinet cards</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004080</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll30/id/1271</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll30&amp;CISOPTR=1271</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

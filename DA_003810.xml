@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The Tomb of Washington. As it appeared May 14, 1859. </dcterms:title>
+   <dcterms:creator>Israel &amp; Riddle</dcterms:creator>
+   <dcterms:contributor>H. E. Hoyt &amp; Co. (bookseller)</dcterms:contributor>
+   <dcterms:created>1859-05-14</dcterms:created>
+   <dcterms:description>Salt paper print in original mount with lithographed decorative border, title and date all in gilt, with printed text: 'Gift No. 140. Tomb of Washington. As it appeared May 14th 1859. Photographed by Israel &amp; Riddle. Expressly for H. E. Hoyt &amp; Co., No. 41 Baltimore Street, Baltimore, Md.' View of Washington's tomb at Mount Vernon with wooden plank walk. Two men, with hats removed, face the tomb paying their respects. Issued as 'Gift No. 140' for purchase of a book from H. E. Hoyt &amp; Co.'s gift book store in Baltimore, Maryland. Gift book stores offered a prize with each purchased volume. Each book had a number or code on it corresponding to a random prize.  </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Tomb</dcterms:subject>
+   <dcterms:medium>Salted paper prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003810</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll30/id/1240</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll30&amp;CISOPTR=1240</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

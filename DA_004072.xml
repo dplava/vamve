@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Tomb of Washington, Mt. Vernon. </dcterms:title>
+   <dcterms:creator>Johnson, N. G. (Newton G.)</dcterms:creator>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:description>Cabinet card of Washington's tomb at Mount Vernon. Several people stand near the entrance. A label adhered to the back of the cardboard mount reads: Tomb of Washington, Mt. Vernon. The ante room to the Vault is about 12 feet square, and here are seen the Sarcophagi; the one on the right containing the remains of General Washington, and that on the left, those of Martha, his wife. It was built in accordance with the directions contained in Washington's will, to which his remains were removed in 1831. N. G. Johnson, Photographer, 426 7th St., Washington, D. C. Only authorized publisher of Mt. Vernon Views. A blue ink stamped text reads, "Copyright 1880 by the Mount Vernon Association." </dcterms:description>
+   <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>p
+                                Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:subject>p
+                                Visitors</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Card photographs</dcterms:medium>
+   <dcterms:medium>Cabinet cards</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004072</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll30/id/1280</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll30&amp;CISOPTR=1280</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
