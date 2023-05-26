@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Correspondence file, Hetty Harrison, Vice Regent for Virginia, 1924-1936</dcterms:title>
+   <dcterms:creator>Harrison, Hetty Cary, 1871-1943</dcterms:creator>
+   <dcterms:creator>Dodge, Harrison Howell, 1852-1937</dcterms:creator>
+   <dcterms:created>1924-1936</dcterms:created>
+   <dcterms:description>Correspondence file of Hetty Harrison, Vice Regent for Virginia, including letters to and from, date range 1924-1936. Letters mostly concern Mansion furnishings, wallpaper, and similar topics.</dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000201</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Papers of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll13/id/39</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll13&amp;CISOPTR=39</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Photograph, French President d'Estaing presents the Sound and Light program to President Ford and Mrs Cooke, May 19, 1976</dcterms:title>
+   <dcterms:creator>The Gazette Staff</dcterms:creator>
+   <dcterms:created>1976-05-19</dcterms:created>
+   <dcterms:description>Formal presentation of the Bicentennial gift of the French Republic to the United States at Mount Vernon - a sound and light production recounting some of the memorable events of the Revolution, from Patrick Henry's speech to the Battle of Yorktown as recollected by General Washington reflecting on the past after his retirement to Mount Vernon. French President d'Estaing presents the gift to President Ford who in turn gifted the production to Mount Vernon accepted by the Mount Vernon Ladies' Association Regent Mrs. Cooke. The program debuted that evening to hundreds of special guests in attendance for the outdoor event.</dcterms:description>
+   <dcterms:subject>p
+                                American Revolution Bicentennial, 1976</dcterms:subject>
+   <dcterms:medium>Photographic print</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_000225</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-RUU/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Papers of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll13/id/1</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll13&amp;CISOPTR=1</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

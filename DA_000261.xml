@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Mary Evarts to Anne Brown, with related clipping, March 13, 1920</dcterms:title>
+   <dcterms:creator>Evarts, Mary, 1854-1928</dcterms:creator>
+   <dcterms:created>1920-03-13</dcterms:created>
+   <dcterms:description>Letter from Mary Evarts, Vice Regent for Vermont, to Anne Brown, Vice Regent for Rhode Island, March 13, 1920. Mentions the visit of the Prince of Wales to Mount Vernon and encloses a clipping with a photograph of the Prince, superintendent Harrison Dodge, and Tomb guard Charles Simms at Washington's Tomb. Evarts also discusses the recent death of Amy Townsend, Vice Regent for New York, and the poor health of Elizabeth Pringle, Vice Regent for South Carolina.</dcterms:description>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000261</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Papers of the MVLA</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll13/id/10</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll13&amp;CISOPTR=10</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
