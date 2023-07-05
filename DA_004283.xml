@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Last will and testament, John Augustine Washington, 1784 June 22 </dcterms:title>
+   <dcterms:creator>Washington, John Augustine, 1736-1787</dcterms:creator>
+   <dcterms:created>1784-06-22</dcterms:created>
+   <dcterms:description>Last will and testament in the hand of John Augustine Washington who bequeaths his property, belongings and enslaved people amongst his wife, children (primarily sons Bushrod and Corbin), and grandchildren. Several enslaved people are specifically mentioned by name. He appoints "my beloved Wife Hannah Washington (during her widowhood and no longer) Executrix and my much esteamed Brother Genl. Washington, my sons Bushrod Washington and Corbin Washington Executors of this my last Will and Testament. An addition to the will by John Augustine Washington is made 1785 November 19. Autograph document signed, 4 pages. </dcterms:description>
+   <dcterms:subject>Washington, John Augustine, 1736-1787 -- Estate</dcterms:subject>
+   <dcterms:subject>Enslaved persons</dcterms:subject>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004283</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2407</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2407</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

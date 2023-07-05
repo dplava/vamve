@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, William Byrd to John Custis, enclosing copy of Daniel Parke's will, 1711 July 2  </dcterms:title>
+   <dcterms:creator>Byrd, William, 1674-1744</dcterms:creator>
+   <dcterms:contributor>Custis, John, 1678-1749</dcterms:contributor>
+   <dcterms:created>1711-07-02</dcterms:created>
+   <dcterms:description>William Byrd writes to his brother-in-law John Custis, enclosing a will of their father-in-law Daniel Parke (dated 1710 December 7) regarding inheritance to their wives Frances and Lucy, daughters of Daniel Parke. Autograph document signed, 3 pages. </dcterms:description>
+   <dcterms:subject>Parke, Daniel, 1664 or 1665-1710</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004444</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3311</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3311</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

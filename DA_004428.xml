@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Burwell Bassett, Jr. to Fanny Bassett Washington, 1794 August 17 </dcterms:title>
+   <dcterms:creator>Bassett, Burwell, 1764-1841</dcterms:creator>
+   <dcterms:contributor>Lear, Frances "Fanny" Bassett Washington, 1767-1796</dcterms:contributor>
+   <dcterms:created>1794-08-17</dcterms:created>
+   <dcterms:description>Eltham. Bettsy [wife?] has been very ill all summer, but has lately been revived by the copious use of wine and bark -- advises Fanny not to go to town in middle of summer, because of ague and fever -- brother John and family went up country to Mr. Robert Lewis's for their health -- Mrs. Lyons ill. Autograph letter signed, 2 pages, integral cover, docketed by Frances Washington, mutilated, laminated, watermark. Name on original manuscript appears as "Burwell Bassett." </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004428</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2566</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2566</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

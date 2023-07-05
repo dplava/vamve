@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Court record, acknowledgment of receipt of last will and testament of John Augustine Washington, 1787 July 31 </dcterms:title>
+   <dcterms:created>1787-07-31</dcterms:created>
+   <dcterms:description>At court held for Westmoreland County the 31st day of July 1787, the Will and Codicil made 1785 November 19 by John Augustine Washington and under the oath of executors Bushrod Washington and Corbin Washington along with William Augustine Washington was entered into and acknowledged bond with conditions as the law direct. Certificate is granted them for obtaining a probate. Signed by James Bland, C.W.C. and William Butler, D.C. and noted as 'A true Copy.' Autograph document signed, 1 page. </dcterms:description>
+   <dcterms:subject>Washington, John Augustine, 1736-1787 -- Estate</dcterms:subject>
+   <dcterms:medium>Legal documents</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004284</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2402</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2402</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

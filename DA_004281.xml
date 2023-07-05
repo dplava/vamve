@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Bushrod Washington to Hannah Washington, 1783 April 12 </dcterms:title>
+   <dcterms:creator>Washington, Bushrod, 1762-1829</dcterms:creator>
+   <dcterms:contributor>Washington, Hannah Bushrod, approximately 1738-1804</dcterms:contributor>
+   <dcterms:created>1783-04-12</dcterms:created>
+   <dcterms:description>Letter written from Philadelphia to his mother Hannah Washington. Expresses appreciation regarding a potential marriage proposal in which his parents advise against. Writes about his studies and eagerness to begin his professional career. Desires to have his portrait taken and after careful consideration between artists Charles Willson Peale and Henry Benbridge selects the latter to take his likeness - will have the portrait framed and sent to his mother. Speaks about interactions with Mrs. Powel. Autograph letter signed, 12 pages. </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004281</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2388</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2388</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, David Stuart to Timothy Pickering, 1806</dcterms:title>
+   <dcterms:creator>Stuart, David, 1753-1814</dcterms:creator>
+   <dcterms:contributor>Pickering, Timothy, 1745-1829</dcterms:contributor>
+   <dcterms:created>1806</dcterms:created>
+   <dcterms:description>Deals with two letters reputedly written by George Washington to [Thomas Jefferson] after the Mazzei letter [Thos. Jefferson to Philip Mazzei, Ap. 24, 1796; famous controversial letter, after which G.W. was said never to have written T.J. again]--Tobias Lear employed by Judge W-n to assort the General's papers, and letters now missing, plus a diary for important presidential years--[accuses no one, but implies Lear took them]--tries to reconcile General's statement [that he never wrote T.J. again after the Mazzei letter] with truth--congratulates Pickering on speech against embargo--mentions [John] Adams "lives a mournful spectacle of blind and courtly obedience to Presidential will." Autograph letter signed, 3 pages, with integral cover, [first part of letter missing], laminated. </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004403</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2286</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2286</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

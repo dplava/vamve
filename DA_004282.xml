@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Bushrod Washington to Hannah Washington, 1783 June 7 </dcterms:title>
+   <dcterms:creator>Washington, Bushrod, 1762-1829</dcterms:creator>
+   <dcterms:contributor>Washington, Hannah Bushrod, approximately 1738-1804</dcterms:contributor>
+   <dcterms:created>1783-06-07</dcterms:created>
+   <dcterms:description>Bushrod Washington writes to Hannah Washington, apologizing to his mother for not writing and thanking her for her letters. He writes about the summer heat and in an attempt to escape to country breezes befriends a family outside of the city. He inquires whether his mother has received a letter from Mrs. Powel [Elizabeth Willing Powel] and expresses his continued and growing affection for her and Mr. Powel. He mentions that Mrs. Powel can be quite frank with him especially his choice in 'cloaths' and replaced his newly acquired watch string with a more elaborate style. He will send his portrait [by Henry Benbridge] to her when it is safe to do so by water conveyance. He is quite proud of the painting and claims, "it is said by all who see it, to be amongst the finest pieces of painting in Philadelphia." It cost him £18.10. Autograph letter signed 4 pages.   </dcterms:description>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004282</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2399</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2399</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

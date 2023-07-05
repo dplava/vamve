@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Letter, Lawrence Lewis to George Corbin Washington, 1832 February 17 </dcterms:title>
+   <dcterms:creator>Lewis, Lawrence, 1767-1839</dcterms:creator>
+   <dcterms:contributor>Washington, George Corbin, 1789-1854</dcterms:contributor>
+   <dcterms:created>1832-02-17</dcterms:created>
+   <dcterms:description>Lawrence Lewis writes to George Corbin Washington regarding the remains of their uncle George Washington. Notes that 'Cousin John' - John Augustine Washington - refused to have Washington's remains disturbed despite the two houses of Congress desire to place them in the cellar (used for coal and wood) of the Capital which Lewis finds insulting. Mentions an already approved equestrian statue of Washington to be placed in a square as a better location under which to place Washington's remains. Expresses that the final movement of Washington to the new vault complied with their uncle's last expressed wish despite the public's claim that the remains belong to them and should be given upon demand. Autograph letter signed, 3 pages, with integral address panel. Postmarked - Alexandria 'Feb 17'. </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+   <dcterms:medium>Correspondence</dcterms:medium>
+   <dcterms:medium>Manuscript</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_004443</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historic Manuscript Collection </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3314</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3314</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
