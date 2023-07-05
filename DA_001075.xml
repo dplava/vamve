@@ -8,15 +8,17 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Survey, Part of Mount Vernon land, undated</dcterms:title>
    <dcterms:description>Document, docketed in George Washington's hand "Old Survey of no use," laminated, watermark (HM). Plat of 150 acres of land at mouth of Dogue Creek, conveyed by Wm. Spencer to Richard Osborn, later a part of Mount Vernon.</dcterms:description>
+   <dcterms:subject>Real Property</dcterms:subject>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:medium>Maps</dcterms:medium>
    <dcterms:medium>Land surveys</dcterms:medium>
-   <dcterms:type>image</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_001075</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/420</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=420</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/2996</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=2996</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>

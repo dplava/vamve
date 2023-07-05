@@ -8,7 +8,6 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Document, Lawrence Lewis issue of power of attorney to retrieve two escaped slaves, 1831 June 10</dcterms:title>
    <dcterms:creator>Lewis, Lawrence, 1767-1839</dcterms:creator>
-   <dcterms:contributor>Griggs, Thomas</dcterms:contributor>
    <dcterms:created>1831-06-10</dcterms:created>
    <dcterms:description>The son of George Washington's sister, Lawrence Lewis authorizes Thomas Griggs to bring back a slave named Shadrach and his brother Arlington who ran away separately from Lewis' farm near Battletown. Autograph document signed, 4 pages.</dcterms:description>
    <dcterms:subject>Fugitive slaves -- Virginia</dcterms:subject>
@@ -18,7 +17,7 @@
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/589</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=589</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3165</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3165</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>

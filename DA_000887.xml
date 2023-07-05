@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Lawrence Lewis's account against the Estate of the late General Washington, 1800-1802</dcterms:title>
+   <dcterms:created>1800</dcterms:created>
+   <dcterms:created>1801</dcterms:created>
+   <dcterms:created>1802</dcterms:created>
+   <dcterms:description>Lawrence Lewis's account of moneys received and expended from George Washington's death to 1802, including am't of cash in house at George Washington's death, amt. pd. doctors, money spent for cake at George Washington's funeral, expenses on his houses in Washington, taxes, payment of legacies, building vault, for whiskey furnished at sale at Mount Vernon; money received from purchases at sales was main income during the period. Autograph document, copy, docketed, in hand of L. Lewis, laminated. | Certified by Alexander Moore, Court Commissioner of Fairfax County, Va. | Papers of George Washington - Reel#5</dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799 -- Death and Burial</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799 -- Estate</dcterms:subject>
+   <dcterms:medium>Financial records</dcterms:medium>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:identifier>DA_000887</dcterms:identifier>
+   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3475</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3475</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

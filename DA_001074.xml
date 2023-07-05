@@ -8,19 +8,17 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Survey, Spencer Washington tract, 1690 September 18</dcterms:title>
    <dcterms:creator>Brent, George</dcterms:creator>
-   <dcterms:contributor>Spencer, Nicholasm, 1633-1689</dcterms:contributor>
-   <dcterms:contributor>Washington, John, 1633-1677</dcterms:contributor>
    <dcterms:created>1690-07-10</dcterms:created>
    <dcterms:description>Survey by George Brent of part of the land granted to Nicholas Spencer and John Washington On reverse is a transcript of the grant by Lord Culpeper to Spencer and Washington. See under date March 1, 1674</dcterms:description>
-   <dcterms:subject>Real Estate -- land grant</dcterms:subject>
+   <dcterms:subject>Real Property</dcterms:subject>
    <dcterms:medium>Land surveys</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
-   <dcterms:type>image</dcterms:type>
+   <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_001074</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/641</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=641</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3217</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3217</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
