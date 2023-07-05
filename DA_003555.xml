@@ -7,14 +7,12 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Rough Memorandum account of Lawrence Lewis, 1837-1839</dcterms:title>
-   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
-   <dcterms:contributor>Lewis, Lawrence, 1767-1839</dcterms:contributor>
    <dcterms:created>1837</dcterms:created>
    <dcterms:created>1838</dcterms:created>
    <dcterms:created>1839</dcterms:created>
    <dcterms:description>For hauling sarcophagus to Mount Vernon, paid hire of hack for Struthers and workmen to Mount Vernon to put up the same; clothing for Gabriel, "ditto for 1839 to 9th June when he died deduct his meal 7 bushels from his usual allowance to him for the half year", for coffin and digging grave, etc., with amounts given. Fragment. [See reverse for letter to Lewis from M. Snyder, dated 31 Dec. 1838, asking for taxes due on house]. Autograph document, 2 pages.</dcterms:description>
    <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
-   <dcterms:subject>Slaves</dcterms:subject>
+   <dcterms:subject>Enslaved persons</dcterms:subject>
    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
    <dcterms:medium>Financial records</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
@@ -22,7 +20,7 @@
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll20/id/241</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll20&amp;CISOPTR=241</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3564</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3564</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>

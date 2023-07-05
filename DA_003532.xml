@@ -7,8 +7,6 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Letter, William Yeaton to Lawrence Lewis, 1839 June 20</dcterms:title>
-   <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
-   <dcterms:contributor>Yeaton, William</dcterms:contributor>
    <dcterms:contributor>Lewis, Lawrence, 1767-1839</dcterms:contributor>
    <dcterms:created>1839-06-20</dcterms:created>
    <dcterms:description>About bricks for the new tomb -- Mr. Brockett's kiln in Alexandria. Autograph letter signed, 1 page, integral cover, watermark (R. Amies). Name on original manuscript appears as "W. Yeaton".</dcterms:description>
@@ -19,7 +17,7 @@
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
    <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll20/id/226</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll20&amp;CISOPTR=226</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll22/id/3549</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll22&amp;CISOPTR=3549</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
