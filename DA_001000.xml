@@ -10,15 +10,16 @@
    <dcterms:creator>Dandridge, Bartholomew Jr.</dcterms:creator>
    <dcterms:contributor>Washington, George, 1732-1799</dcterms:contributor>
    <dcterms:created>1793-09-30</dcterms:created>
-   <dcterms:description>A stock printed shipping bill on which is recorded in manuscript the arrival from London on board the ship George Barclay, John Collet master, one case containing a harpsichord to be delivered to His Excellency General George Washington, President of the United States. The document is signed at the bottom by Bartholomew Dandridge, Jr., one of Washington's nephews and secretaries. Washington bought the instrument for his wife's granddaughter Nelly (Eleanor Parke Custis) who played it at their residence in the capital city and then later at Mount Vernon. </dcterms:description>
+   <dcterms:description>A stock printed shipping bill on which is recorded in manuscript the arrival from London on board the ship George Barclay, John Collet master, one case containing a harpsichord to be delivered to His Excellency General George Washington, President of the United States. The document is signed at the bottom by Bartholomew Dandridge, Jr., one of Washington's nephews and secretaries. Washington bought the instrument for his wife's granddaughter Nelly (Eleanor Parke Custis) who played it at their residence in the capital city and then later at Mount Vernon.</dcterms:description>
    <dcterms:subject>Harpsichord</dcterms:subject>
+   <dcterms:medium>Financial records</dcterms:medium>
    <dcterms:medium>Bills of sale</dcterms:medium>
    <dcterms:type>Text</dcterms:type>
    <dcterms:identifier>DA_001000</dcterms:identifier>
    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
-   <dcterms:isPartOf>Historic Manuscript Collection</dcterms:isPartOf>
+   <dcterms:isPartOf>George Washington Collection</dcterms:isPartOf>
    <dcterms:language>English</dcterms:language>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll18/id/592</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll18&amp;CISOPTR=592</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll27/id/1902</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll27&amp;CISOPTR=1902</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
