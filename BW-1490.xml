@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Mount Vernon Superintendent Charles C. Wall on horseback, July 25, 1939</dcterms:title>
+   <dcterms:creator>Densmore, Walter C.</dcterms:creator>
+   <dcterms:contributor>Wall, Charles Cecil, 1903-1995</dcterms:contributor>
+   <dcterms:created>1939-07-25</dcterms:created>
+   <dcterms:description>Charles C. Wall, Resident Superintendent at Mount Vernon, on horseback on the Mansion circle with the bowling green in the distance.</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union--employees</dcterms:subject>
+   <dcterms:medium>Film negatives</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>BW-1490</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Mount Vernon Black and White Film Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/506</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=506</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
