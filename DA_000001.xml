@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Mount Vernon personnel in fire truck</dcterms:title>
+   <dcterms:creator>Williams, Morley Jeffers, 1886-1977</dcterms:creator>
+   <dcterms:contributor>Duvall, James Garfield</dcterms:contributor>
+   <dcterms:created>1931-09</dcterms:created>
+   <dcterms:description>Mount Vernon personnel James Garfield Duvall behind the wheel of the first fire truck parked on the circle courtyard, September 1931. The vehicle was donated to the Association by Henry Ford in 1923.</dcterms:description>
+   <dcterms:subject>Mount Vernon (VA : Estate)--fire equipment</dcterms:subject>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union--Employees</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_000001</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/56</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=56</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
