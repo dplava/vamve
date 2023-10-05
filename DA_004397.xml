@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>British Ambassador Sir Oliver Franks at Tree Planting Ceremony at Mount Vernon, April 22, 1949 </dcterms:title>
+   <dcterms:creator>Wide World Photos, inc.</dcterms:creator>
+   <dcterms:contributor>Franks, Oliver, Baron, 1905-1992</dcterms:contributor>
+   <dcterms:contributor>Harkness, Hope Hodgman Powel, 1889-1974</dcterms:contributor>
+   <dcterms:created>1949-04-22</dcterms:created>
+   <dcterms:description>Black and white photographic print of British Ambassador Sir Oliver Franks planting an apple tree in the lower garden at Mount Vernon. The Regent of the Mount Vernon Ladies' Association Mrs. Powel stands next to the tree planting with other guests in the background. A label adhered to the reverse of the print read: APPLE TREES--FOR FRIENDSHIP  Sir Oliver Franks (left center),  British Ambassador to the U.S., plants a small apple tree from England in a ceremony April 22 at Mount Vernon, George Washington's Estate in Virginia. With him is Mrs. Thomas Ives Hare-Powel (right center), Regent of Mt. Vernon Ladies' Association, standing in front of another of the young trees which she helped plant. She accepted the trees for the restored estate which is a national shrine. The trees came from the apple tree "Northern Greenling" in the garden of the Washington ancestral home at Sulgrave Manor, Northampshire, England, and were sent here as another mark of Anglo-American Friendship.  </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Lower Garden</dcterms:subject>
+   <dcterms:subject>Mount Vernon Ladies' Association</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_004397</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/592</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=592</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

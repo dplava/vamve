@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Delegates of the Republic of Liberia Centennial Commission at Bushrod Washington's Memorial at Mount Vernon, November 26, 1946 </dcterms:title>
+   <dcterms:contributor>Wall, Charles Cecil, 1903-1995</dcterms:contributor>
+   <dcterms:created>1946-11-26</dcterms:created>
+   <dcterms:description>Black and white photographic print of delegates of the Republic of Liberia Centennial Commission gathered around to place a wreath at the obelisk memorial to Bushrod Washington next to the tomb at Mount Vernon. It was the anniversary of the death of Bushrod Washington, and their pilgrimage commemorated the fact that Bushrod was the first president of the American Colonization Society, whose proteges founded Liberia. Mount Vernon's Resident Superintendent Charles C. Wall stands at far left. The photographer's stamp on the reverse reads: Please credit Turner, Jr. Specialized Photographer, U. S. and Foreign Distribution, 1934 - 11th St. N. W., Washington 1, D. C., U.S.A. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799 -- Tomb</dcterms:subject>
+   <dcterms:subject>Employees</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_004365</dcterms:identifier>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/562</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=562</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

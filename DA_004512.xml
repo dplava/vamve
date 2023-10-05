@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>President Syngman Rhee of Korea plants a tree, July 29, 1954 </dcterms:title>
+   <dcterms:creator>Rowe, Abbie, 1905-1967</dcterms:creator>
+   <dcterms:contributor>Rhee, Syngman, 1875-1965</dcterms:contributor>
+   <dcterms:contributor>Wall, Charles Cecil, 1903-1995</dcterms:contributor>
+   <dcterms:created>1954-07-29</dcterms:created>
+   <dcterms:description>Black and white photographic print of President Syngman Rhee preparing to plant three red maple trees, brought from Korea, in the botanical garden at Mount Vernon. Mount Vernon's Resident Superintendent Charles C. Wall (with bow tie) stands near President Rhee. Photographer's stamp on the reverse reads: This print may be reproduced on condition that the following credit line be used: "Photo by Abbie Rowe--Courtesy of National Park Service." </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Botanical Garden</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_004512</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/612</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=612</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
