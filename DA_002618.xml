@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>The Warner Brothers Filming at Mount Vernon, November 11, 1931</dcterms:title>
+   <dcterms:contributor>Warner Bros.</dcterms:contributor>
+   <dcterms:contributor>Whitehill, Clarence</dcterms:contributor>
+   <dcterms:contributor>Herbert, Alexander J.</dcterms:contributor>
+   <dcterms:contributor>Daigneau, Kenneth</dcterms:contributor>
+   <dcterms:created>1931-11-11</dcterms:created>
+   <dcterms:description>Black and white photograph of Warner Bros. filming "Washington: The Man and the Capital" at Mount Vernon. The film was created at the request of the District of Columbia George Washington Bicentennial Commission. This is a scene of George Washington (played by Clarence Whitehill), Alexander Hamilton (played by Alexander J. Herbert), James Madison (played by Kenneth Daigneau), Pierre L'Enfant and one other unidentified character gathered on the piazza discussing the location of the nation's capital.   </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Piazza</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002618</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/152</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=152</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Lloyd George and Party visit Tomb of George Washington, 1924 </dcterms:title>
+   <dcterms:creator>Harris &amp; Ewing</dcterms:creator>
+   <dcterms:contributor>George, David Lloyd, 1863-1945</dcterms:contributor>
+   <dcterms:contributor>Dodge, Harrison Howell, 1852-1937</dcterms:contributor>
+   <dcterms:contributor>Simms, Charles (tomb guard)</dcterms:contributor>
+   <dcterms:created>1924</dcterms:created>
+   <dcterms:description>Clipping of a black and white photograph. The caption reads: Lloyd George and his party at the Tomb of George Washington at Mount Vernon. At the right stands the faithful custodian, a direct descendant of one of Washington's slaves. The date 1924 is written in the bottom right corner, came from page 20 of an unknown publication. Photographed by Harris &amp; Ewing. </dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>DA_002610</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/148</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=148</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

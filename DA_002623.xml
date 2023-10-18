@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Governors' Conference Visiting Mount Vernon, April 28, 1932 </dcterms:title>
+   <dcterms:creator>Abbott, Harold T.</dcterms:creator>
+   <dcterms:created>1932-04-28</dcterms:created>
+   <dcterms:description>Black and white photograph of the Governors' Conference visiting Mount Vernon. The photograph is taken in front of Mount Vernon with the Governors' cars lined up on the Mansion circle. An excerpt from the 1932 MVLA Minutes (page 46) reads: On April 28th, came twenty-two of the Governors who had been attending the Conference in Richmond. They were led by Governor Pollard of Virginia. After the usual ceremony at the Tomb, laying a handsome floral piece at Washington's bier, and a speech by Governor Pinchot, the next move on the program was to be received at the Mansion by the Regent and shown the "points of interest." The photograph was donated by Mr. H. T. Abbott (Harold), June 1966. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002623</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/158</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=158</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

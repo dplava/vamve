@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Visitors at the Tomb, June 1859</dcterms:title>
+   <dcterms:creator>Walker, Lewis E. (Emory) - possible</dcterms:creator>
+   <dcterms:created>1859-06</dcterms:created>
+   <dcterms:description>Albumen print mounted to cardboard. View of the southwest corner of the tomb. Nine people stand and pose near the tomb entrance most notably is an unidentified man holding a hat and handkerchief and an African-American man holding onto the iron railing near one of the obelisks. The remaining visitors, which mostly appear to be African-American, include four women, two men and a child. Part of a series of three photographs taken the same day - see also 2019-VR-017.001 and 2019-VR-017.002</dcterms:description>
+   <dcterms:subject>Washington, George, 1732-1799--Tomb</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002552</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/233</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=233</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
