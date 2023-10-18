@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Regent and Vice Regents of the Mount Vernon Ladies' Association, 1870 </dcterms:title>
+   <dcterms:creator>Gardner, Alexander, 1821-1882</dcterms:creator>
+   <dcterms:contributor>Barry, Elizabeth Willard, 1814-1883</dcterms:contributor>
+   <dcterms:contributor>Walker, Letitia Morehead, 1823-1908</dcterms:contributor>
+   <dcterms:contributor>Washington, Ella Bassett, 1834-1898</dcterms:contributor>
+   <dcterms:contributor>Halsted, Nancy Marsh, 1817-1891</dcterms:contributor>
+   <dcterms:contributor>Emory, Matilda Bache, 1819-1900</dcterms:contributor>
+   <dcterms:contributor>Chace, Abby Wheaton Pearce</dcterms:contributor>
+   <dcterms:contributor>Mitchell, Martha Reed, 1818-1902</dcterms:contributor>
+   <dcterms:contributor>Brooks, Mary Cunningham Randolph, 1816-1882</dcterms:contributor>
+   <dcterms:contributor>Sweat, Margaret J.M. (Margaret Jane Mussey), 1823-1908</dcterms:contributor>
+   <dcterms:contributor>Cunningham, Ann Pamela, 1816-1875</dcterms:contributor>
+   <dcterms:contributor>Comegys, Margaret Douglass, 1816-1888</dcterms:contributor>
+   <dcterms:contributor>Eve, Philoclea Edgeworth Casey, 1813-1889</dcterms:contributor>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:description>Members of the Mount Vernon Ladies' Association pose for a photograph near the east front of the Mount Vernon Mansion. Left to right (standing): Mrs. Barry (Vice Regent for Illinois), Mrs. Walker (Vice Regent for North Carolina), Mrs. Washington (Vice Regent for West Virginia), Mrs. Halsted (Vice Regent for New Jersey), Mrs. Emory (Vice Regent for District of Columbia), Mrs. Chace (Vice Regent for Rhode Island). Left to right (seated): Mrs. Mitchell (Vice Regent for Wisconsin), Mrs. Brooks (Vice Regent for New York), Mrs. Sweat (Vice Regent for Maine), Miss Cunningham (Regent), Mrs. Comegys (Vice Regent for Delaware), Mrs. Eve (Vice Regent for Georgia). A handwritten caption below the photograph reads, 'Miss Cunningham seated in the chair.' </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>Albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004321</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/510</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=510</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

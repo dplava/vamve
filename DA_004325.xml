@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Celebration of Washington's Birthday at Mount Vernon, February 22, 1943 </dcterms:title>
+   <dcterms:contributor>Darden, Colgate W. (Colgate Whitehead), 1897-1981</dcterms:contributor>
+   <dcterms:contributor>Wallington, Jimmy</dcterms:contributor>
+   <dcterms:created>1943-02-22</dcterms:created>
+   <dcterms:description>Black and white photographic print of Virginia Governor Colgate Darden and Jimmy Wallington - announcer for the U. S. Treasury Department on the piazza at Mount Vernon. Wallington is speaking into microphones and Virginia students stand nearby to hear the broadcast presenting the patriotic activities of public schools of Virginia as part of the celebration of Washington birthday. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Washington's Birthday</dcterms:subject>
+   <dcterms:subject>Mansion</dcterms:subject>
+   <dcterms:subject>Piazza</dcterms:subject>
+   <dcterms:subject>Visitors</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004325</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/512</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=512</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
