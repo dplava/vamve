@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>President Woodrow Wilson at Washington's tomb, July 4, 1918</dcterms:title>
+   <dcterms:creator>Bain News Service</dcterms:creator>
+   <dcterms:created>1918-07-04</dcterms:created>
+   <dcterms:description>On July 4, 1918, President Wilson brought more than 50 foreign-born citizens of the United States on the presidential yacht, the Mayflower. Each participant presented a handsome wreath decorated with the colors of his former nation. All were placed in and around George Washington’s Tomb. Some 20,000 people attended the event.</dcterms:description>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_001300</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/1</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=1</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
