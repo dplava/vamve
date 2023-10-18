@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Royal Midgets at Mount Vernon, c. 1890</dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:publisher>Luke Dillon, Photographer to Mount Vernon, Washington D. C. Office 935 Penn. Avenue, Pullman's Gallery</dcterms:publisher>
+   <dcterms:created>1889/1891</dcterms:created>
+   <dcterms:description>Group of visitors posing on the southeast lawn, c. 1890. A note on the back identifies the group as "Royal Midgets" and includes the preprinted instructions for ordering an image from the photographer: Order for duplicates of Photographic Groups, taken at Mount Vernon, can be had by stating the day of the month and the number of the Group. Luke C. Dillon, Photographer to Mount Vernon, Office at Pullman's Gallery, 935 PA. AVE, P.O. Box 655, Washington City, D.C. Cardboard mount has been trimmed. </dcterms:description>
+   <dcterms:subject>Visitors</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003237</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/261</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=261</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

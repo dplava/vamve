@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Lawrence C. Campbell and Mrs. Horace Mann Towner at the Christening of the S. S. Mount Vernon, May 16, 1940 </dcterms:title>
+   <dcterms:creator>Ankers, F. L.</dcterms:creator>
+   <dcterms:contributor>Towner, Harriet C. (Harriet Cole), 1869-1942</dcterms:contributor>
+   <dcterms:created>1940-05-16</dcterms:created>
+   <dcterms:description>Black and white photograph of Lawrence C. Campbell of the Wilson Line standing next to Mrs. Horace Mann Towner (Harriet Elizabeth Cole), Regent for the Mount Vernon Ladies' Association, holding a bouquet of roses at the christening of the S. S. Mount Vernon at the Mount Vernon wharf. The newest excursion boat for the Wilson Line traveled from Washington, D. C. and made stops at Mount Vernon and Marshall Hall. Able to carry 2,400 passengers the boat also featured innovations which included an air conditioned dance floor and refreshment stands. The photograph is by F. L. Ankers. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Wharf</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002668</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/208</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=208</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
