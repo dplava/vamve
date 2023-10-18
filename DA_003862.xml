@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Crown Princess Juliana Visits Mt. Vernon with First Lady Eleanor Roosevelt, December 18, 1940  </dcterms:title>
+   <dcterms:creator>Acme Newspictures (New York, N.Y.)</dcterms:creator>
+   <dcterms:contributor>Juliana, Queen of the Netherlands, 1909-2004</dcterms:contributor>
+   <dcterms:contributor>Roosevelt, Eleanor, 1884-1962</dcterms:contributor>
+   <dcterms:contributor>Towner, Harriet C. (Harriet Cole), 1869-1942</dcterms:contributor>
+   <dcterms:created>1940-12-18</dcterms:created>
+   <dcterms:description>Black and white photographic print, press photo, of Princess Juliana of the Netherlands on the Mansion circle near the west front of the Mansion. She is accompanied by First Lady Eleanor Roosevelt (left) and Mrs. Horace Mann Towner, Regent of the Mount Vernon Ladies' Association, December 18, 1940. Photograph by Acme Newspictures, Washington Bureau. A typed caption on a separate piece of paper has been adhered to the reverse: W-4301/Acme Photo/Washington Bureau. Crown Princess Juliana Visits Mt. Vernon with Mrs. FDR. Mt. Vernon, Va,--Crown Princess Juliana of the Netherlands during her stay at the White House visited Mt. Vernon, the home of George Washington, Dec. 18th., accompanied by Mrs. Franklin D. Roosevelt. Pictured on the lawn with Washington's Mansion in the background are, left to right: Mrs. Roosevelt; Crown Princess Juliana and Mrs. Horace Mann Towner, Regent of he Mt. Vernon Ladies' Association. </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003862</dcterms:identifier>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/463</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=463</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

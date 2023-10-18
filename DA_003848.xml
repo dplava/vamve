@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>King and Queen of the Belgians in the Upper Garden, October 29, 1919 </dcterms:title>
+   <dcterms:creator>National Pictorial News</dcterms:creator>
+   <dcterms:contributor>Marshall, Thomas R. (Thomas Riley), 1854-1925</dcterms:contributor>
+   <dcterms:contributor>Elisabeth, Queen, consort of Albert I, King of the Belgians, 1876-1965</dcterms:contributor>
+   <dcterms:contributor>Albert I, King of the Belgians, 1875-1934</dcterms:contributor>
+   <dcterms:contributor>Foster, Victorine Du Pont, 1849-1934</dcterms:contributor>
+   <dcterms:contributor>Townsend, Amy Cornell</dcterms:contributor>
+   <dcterms:created>1919-10-29</dcterms:created>
+   <dcterms:description>Black and white photographic print of members of the royal party in the upper garden. In the foreground from left to right are: Vice President Thomas R. Marshall (back turned to camera); Queen Elisabeth, consort of Albert I; Mrs. Foster, Vice Regent for Delaware; Miss Townsend, Vice Regent for New York; and Albert I, King of the Belgians. The photographer's stamp appears on the reverse. A handwritten caption (by Harrison Dodge) reads: 'V. P. Marshall, Queen, Mrs. Foster (V.R. Del), Miss Townsend (V.R. N.Y.) and King Albert. Back &amp; beyond the king appears Crown Prince Leopold (with "oversea" cap)' </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Upper Garden</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003848</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/451</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=451</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

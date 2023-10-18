@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Prince of Wales Planting Tree at Mount Vernon, November 13, 1919</dcterms:title>
+   <dcterms:creator>National Pictorial News</dcterms:creator>
+   <dcterms:contributor>Windsor, Edward, Duke of, 1894-1972</dcterms:contributor>
+   <dcterms:contributor>Dodge, Harrison Howell, 1852-1937</dcterms:contributor>
+   <dcterms:contributor>Simms, Charles</dcterms:contributor>
+   <dcterms:created>1919-11-13</dcterms:created>
+   <dcterms:description>Black and white photographic print of the Prince of Wales planting a tree (English Yew) at Mount Vernon. Mount Vernon's Resident Superintendent stands at far left, Charles Simms guard at the tomb (African American man) stands nearby. The Prince is bent over digging and is assisted by a crouched member of his party. The photograph has been adhered to a cardboard mount. A handwritten caption reads: 'Prince of Wales planting tree at Mount Vernon - Note Marines (extreme right) standing at "present arms" - and indicating spacious area reserved around tomb for the Prince and his escort - (see old Charles' bored expression). Note: Photograph must not be syndicated, rented, or loaned, or used or advertising purposes.' </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003860</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/459</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=459</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

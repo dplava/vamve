@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Prince Tokugawa and the Committee of Red Cross of Japan at Mount Vernon, July 18, 1918 </dcterms:title>
+   <dcterms:contributor>Tokugawa, Iesato, 1863-1940</dcterms:contributor>
+   <dcterms:contributor>Dodge, Harrison Howell, 1852-1937</dcterms:contributor>
+   <dcterms:created>1918-07-18</dcterms:created>
+   <dcterms:description>Black and white photographic print of Prince Tokugawa and the Committee of Red Cross of Japan gathered on the piazza at Mount Vernon, July 18, 1918. Mount Vernon's Resident Director Harrison H. Dodge, dressed in a white suit, stands in the center of the group. A note on the reverse indicates the visit was coordinated by 'Mr. Davison [Henry P. Davison], Head of American Red Cross.' </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Piazza</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003844</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/449</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=449</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

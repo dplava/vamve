@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Serbian Mission at Mount Vernon, January 6, 1918 </dcterms:title>
+   <dcterms:creator>Daniels, Josephus, 1862-1948 (author)</dcterms:creator>
+   <dcterms:contributor>Vesnić, Milenko, 1863-1921</dcterms:contributor>
+   <dcterms:contributor>Lansing, Robert, 1864-1928</dcterms:contributor>
+   <dcterms:publisher>Judd &amp; Detweiler</dcterms:publisher>
+   <dcterms:created>1918-01-06</dcterms:created>
+   <dcterms:description>Published image of the Serbian Mission's visit to Mount Vernon. Taken from "Addresses at the Tomb of Washington by the Special Missions from France, England, Italy, Russia, Belgium, Japan, Serbia, 1917-1918," by Josephus Daniels. Amongst the group are Milenko Vesnić ('Vesnitch' in French), head of the Serbian Mission standing in the foreground, wearing a top hat and hold a cane. To his left is Secretary of State Robert Lansing also wearing a top hat. The two are surrounded by members of the mission standing on the Mansion's piazza. Snow covers the ground.  </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Book illustrations</dcterms:medium>
+   <dcterms:medium>Photomechanical prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_003840</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/441</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=441</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

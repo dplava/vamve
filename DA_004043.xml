@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Visit of Lord Tweedsmuir, the Governor General of Canada, March 31, 1937 </dcterms:title>
+   <dcterms:contributor>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</dcterms:contributor>
+   <dcterms:contributor>Dodge, Harrison Howell, 1852-1937</dcterms:contributor>
+   <dcterms:created>1937-03-31</dcterms:created>
+   <dcterms:description>Black and white photographic print of visitors and President Franklin D. Roosevelt's car near the west front of the Mansion at Mount Vernon during the visit of Lord Tweedsmuir of Canada. While Lord Tweedsmuir and his party tour the Mansion, President Roosevelt and Mount Vernon's Superintendent Harrison Dodge visit in the back of the vehicle. Lord Tweedsmuir, the Governor General of Canada, and Lady Tweedsmuir arrived at Mount Vernon by yacht, where they were met by President and Mrs. Roosevelt. The President’s log for the day shows that he and Mrs. Roosevelt were at Mount Vernon that day in the afternoon. Press photo.  </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:subject>Buchan, John, 1875-1940</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_004043</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/493</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=493</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

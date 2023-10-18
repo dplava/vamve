@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Home of Washington, Mount Vernon, Va. </dcterms:title>
+   <dcterms:creator>Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:created>1890-11-29</dcterms:created>
+   <dcterms:description>Brazilian naval officers visited Mount Vernon on November 29, 1890 arriving on the USS Dispatch. According to several newspaper accounts, Mr. S. A. Brown represented the State Department, Capt. Cowles and Lieut. Mason represented Secretary of the Navy Benjamin Tracy. The guests also included Minister Valente of Brazil and his staff and a number of Federal officials with ladies. Also in attendance was Ye Cha Yun, Secretary of the Korean Legation. The Marine Band was present. One of the incidents of the trip was a sumptuous luncheon. When the party reached the tomb they were surprised to see prominently displayed an exceedingly beautiful floral piece five feet in height, the center which was a facsimile of the Brazilian flag, under which was inscribed in letters of white immortelles, "In Memory of the Great Washington from the Navy of Brazil." </dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:medium>albumen prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003885</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/485</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=485</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
