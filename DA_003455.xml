@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Centennial Celebration of the Mount Vernon Ladies' Association, October 24, 1953 </dcterms:title>
+   <dcterms:contributor>Harkness, Hope Hodgman Powel, 1889-1974</dcterms:contributor>
+   <dcterms:contributor>Isham, Elizabeth Totten</dcterms:contributor>
+   <dcterms:contributor>Tyler, Constance Ellen, 1911-1963</dcterms:contributor>
+   <dcterms:contributor>Burdick, Alison Ward, 1912-2007</dcterms:contributor>
+   <dcterms:contributor>Lamont, Elinor Miner, 1901-1972</dcterms:contributor>
+   <dcterms:contributor>Sullivan, Priscilla Manning, 1911-1994</dcterms:contributor>
+   <dcterms:created>1953-10-24</dcterms:created>
+   <dcterms:description>Members of the Mount Vernon Ladies' Association form a reception line in the new room to welcome guests to their centennial celebration. From left to right: Mrs. Gary; Guest(?); Guest (?); Mrs. Harkness, Regent of the Mount Vernon Ladies' Association; Guest (?); Mrs. Isham, Vice Regent for Illinois; Miss Tyler, Vice Regent for District of Columbia; Mrs. Burdick (becomes Vice Regent for Delaware 1961); Mrs. Lamont, Vice Regent for New York; Mrs. Sullivan, Vice Regent for New Hampshire; and Mrs. Christopher Ward. </dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union -- Anniversaries, etc.</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003455</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/301</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=301</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Centennial Celebration of the Mount Vernon Ladies' Association, October 24, 1953 </dcterms:title>
+   <dcterms:contributor>Wall, Charles Cecil, 1903-1995</dcterms:contributor>
+   <dcterms:contributor>Battle, John Stewart, 1890-1972</dcterms:contributor>
+   <dcterms:contributor>Harkness, Hope Hodgman Powel, 1889-1974</dcterms:contributor>
+   <dcterms:contributor>Cabot, Nancy Graves, 1889-1969</dcterms:contributor>
+   <dcterms:contributor>Beirne, Rosamond Randall, 1894-1969</dcterms:contributor>
+   <dcterms:contributor>Moore, Susan Rutledge, 1906-1987</dcterms:contributor>
+   <dcterms:contributor>Platt, Page Anderson, 1899-1984</dcterms:contributor>
+   <dcterms:created>1953-10-24</dcterms:created>
+   <dcterms:description>Members of the Mount Vernon Ladies' Association form a reception line in the new room to welcome guests to their centennial celebration. From left to right: Charles C .Wall, Resident Superintendent (turned away from camera);  John S. Battle, Governor of Virginia; Mrs. Harkness, Regent of the Mount Vernon Ladies' Association; Mrs. Cabot, Vice Regent for Massachusetts; Mrs. Beirne, Vice Regent for Maryland; Guest (?); Mrs. Moore, Vice Regent for South Carolina; and Mrs. Platt, Vice Regent for Pennsylvania. </dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union -- Anniversaries, etc.</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003456</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/302</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=302</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
