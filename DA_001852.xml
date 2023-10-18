@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>President George H. W. Bush and King Hussein of Jordan at Mount Vernon, April 19, 1989</dcterms:title>
+   <dcterms:creator>White House (Washington, D.C.)</dcterms:creator>
+   <dcterms:contributor>Bush, George H. W. (George Herbert Walker), 1924-2018</dcterms:contributor>
+   <dcterms:contributor>Hussein, King of Jordan, 1935-1999</dcterms:contributor>
+   <dcterms:created>1989-04-19</dcterms:created>
+   <dcterms:description>President Bush and King Hussein of Jordan pose for pictures on the east lawn during a visit to Mount Vernon on April 19, 1989. </dcterms:description>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_001852</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/50</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=50</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

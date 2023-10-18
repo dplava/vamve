@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Korean Minister and Secretaries of Legation at Mount Vernon, 1889</dcterms:title>
+   <dcterms:creator>Possibly - Dillon, Luke C., 1836-1904</dcterms:creator>
+   <dcterms:created>1889-05-06</dcterms:created>
+   <dcterms:description>Black and white photograph of the Korean Minister and party with Secretaries of Legation on the east lawn in front of the Mansion, May 6, 1889. From left to right: Ye Ha Yong (Chargé d’affaires of Korean Legation in Washington D.C. from 1888.11~1889.06), Mrs. Ye Cha Yun, Ye Cha Yun (Second Secretary of Legation), Ye Wan Yong (First Secretary of Legation; later became Chargé d’affaires of Korean Legation in Washington D. C. from 1889.06~1890.09), and Mrs. Ye Wan Yong. The south porch and balustrade are visible as well as visitors in the background. The photograph is adhered to a cardboard mount with a handwritten description below. On the reverse is an unrelated photograph of the Prince Philippe of Orléans, Count of Paris  - see separate record (DA_001798).</dcterms:description>
+   <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Still image</dcterms:type>
+   <dcterms:identifier>DA_001799</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection </dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/23</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=23</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

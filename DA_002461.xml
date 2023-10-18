@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>George Ford, Februray 18, 1929</dcterms:title>
+   <dcterms:creator>Kaessinger, Charles H.</dcterms:creator>
+   <dcterms:created>1929-02-18</dcterms:created>
+   <dcterms:description>Black and white photograph (2 11/16 in. x 4 3/8 in.) of George Ford at Washington's tomb. George Ford was employed by the Mount Vernon Ladies' Association and was a guard at the tomb from 1924-1935. The photograph was taken by Charles H. Kaessinger on February 18, 1929 while on his honeymoon at Mount Vernon with his new wife, Mae Helwig.</dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union -- Employees</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002461</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/93</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=93</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

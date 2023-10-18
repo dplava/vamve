@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Reception of the President [Hayes] &amp; Lady at Mt. Vernon on evening of Saturday, June 18th 1878</dcterms:title>
+   <dcterms:creator>McDermott, Charlie</dcterms:creator>
+   <dcterms:created>1878-06-18</dcterms:created>
+   <dcterms:description>Pencil sketch on paper, by Mr. (Charlie) McDermott portraying visit of President Rutherford B. Hayes and first lady Mrs. Hayes at the wharf landing at Mount Vernon. Also portrayed are the artist Mr. McDermott and Susan E. J. Hudson, Vice Regent for New York. A handwritten note on the reverse by Mrs. Hudson (Vice Regent for Connecticut) notes, "Unexpected visit of Pres. &amp; Mrs. Hays (sp) at Mt. Vernon while Mrs. Halstead (Vice Regent for New Jersey) and I was there on committee work. S. E. J. Hudson, June 18-1878." She also notes that the cats and dog followed us on my walk. </dcterms:description>
+   <dcterms:subject>Hayes, Rutherford B., 1822-1893</dcterms:subject>
+   <dcterms:subject>Hayes, Lucy Webb, 1831-1889</dcterms:subject>
+   <dcterms:subject>Hudson, Susan Edwards Johnson</dcterms:subject>
+   <dcterms:medium>Drawings (visual works)</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_002483</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/99</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=99</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
