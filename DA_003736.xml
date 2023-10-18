@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Linton Deavers with the Houdon Bust of George Washington </dcterms:title>
+   <dcterms:creator>Providence Journal Company</dcterms:creator>
+   <dcterms:contributor>Deavers, Linton</dcterms:contributor>
+   <dcterms:created>1956</dcterms:created>
+   <dcterms:description>Photographic print of head guard Linton Deavers admiring Jean-Antoine Houdon's 1785 bust of George Washington on display in the museum at Mount Vernon. Photograph taken for an 1956 article in the Providence Sunday Journal. </dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union--Employees</dcterms:subject>
+   <dcterms:subject>Museum</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003736</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/390</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=390</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

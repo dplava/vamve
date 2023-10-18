@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>William H. Burgess </dcterms:title>
+   <dcterms:creator>Leet Bros.</dcterms:creator>
+   <dcterms:contributor>Burgess, William H., 1816-1893</dcterms:contributor>
+   <dcterms:created>1890?</dcterms:created>
+   <dcterms:description>Photographic print of William H. Burgess standing under the colonnade at Mount Vernon, c. 1890. Burgess was a bricklayer who worked on multiple projects for the Mount Vernon Ladies' Association from 1885-1893 including repairs to the tomb, Mansion foundation, and deer park wall. A note from Harrison H. Dodge written in pencil on the reverse reads: W. H. Burgess who (when apprentice bricklayer aged 18) helped build the New Tomb at Mt. Vernon, and was present (April 19, 1831) when all remains in the Old Tomb were transferred to the New. He then saw Washington's face when the leaden casket was opened by the family -- I wish to attest the adjoining statement concerning Burgess for I heard it from his own lips many, many times when he was employed by me on repair work at Mt. Vernon from 1885-1893. Harrison H. Dodge, Supt. Mt. Vernon, March 31, 1897. An additional note: I attest the truth of the above statement, Jas. [James] Young, Asst. Supt., May 16, 1926. The photographer's stamp appears on the reverse. </dcterms:description>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003676</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/341</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=341</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

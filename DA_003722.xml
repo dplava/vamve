@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Guards at Mount Vernon - hats off, July 31, 1933 </dcterms:title>
+   <dcterms:creator>Schneckenburger, Martin G., 1884-1950</dcterms:creator>
+   <dcterms:contributor>Lacey, Fred</dcterms:contributor>
+   <dcterms:contributor>Simms, Walter</dcterms:contributor>
+   <dcterms:contributor>Ayres, Tom</dcterms:contributor>
+   <dcterms:contributor>Collins, Howard</dcterms:contributor>
+   <dcterms:contributor>Rogers, Manuel</dcterms:contributor>
+   <dcterms:contributor>McCalley, Charles</dcterms:contributor>
+   <dcterms:contributor>Deavers, Linton</dcterms:contributor>
+   <dcterms:contributor>Permar, William Jones, 1856-1940</dcterms:contributor>
+   <dcterms:contributor>Costello, Ernest</dcterms:contributor>
+   <dcterms:created>1933-07-31</dcterms:created>
+   <dcterms:description>Photographic print of the guard force at Mount Vernon standing on the stairs to the Mansion's west front central passage with their hats removed. Front row, left to right: Fred Lacey, Walter Simms, Tom Ayres, Howard Collins. Back row, left to right: Manuel Rogers, Charles McCalley, Linton Deavers, William Permar, Ernest Costello. Photographer's stamp appears on the reverse. Dated 'August 1933' - log book lists date as July 31, 1933. </dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union--Employees</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003722</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/375</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=375</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

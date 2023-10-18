@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Mount Vernon Regent and Staff</dcterms:title>
+   <dcterms:creator>Providence Journal Company</dcterms:creator>
+   <dcterms:contributor>Harkness, Hope Hodgman Powel, 1889-1974</dcterms:contributor>
+   <dcterms:contributor>Fisher, Robert B.</dcterms:contributor>
+   <dcterms:contributor>Wall, Charles Cecil, 1903-1995</dcterms:contributor>
+   <dcterms:contributor>Densmore, Walter C.</dcterms:contributor>
+   <dcterms:contributor>Bear, Nancy</dcterms:contributor>
+   <dcterms:contributor>Rouse, Harrison Dodge</dcterms:contributor>
+   <dcterms:contributor>Barnwell, Edward</dcterms:contributor>
+   <dcterms:contributor>Sutliff, Shirley</dcterms:contributor>
+   <dcterms:contributor>Tindall, Joyce</dcterms:contributor>
+   <dcterms:created>1956</dcterms:created>
+   <dcterms:description>Photographic print of Regent of the Mount Vernon Ladies' Association (seated) surrounded by Mount Vernon staff. Left to right: Robert B. Fisher, Frank Morse (hidden), Edward Barnwell, Joyce Tindall; Harry (Harrison) Rouse, Shirley Sutliff, Mr. Brockman (partially visible), Nancy Bear, Walter Densmore, Charles C. Wall. </dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union--Employees</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003739</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/388</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=388</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>

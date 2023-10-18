@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:title>Col. H. H. Dodge &amp; Mary Butler's police dog Bruce and typescript description of visit</dcterms:title>
+   <dcterms:creator>Lowther, Minnie Kendall, 1869-1947</dcterms:creator>
+   <dcterms:contributor>Dodge, Harrison Howell, 1852-1937</dcterms:contributor>
+   <dcterms:created>1931/1934-05-20</dcterms:created>
+   <dcterms:description>Photographic print of the Mount Vernon Ladies' Association resident superintendent Harrison H. Dodge standing on the causeway at the Mount Vernon wharf. Next to Dodge is a German Shepherd named Bruce. A handwritten note on the reverse reads, 'Col. H. H. Dodge and Mary Butler's police dog, Bruce; taken at Mt. Vernon Wharf 1931 with Minnie Kendall Lowther's Kodak. For Mount Vernon.' Accompanying the photograph is a typescript account written by Minnie Kendall Lowther on May 20, 1934 arriving by boat on a Sunday afternoon. The photograph is referenced as a visual that a visitor, traveling by water, might encounter when arriving at Mount Vernon. In December 1933, the Association made the decision to offer Sunday hours. On May 20, 1934, the steamboat (closed during winter months) offered its first transport on a Sunday as narrated by the author.  </dcterms:description>
+   <dcterms:subject>Mount Vernon Ladies' Association of the Union--Employees</dcterms:subject>
+   <dcterms:subject>Wharf</dcterms:subject>
+   <dcterms:medium>Photographic prints</dcterms:medium>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:identifier>DA_003680</dcterms:identifier>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
+   <dcterms:language>English</dcterms:language>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll31/id/338</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll31&amp;CISOPTR=338</edm:preview>
+   <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
+</mdRecord>
