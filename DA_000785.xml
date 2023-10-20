@@ -6,18 +6,17 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Mount Vernon Mansion, cupola</dcterms:title>
-   <dcterms:creator>Schneckenburger, Martin G., 1884-1950</dcterms:creator>
-   <dcterms:created>1933</dcterms:created>
-   <dcterms:description>Black and white vertical image of the Mansion's cupola. Image is adhered to thicker material.</dcterms:description>
+   <dcterms:title>Mount Vernon Mansion restoration</dcterms:title>
+   <dcterms:creator>Fisher, Robert B.</dcterms:creator>
+   <dcterms:created>1957</dcterms:created>
+   <dcterms:description>Color photograph, close-up image of the Mansion's east facade during repainting. A note to superintendent Mr. Wall from Robert Fisher describing the photo appears on the reverse.</dcterms:description>
    <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
    <dcterms:subject>Mansion exterior</dcterms:subject>
    <dcterms:medium>Photographic prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
-   <dcterms:identifier>DA_000774</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:identifier>DA_000785</dcterms:identifier>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/640</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=640</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/602</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=602</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
