@@ -6,18 +6,17 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-   <dcterms:title>Mount Vernon Mansion, west front, 1937</dcterms:title>
-   <dcterms:creator>Johnston, Frances Benjamin, 1864-1952</dcterms:creator>
-   <dcterms:created>1937</dcterms:created>
-   <dcterms:description>Black and white horizontal image of the Mansion's west front, taken from the bowling green.</dcterms:description>
+   <dcterms:title>Copy photograph of the Mount Vernon estate, east lawn</dcterms:title>
+   <dcterms:creator>Fisher, Robert B.</dcterms:creator>
+   <dcterms:created>1901</dcterms:created>
+   <dcterms:description>Black and white horizontal image of the estate's east lawn, taken from the southeast corner in 1901. Copy of a panoramic photograph taken in two parts - see BW-3247/a. Copy photograph made in 1952.</dcterms:description>
    <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
-   <dcterms:subject>Mansion exterior</dcterms:subject>
+   <dcterms:subject>East Lawn</dcterms:subject>
    <dcterms:medium>Photographic prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
-   <dcterms:identifier>DA_000347</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:identifier>DA_000383</dcterms:identifier>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/190</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=190</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/355</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=355</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
