@@ -8,11 +8,10 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Mount Vernon Mansion, west front, c. 1861-1873</dcterms:title>
    <dcterms:creator>Unknown</dcterms:creator>
-   <dcterms:created>1861/1873</dcterms:created>
+   <dcterms:created>1861-1873</dcterms:created>
    <dcterms:description>Black and white horizontal image of the Mansion's west front, taken from the bowling green. South colonnade is missing. Text on back reads: 'Gift 2004 VR of CT.'</dcterms:description>
    <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
-   <dcterms:subject>p
-                                Mansion exterior</dcterms:subject>
+   <dcterms:subject>Mansion exterior</dcterms:subject>
    <dcterms:medium>Card photographs</dcterms:medium>
    <dcterms:medium>Photographic prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>

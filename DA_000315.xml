@@ -8,9 +8,10 @@
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Mount Vernon Mansion, west front</dcterms:title>
    <dcterms:creator>Schneckenburger, Martin G., 1884-1950</dcterms:creator>
-   <dcterms:created>1933</dcterms:created>
+   <dcterms:created>1933-7</dcterms:created>
    <dcterms:description>Black and white horizontal image of the Mansion's west front, taken from the bowling green.</dcterms:description>
    <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
+   <dcterms:subject>Mansion exterior</dcterms:subject>
    <dcterms:medium>Photographic prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
    <dcterms:identifier>DA_000315</dcterms:identifier>
