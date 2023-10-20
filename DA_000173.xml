@@ -7,17 +7,15 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:title>Mount Vernon Mansion, west front</dcterms:title>
-   <dcterms:creator>Abbott, Harold T.</dcterms:creator>
-   <dcterms:created>1935-11-15</dcterms:created>
-   <dcterms:description>Black and white photograph of the west front of the Mansion.  Text on back reads: 'From Harold Abbott, June 1966. Print of his photograph prior to November 15, 1935. Note the two splendid old elms which stand on each side of the North Lane between the Gardener's House and the office.'</dcterms:description>
+   <dcterms:creator>Chamberlain, Samuel V., 1895-1975</dcterms:creator>
+   <dcterms:description>Black and white vertical image of the Mansion's west front, shot from the north colonnade. Photographer's stamp appears on reverse.</dcterms:description>
    <dcterms:spatial>Mount Vernon (Va. : Estate)</dcterms:spatial>
    <dcterms:subject>Mansion exterior</dcterms:subject>
    <dcterms:medium>Photographic prints</dcterms:medium>
    <dcterms:type>Image</dcterms:type>
-   <dcterms:identifier>DA_000132</dcterms:identifier>
-   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:identifier>DA_000173</dcterms:identifier>
    <dcterms:isPartOf>Historical Photograph Collection</dcterms:isPartOf>
-   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/38</edm:isShownAt>
-   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=38</edm:preview>
+   <edm:isShownAt>http://cdm16829.contentdm.oclc.org/cdm/ref/collection/p16829coll28/id/106</edm:isShownAt>
+   <edm:preview>http://server16829.contentdm.oclc.org/cgi-bin/thumbnail.exe?CISOROOT=/p16829coll28&amp;CISOPTR=106</edm:preview>
    <dcterms:provenance>George Washington's Mount Vernon</dcterms:provenance>
 </mdRecord>
